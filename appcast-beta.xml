@@ -4,12 +4,12 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 23 Mar 2026 22:27:47 +0000</pubDate>
-            <sparkle:version>446</sparkle:version>
+            <pubDate>Mon, 23 Mar 2026 23:02:45 +0000</pubDate>
+            <sparkle:version>448</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.446/cortina-1.0-beta.446.dmg" length="18101458" type="application/octet-stream"/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.448/cortina-1.0-beta.448.dmg" length="18138992" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
