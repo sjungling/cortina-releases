@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 06 Apr 2026 20:25:39 -0700</pubDate>
-            <sparkle:version>579</sparkle:version>
+            <pubDate>Wed, 08 Apr 2026 13:06:40 -0700</pubDate>
+            <sparkle:version>586</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -282,9 +282,9 @@
 <li>ci: generate Sparkle release notes for beta builds by @sjungling in <a href="https://github.com/sjungling/cortina/pull/170">https://github.com/sjungling/cortina/pull/170</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.579">https://github.com/sjungling/cortina/commits/v1.0-beta.579</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.586">https://github.com/sjungling/cortina/commits/v1.0-beta.586</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.579/cortina-1.0-beta.579.dmg" length="20612190" type="application/octet-stream" sparkle:edSignature="70J34Wv9BAxUi0P+IUetzHJC+9V/EeuoWxoFZ8DnFBZEa7H6cjcTJMAeUeeQa4SPT1Doc5GADzsmlDJPd0W7Bw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.586/cortina-1.0-beta.586.dmg" length="20618486" type="application/octet-stream" sparkle:edSignature="l2ziSz6hWOWp1/7qFb4fUjXz+6hRYQ88B1tW6mdp84Tm8s7ES3TYywwit4yWTMYXC/IvD7i5a+7ZzejKjq1oDA=="/>
         </item>
     </channel>
 </rss>
