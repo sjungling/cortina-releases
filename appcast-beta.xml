@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 08 Apr 2026 15:54:08 -0700</pubDate>
-            <sparkle:version>590</sparkle:version>
+            <pubDate>Fri, 10 Apr 2026 20:25:04 -0700</pubDate>
+            <sparkle:version>591</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -287,10 +287,12 @@
 </li>
 <li>chore: remove route URL overlay from detail content view by @sjungling in <a href="https://github.com/sjungling/cortina/pull/174">https://github.com/sjungling/cortina/pull/174</a>
 </li>
+<li>fix: improve git timeout error handling and logging by @sjungling in <a href="https://github.com/sjungling/cortina/pull/173">https://github.com/sjungling/cortina/pull/173</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.590">https://github.com/sjungling/cortina/commits/v1.0-beta.590</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.591">https://github.com/sjungling/cortina/commits/v1.0-beta.591</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.590/cortina-1.0-beta.590.dmg" length="20612151" type="application/octet-stream" sparkle:edSignature="SMsUuy0CFCiG9s0ZcnpEKeIJktag45vY4UCLQisuJEKJo6xVQl9vgfNfLLnB+jTT1PZyJwpDyEbQIoHnS8gyDg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.591/cortina-1.0-beta.591.dmg" length="20612186" type="application/octet-stream" sparkle:edSignature="KRPMmAaCItMVrLbpzWTjgudEvTTC3huRDSONVphoWhib07ZI9nuiReiGJlnOCvrWPt8RgSKelJSw3+nYlQ4HCw=="/>
         </item>
     </channel>
 </rss>
