@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 10 Apr 2026 20:25:04 -0700</pubDate>
-            <sparkle:version>591</sparkle:version>
+            <pubDate>Fri, 10 Apr 2026 21:25:46 -0700</pubDate>
+            <sparkle:version>593</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -289,10 +289,12 @@
 </li>
 <li>fix: improve git timeout error handling and logging by @sjungling in <a href="https://github.com/sjungling/cortina/pull/173">https://github.com/sjungling/cortina/pull/173</a>
 </li>
+<li>perf: reduce TaskListView re-renders during task launch by @sjungling in <a href="https://github.com/sjungling/cortina/pull/176">https://github.com/sjungling/cortina/pull/176</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.591">https://github.com/sjungling/cortina/commits/v1.0-beta.591</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.593">https://github.com/sjungling/cortina/commits/v1.0-beta.593</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.591/cortina-1.0-beta.591.dmg" length="20612186" type="application/octet-stream" sparkle:edSignature="KRPMmAaCItMVrLbpzWTjgudEvTTC3huRDSONVphoWhib07ZI9nuiReiGJlnOCvrWPt8RgSKelJSw3+nYlQ4HCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.593/cortina-1.0-beta.593.dmg" length="20618181" type="application/octet-stream" sparkle:edSignature="tJ9q7xSW4zyhvHDpjSVF4Eo2lOwDlknrviRzYiTUMXd7CZaQeuQYJ57i5V9Ryko061RmLeXvTWjsk4VXmIZECA=="/>
         </item>
     </channel>
 </rss>
