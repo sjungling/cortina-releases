@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 11 Apr 2026 09:07:37 -0700</pubDate>
-            <sparkle:version>595</sparkle:version>
+            <pubDate>Sat, 11 Apr 2026 10:13:52 -0700</pubDate>
+            <sparkle:version>596</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -295,10 +295,12 @@
 </li>
 <li>fix(tabs): tab bar "+" button now opens a new tab instead of a window by @sjungling in <a href="https://github.com/sjungling/cortina/pull/177">https://github.com/sjungling/cortina/pull/177</a>
 </li>
+<li>feat: refresh branch name and ahead/behind on worktree refresh by @sjungling in <a href="https://github.com/sjungling/cortina/pull/178">https://github.com/sjungling/cortina/pull/178</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.595">https://github.com/sjungling/cortina/commits/v1.0-beta.595</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.596">https://github.com/sjungling/cortina/commits/v1.0-beta.596</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.595/cortina-1.0-beta.595.dmg" length="20620195" type="application/octet-stream" sparkle:edSignature="wGY87KNa+R4o4WZxNFOm61J1bvOkUIagX25+7KeSRcxdLEj2tVDDaACrR9J0ocv5tXT1yR54Tt8lt9LAnKpSAg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.596/cortina-1.0-beta.596.dmg" length="20616268" type="application/octet-stream" sparkle:edSignature="VexdWiARx96iwq/mnLE8gYGFy5pgEeMPpPjPjJEnT4QEuYx+Da1YtGMADiEPn/cC2mSIC/DsxjxPB++h/niYCg=="/>
         </item>
     </channel>
 </rss>
