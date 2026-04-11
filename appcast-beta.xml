@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 11 Apr 2026 10:13:52 -0700</pubDate>
-            <sparkle:version>596</sparkle:version>
+            <pubDate>Sat, 11 Apr 2026 15:33:42 -0700</pubDate>
+            <sparkle:version>597</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -297,10 +297,12 @@
 </li>
 <li>feat: refresh branch name and ahead/behind on worktree refresh by @sjungling in <a href="https://github.com/sjungling/cortina/pull/178">https://github.com/sjungling/cortina/pull/178</a>
 </li>
+<li>perf: cut re-render cascades from tmux title and prompt typing by @sjungling in <a href="https://github.com/sjungling/cortina/pull/179">https://github.com/sjungling/cortina/pull/179</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.596">https://github.com/sjungling/cortina/commits/v1.0-beta.596</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.597">https://github.com/sjungling/cortina/commits/v1.0-beta.597</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.596/cortina-1.0-beta.596.dmg" length="20616268" type="application/octet-stream" sparkle:edSignature="VexdWiARx96iwq/mnLE8gYGFy5pgEeMPpPjPjJEnT4QEuYx+Da1YtGMADiEPn/cC2mSIC/DsxjxPB++h/niYCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.597/cortina-1.0-beta.597.dmg" length="20737985" type="application/octet-stream" sparkle:edSignature="0FrfKjGhxTGgDW+FgrFGdysgGVvN95IuZTmycXBqImmxVDFJCWMk0O99BH4g5k0n74/5Ixz91zVk+XY74ST7CA=="/>
         </item>
     </channel>
 </rss>
