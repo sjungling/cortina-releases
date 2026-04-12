@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 11 Apr 2026 23:52:20 -0700</pubDate>
-            <sparkle:version>598</sparkle:version>
+            <pubDate>Sun, 12 Apr 2026 14:39:51 -0700</pubDate>
+            <sparkle:version>599</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -301,10 +301,12 @@
 </li>
 <li>perf+fix: cut task-launch latency and eliminate NSTask wedge by @sjungling in <a href="https://github.com/sjungling/cortina/pull/180">https://github.com/sjungling/cortina/pull/180</a>
 </li>
+<li>perf: add TerminalRendering signposts and parallelize repo refresh by @sjungling in <a href="https://github.com/sjungling/cortina/pull/181">https://github.com/sjungling/cortina/pull/181</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.598">https://github.com/sjungling/cortina/commits/v1.0-beta.598</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.599">https://github.com/sjungling/cortina/commits/v1.0-beta.599</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.598/cortina-1.0-beta.598.dmg" length="20765209" type="application/octet-stream" sparkle:edSignature="NGAcFzveVVhNm6SOKXuTUUSAEPD01W9GzP4LcAO2DDnZxuUHo7I/0p2VczPsj9a1bd0LZOav2AokucSGHBL5DQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.599/cortina-1.0-beta.599.dmg" length="20777592" type="application/octet-stream" sparkle:edSignature="I8erG5l6TCkwMKjXhNJ5wox19sSXDE2Ss0k+CTPQYatV1JAfsobtXY1+bP1gSRObfmEIkNOGOXJU/RwZnmkzDA=="/>
         </item>
     </channel>
 </rss>
