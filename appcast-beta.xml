@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 12 Apr 2026 14:39:51 -0700</pubDate>
-            <sparkle:version>599</sparkle:version>
+            <pubDate>Mon, 13 Apr 2026 11:23:54 -0700</pubDate>
+            <sparkle:version>600</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -303,10 +303,12 @@
 </li>
 <li>perf: add TerminalRendering signposts and parallelize repo refresh by @sjungling in <a href="https://github.com/sjungling/cortina/pull/181">https://github.com/sjungling/cortina/pull/181</a>
 </li>
+<li>feat(tmux): add escape-time, focus-events, default-terminal, and status bar formatting by @sjungling in <a href="https://github.com/sjungling/cortina/pull/182">https://github.com/sjungling/cortina/pull/182</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.599">https://github.com/sjungling/cortina/commits/v1.0-beta.599</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.600">https://github.com/sjungling/cortina/commits/v1.0-beta.600</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.599/cortina-1.0-beta.599.dmg" length="20777592" type="application/octet-stream" sparkle:edSignature="I8erG5l6TCkwMKjXhNJ5wox19sSXDE2Ss0k+CTPQYatV1JAfsobtXY1+bP1gSRObfmEIkNOGOXJU/RwZnmkzDA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.600/cortina-1.0-beta.600.dmg" length="20778525" type="application/octet-stream" sparkle:edSignature="xO0M2kT2gVxsM8sBB7vd0u0SWo1sV1e9O+iSyDGnPRp2DsNlLrFFbIvGHb60fHnunURgPRFX6iJlzsMlQW/3Aw=="/>
         </item>
     </channel>
 </rss>
