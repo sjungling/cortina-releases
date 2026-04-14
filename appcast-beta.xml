@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 13 Apr 2026 14:33:52 -0700</pubDate>
-            <sparkle:version>602</sparkle:version>
+            <pubDate>Tue, 14 Apr 2026 14:28:18 -0700</pubDate>
+            <sparkle:version>603</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -309,10 +309,12 @@
 </li>
 <li>fix(macros): restore macro editor and fix typing in settings by @sjungling in <a href="https://github.com/sjungling/cortina/pull/185">https://github.com/sjungling/cortina/pull/185</a>
 </li>
+<li>feat(TaskKit): quick filter, sort fix, and pagination for completed tasks by @sjungling in <a href="https://github.com/sjungling/cortina/pull/184">https://github.com/sjungling/cortina/pull/184</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.602">https://github.com/sjungling/cortina/commits/v1.0-beta.602</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.603">https://github.com/sjungling/cortina/commits/v1.0-beta.603</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.602/cortina-1.0-beta.602.dmg" length="20778287" type="application/octet-stream" sparkle:edSignature="97zqS3NGxJtg7vNK/lHtVwqIIwzF3+0vX1f8iT1HH/KK1YLREkNT1VWm6Z9gPeBAN3sXL1tHzQoDwvakkbw+DQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.603/cortina-1.0-beta.603.dmg" length="20791171" type="application/octet-stream" sparkle:edSignature="jT/IOGVVSHNBg7LCeBkHyoYvAesg7J85akX3IQw+afHvw/RlsnJTsgXs6QIHg7LimFyQk1G4zpO8yMh/bBuMBg=="/>
         </item>
     </channel>
 </rss>
