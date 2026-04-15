@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 15 Apr 2026 11:13:16 -0700</pubDate>
-            <sparkle:version>607</sparkle:version>
+            <pubDate>Wed, 15 Apr 2026 13:14:14 -0700</pubDate>
+            <sparkle:version>608</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -319,10 +319,12 @@
 </li>
 <li>feat(AddTaskView): redesign modal UX and restore GitHub issue picker by @sjungling in <a href="https://github.com/sjungling/cortina/pull/190">https://github.com/sjungling/cortina/pull/190</a>
 </li>
+<li>feat: add branch name skeleton loading state to prevent layout shift by @sjungling in <a href="https://github.com/sjungling/cortina/pull/191">https://github.com/sjungling/cortina/pull/191</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.607">https://github.com/sjungling/cortina/commits/v1.0-beta.607</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.608">https://github.com/sjungling/cortina/commits/v1.0-beta.608</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.607/cortina-1.0-beta.607.dmg" length="20606437" type="application/octet-stream" sparkle:edSignature="6rezq6UWqOG0rpdNvpcJouj8vhT4pUGCuXTdq3ZRkuh7f+QZpaoFPU5X5dDQVXhhAYKMNW/mWeBFBAUlsoyAAw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.608/cortina-1.0-beta.608.dmg" length="20607256" type="application/octet-stream" sparkle:edSignature="xdx0u1cekknsQfOUqSR3bNlL3NjWpncE4LwJ473huLzvnbt9jm+QgWrBwaUtBLKsVHga/YyKQ+mL7QCjROJ5AQ=="/>
         </item>
     </channel>
 </rss>
