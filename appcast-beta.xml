@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 15 Apr 2026 14:18:02 -0700</pubDate>
-            <sparkle:version>610</sparkle:version>
+            <pubDate>Wed, 15 Apr 2026 14:32:34 -0700</pubDate>
+            <sparkle:version>611</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -325,10 +325,12 @@
 </li>
 <li>Stop applying number formatting to issue and PR numbers by @sjungling in <a href="https://github.com/sjungling/cortina/pull/193">https://github.com/sjungling/cortina/pull/193</a>
 </li>
+<li>style: eliminate dead code identified by periphery 3.7.2 by @sjungling in <a href="https://github.com/sjungling/cortina/pull/194">https://github.com/sjungling/cortina/pull/194</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.610">https://github.com/sjungling/cortina/commits/v1.0-beta.610</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.611">https://github.com/sjungling/cortina/commits/v1.0-beta.611</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.610/cortina-1.0-beta.610.dmg" length="19803737" type="application/octet-stream" sparkle:edSignature="HiZMODAEGJ5+AsszFKSMMHPbdqYiwzkoy8MzRyN3e8wvsjKKZq8qFGWThXLQdowN7zMhl2iHjVeVWH24HOXMCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.611/cortina-1.0-beta.611.dmg" length="20602276" type="application/octet-stream" sparkle:edSignature="AEXGicQewS4dMvNu5vTp6lLiAVtCcR9u1VGf+bZen4shkgqVFmKcvHUTUkulUJPnNd7/1jylqqKnyDXYjQ6sAg=="/>
         </item>
     </channel>
 </rss>
