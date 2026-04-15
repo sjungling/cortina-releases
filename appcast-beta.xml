@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 15 Apr 2026 14:56:21 -0700</pubDate>
-            <sparkle:version>612</sparkle:version>
+            <pubDate>Wed, 15 Apr 2026 15:22:07 -0700</pubDate>
+            <sparkle:version>613</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -329,10 +329,12 @@
 </li>
 <li>style: apply swift-format to 36 files across app and packages by @sjungling in <a href="https://github.com/sjungling/cortina/pull/195">https://github.com/sjungling/cortina/pull/195</a>
 </li>
+<li>fix(terminal): intercept Cmd+V to prevent app termination in libghosttyx 0.3.8+ by @sjungling in <a href="https://github.com/sjungling/cortina/pull/196">https://github.com/sjungling/cortina/pull/196</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.612">https://github.com/sjungling/cortina/commits/v1.0-beta.612</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.613">https://github.com/sjungling/cortina/commits/v1.0-beta.613</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.612/cortina-1.0-beta.612.dmg" length="20602669" type="application/octet-stream" sparkle:edSignature="4A78ejgbZ6ZdVMX/kS81pzTjsAZioTrGgTpt/IiwT4DMeh3gtHfe0qvgJx7uRgJyZ0rdXFt40QsYntAxhtXLCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.613/cortina-1.0-beta.613.dmg" length="20607037" type="application/octet-stream" sparkle:edSignature="dm6Ebor6ZeSTJY3g8r1ojL5kzfik3yDgkVlgv2UnWO0TtgoLY+1NuDiwA3Mgad9FbgEkaQw9vvnq29RpKRAVAg=="/>
         </item>
     </channel>
 </rss>
