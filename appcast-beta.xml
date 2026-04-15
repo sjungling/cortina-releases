@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 14 Apr 2026 14:28:18 -0700</pubDate>
-            <sparkle:version>603</sparkle:version>
+            <pubDate>Tue, 14 Apr 2026 19:08:43 -0700</pubDate>
+            <sparkle:version>604</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -311,10 +311,12 @@
 </li>
 <li>feat(TaskKit): quick filter, sort fix, and pagination for completed tasks by @sjungling in <a href="https://github.com/sjungling/cortina/pull/184">https://github.com/sjungling/cortina/pull/184</a>
 </li>
+<li>Remove cron functionality from Cortina by @sjungling in <a href="https://github.com/sjungling/cortina/pull/187">https://github.com/sjungling/cortina/pull/187</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.603">https://github.com/sjungling/cortina/commits/v1.0-beta.603</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.604">https://github.com/sjungling/cortina/commits/v1.0-beta.604</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.603/cortina-1.0-beta.603.dmg" length="20791171" type="application/octet-stream" sparkle:edSignature="jT/IOGVVSHNBg7LCeBkHyoYvAesg7J85akX3IQw+afHvw/RlsnJTsgXs6QIHg7LimFyQk1G4zpO8yMh/bBuMBg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.604/cortina-1.0-beta.604.dmg" length="20751601" type="application/octet-stream" sparkle:edSignature="BDibLQ9qpH5jRp8cGIoxCjA6/2YOzaQ3CVslbD1xUisSXqxq2BnIXYhoZfo5V3FcsasoexrFCcKoWMx5WOzpBA=="/>
         </item>
     </channel>
 </rss>
