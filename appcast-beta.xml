@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 15 Apr 2026 13:56:13 -0700</pubDate>
-            <sparkle:version>609</sparkle:version>
+            <pubDate>Wed, 15 Apr 2026 14:18:02 -0700</pubDate>
+            <sparkle:version>610</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -323,10 +323,12 @@
 </li>
 <li>Remove effort level control and notification indicators setting by @sjungling in <a href="https://github.com/sjungling/cortina/pull/192">https://github.com/sjungling/cortina/pull/192</a>
 </li>
+<li>Stop applying number formatting to issue and PR numbers by @sjungling in <a href="https://github.com/sjungling/cortina/pull/193">https://github.com/sjungling/cortina/pull/193</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.609">https://github.com/sjungling/cortina/commits/v1.0-beta.609</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.610">https://github.com/sjungling/cortina/commits/v1.0-beta.610</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.609/cortina-1.0-beta.609.dmg" length="20604962" type="application/octet-stream" sparkle:edSignature="xgXmwAx43RSXpUYgTtOZx6Bm/Y1xFxwkRrheEwCx+MrC7fnKzn41AsvSLWolLwrM4jnsSPZ1yTj/5yPVxQ0cCQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.610/cortina-1.0-beta.610.dmg" length="19803737" type="application/octet-stream" sparkle:edSignature="HiZMODAEGJ5+AsszFKSMMHPbdqYiwzkoy8MzRyN3e8wvsjKKZq8qFGWThXLQdowN7zMhl2iHjVeVWH24HOXMCg=="/>
         </item>
     </channel>
 </rss>
