@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 17 Apr 2026 09:04:22 -0700</pubDate>
-            <sparkle:version>615</sparkle:version>
+            <pubDate>Fri, 17 Apr 2026 13:42:50 -0700</pubDate>
+            <sparkle:version>616</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -335,10 +335,12 @@
 </li>
 <li>fix(terminal): prevent double paste with multiple terminal tabs by @sjungling in <a href="https://github.com/sjungling/cortina/pull/198">https://github.com/sjungling/cortina/pull/198</a>
 </li>
+<li>fix(sidebar): abort merge/rebase before reset to recover stuck repositories by @sjungling in <a href="https://github.com/sjungling/cortina/pull/199">https://github.com/sjungling/cortina/pull/199</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.615">https://github.com/sjungling/cortina/commits/v1.0-beta.615</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.616">https://github.com/sjungling/cortina/commits/v1.0-beta.616</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.615/cortina-1.0-beta.615.dmg" length="20607392" type="application/octet-stream" sparkle:edSignature="QDxmMgP/vFW/cGEoAto8D6yufSEygkG3dKToHjEJntgaviUaMw3CNapTWRYqGczBzb0hI84ejlXmKpnxyG3pCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.616/cortina-1.0-beta.616.dmg" length="20607226" type="application/octet-stream" sparkle:edSignature="l8gncowXpZplInL+7sP0AthtaXifx/599mK+VjDO2qPis+X8fZ4Cu7AOY1kOx98w+6H7Cutt+msRn+WBjdNIAA=="/>
         </item>
     </channel>
 </rss>
