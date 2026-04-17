@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 15 Apr 2026 15:22:07 -0700</pubDate>
-            <sparkle:version>613</sparkle:version>
+            <pubDate>Fri, 17 Apr 2026 09:04:22 -0700</pubDate>
+            <sparkle:version>615</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -331,10 +331,14 @@
 </li>
 <li>fix(terminal): intercept Cmd+V to prevent app termination in libghosttyx 0.3.8+ by @sjungling in <a href="https://github.com/sjungling/cortina/pull/196">https://github.com/sjungling/cortina/pull/196</a>
 </li>
+<li>fix(issues): improve GitHub issue selector UX by @sjungling in <a href="https://github.com/sjungling/cortina/pull/197">https://github.com/sjungling/cortina/pull/197</a>
+</li>
+<li>fix(terminal): prevent double paste with multiple terminal tabs by @sjungling in <a href="https://github.com/sjungling/cortina/pull/198">https://github.com/sjungling/cortina/pull/198</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.613">https://github.com/sjungling/cortina/commits/v1.0-beta.613</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.615">https://github.com/sjungling/cortina/commits/v1.0-beta.615</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.613/cortina-1.0-beta.613.dmg" length="20607037" type="application/octet-stream" sparkle:edSignature="dm6Ebor6ZeSTJY3g8r1ojL5kzfik3yDgkVlgv2UnWO0TtgoLY+1NuDiwA3Mgad9FbgEkaQw9vvnq29RpKRAVAg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.615/cortina-1.0-beta.615.dmg" length="20607392" type="application/octet-stream" sparkle:edSignature="QDxmMgP/vFW/cGEoAto8D6yufSEygkG3dKToHjEJntgaviUaMw3CNapTWRYqGczBzb0hI84ejlXmKpnxyG3pCw=="/>
         </item>
     </channel>
 </rss>
