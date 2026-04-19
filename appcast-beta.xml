@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 19 Apr 2026 12:03:19 -0700</pubDate>
-            <sparkle:version>620</sparkle:version>
+            <pubDate>Sun, 19 Apr 2026 12:44:28 -0700</pubDate>
+            <sparkle:version>621</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -345,10 +345,12 @@
 </li>
 <li>feat(task): cache gh pr/issue results per-repo to avoid redundant CLI calls by @sjungling in <a href="https://github.com/sjungling/cortina/pull/208">https://github.com/sjungling/cortina/pull/208</a>
 </li>
+<li>feat(tasks): pinned tasks — anchor high-priority tasks at top of task list by @sjungling in <a href="https://github.com/sjungling/cortina/pull/207">https://github.com/sjungling/cortina/pull/207</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.620">https://github.com/sjungling/cortina/commits/v1.0-beta.620</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.621">https://github.com/sjungling/cortina/commits/v1.0-beta.621</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.620/cortina-1.0-beta.620.dmg" length="20600760" type="application/octet-stream" sparkle:edSignature="R7QLzzASv3cPIgHSRr0QPtFgLpaMISgn9r55RWbfd+BS6NZ8h36/6ST6U4u9kmE/56Bg2pxlWuR1E8Lj9gZjBg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.621/cortina-1.0-beta.621.dmg" length="20604120" type="application/octet-stream" sparkle:edSignature="id6OQMm87GoI19MYBt2z0NWZ9NE9OWutroJ9IxDT/gVF24+tYC3t3wy2nIxVd33LiyvWObX1C0w5hAZ56LqPCQ=="/>
         </item>
     </channel>
 </rss>
