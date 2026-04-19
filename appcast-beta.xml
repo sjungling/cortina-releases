@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 19 Apr 2026 11:05:52 -0700</pubDate>
-            <sparkle:version>619</sparkle:version>
+            <pubDate>Sun, 19 Apr 2026 12:03:19 -0700</pubDate>
+            <sparkle:version>620</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -343,10 +343,12 @@
 </li>
 <li>fix(navigation): prevent duplicate RouteHistory entries on back-and-forth navigation by @sjungling in <a href="https://github.com/sjungling/cortina/pull/205">https://github.com/sjungling/cortina/pull/205</a>
 </li>
+<li>feat(task): cache gh pr/issue results per-repo to avoid redundant CLI calls by @sjungling in <a href="https://github.com/sjungling/cortina/pull/208">https://github.com/sjungling/cortina/pull/208</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.619">https://github.com/sjungling/cortina/commits/v1.0-beta.619</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.620">https://github.com/sjungling/cortina/commits/v1.0-beta.620</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.619/cortina-1.0-beta.619.dmg" length="20604004" type="application/octet-stream" sparkle:edSignature="Fg0t0iMtC2w9WlIO5jVujaS8h6QEL+t5AnxyCvbtgKG9YhMZFa5/TCpe6qJdpInk7DQma4ekiKXMHL87OINOBQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.620/cortina-1.0-beta.620.dmg" length="20600760" type="application/octet-stream" sparkle:edSignature="R7QLzzASv3cPIgHSRr0QPtFgLpaMISgn9r55RWbfd+BS6NZ8h36/6ST6U4u9kmE/56Bg2pxlWuR1E8Lj9gZjBg=="/>
         </item>
     </channel>
 </rss>
