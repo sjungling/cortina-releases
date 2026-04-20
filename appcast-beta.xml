@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 19 Apr 2026 21:46:46 -0700</pubDate>
-            <sparkle:version>626</sparkle:version>
+            <pubDate>Mon, 20 Apr 2026 10:09:39 -0700</pubDate>
+            <sparkle:version>627</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -355,10 +355,12 @@
 </li>
 <li>perf(terminal): defer ghostty_surface_new to next main-queue turn by @sjungling in <a href="https://github.com/sjungling/cortina/pull/212">https://github.com/sjungling/cortina/pull/212</a>
 </li>
+<li>feat(sidebar): add "Create New Task" context menu item for repositories by @sjungling in <a href="https://github.com/sjungling/cortina/pull/214">https://github.com/sjungling/cortina/pull/214</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.626">https://github.com/sjungling/cortina/commits/v1.0-beta.626</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.627">https://github.com/sjungling/cortina/commits/v1.0-beta.627</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.626/cortina-1.0-beta.626.dmg" length="20735294" type="application/octet-stream" sparkle:edSignature="WUihgenAtnlm7Nhrwl+Lu4pa3mx6XZONe9GfdFX0m9Z4RpM88f/0wIJsKtafs78tjPesqg//frlOx00sL9RGCQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.627/cortina-1.0-beta.627.dmg" length="20734106" type="application/octet-stream" sparkle:edSignature="6qCMd3enEOytlDO32Dd0gpmLaKIp2c+MpP5/48eyxSRwKqRCq+nMKwggqG1CqVV4f90S9sQkM6mh7Z41e12HAQ=="/>
         </item>
     </channel>
 </rss>
