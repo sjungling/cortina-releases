@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 21 Apr 2026 14:51:48 -0700</pubDate>
-            <sparkle:version>637</sparkle:version>
+            <pubDate>Tue, 21 Apr 2026 15:54:50 -0700</pubDate>
+            <sparkle:version>638</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -377,10 +377,12 @@
 </li>
 <li>refactor(tasks): remove hard-coded "Code review:" title prefix by @sjungling in <a href="https://github.com/sjungling/cortina/pull/223">https://github.com/sjungling/cortina/pull/223</a>
 </li>
+<li>feat(tasks): improve category icons and promote to leading position by @sjungling in <a href="https://github.com/sjungling/cortina/pull/224">https://github.com/sjungling/cortina/pull/224</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.637">https://github.com/sjungling/cortina/commits/v1.0-beta.637</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.638">https://github.com/sjungling/cortina/commits/v1.0-beta.638</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.637/cortina-1.0-beta.637.dmg" length="20745325" type="application/octet-stream" sparkle:edSignature="wiwT4SJVsYNWEiCr7dC4PZdcFZY0906uo7ioOWRxqCW+1wUa2af9PfM4qLTwFH86I5tXQHEx/ueydsZi+OF0Cg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.638/cortina-1.0-beta.638.dmg" length="20744943" type="application/octet-stream" sparkle:edSignature="kvYuCOAf0Qp7gS44mRDqxqH2Egx4fa4+fUDazk0nSvCk21pUWjXkaQmMYfneUGjNX/cR7KT81zRpOPZLiPhDAg=="/>
         </item>
     </channel>
 </rss>
