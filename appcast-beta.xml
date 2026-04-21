@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 20 Apr 2026 10:09:39 -0700</pubDate>
-            <sparkle:version>627</sparkle:version>
+            <pubDate>Mon, 20 Apr 2026 17:10:33 -0700</pubDate>
+            <sparkle:version>631</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -357,10 +357,18 @@
 </li>
 <li>feat(sidebar): add "Create New Task" context menu item for repositories by @sjungling in <a href="https://github.com/sjungling/cortina/pull/214">https://github.com/sjungling/cortina/pull/214</a>
 </li>
+<li>feat(sidebar): move pinning from tasks to repositories by @sjungling in <a href="https://github.com/sjungling/cortina/pull/213">https://github.com/sjungling/cortina/pull/213</a>
+</li>
+<li>fix(terminal): fix Cmd+Shift+click URLs via OSC 8; bump libghosttyx to v0.3.17 by @sjungling in <a href="https://github.com/sjungling/cortina/pull/215">https://github.com/sjungling/cortina/pull/215</a>
+</li>
+<li>fix(ci): prevent beta tags from re-triggering release workflow by @sjungling in <a href="https://github.com/sjungling/cortina/pull/216">https://github.com/sjungling/cortina/pull/216</a>
+</li>
+<li>fix(ci): make Tag source commit step idempotent by @sjungling in <a href="https://github.com/sjungling/cortina/pull/217">https://github.com/sjungling/cortina/pull/217</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.627">https://github.com/sjungling/cortina/commits/v1.0-beta.627</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.631">https://github.com/sjungling/cortina/commits/v1.0-beta.631</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.627/cortina-1.0-beta.627.dmg" length="20734106" type="application/octet-stream" sparkle:edSignature="6qCMd3enEOytlDO32Dd0gpmLaKIp2c+MpP5/48eyxSRwKqRCq+nMKwggqG1CqVV4f90S9sQkM6mh7Z41e12HAQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.631/cortina-1.0-beta.631.dmg" length="20740198" type="application/octet-stream" sparkle:edSignature="7e9DKsSmoY8uvdKtudGCjslxVwvceNFrtTwRkDodWPHV7bHbIu8I0WWsdVS8zvkFsi8H6Y8sGjZnYog1sRh2AA=="/>
         </item>
     </channel>
 </rss>
