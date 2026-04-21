@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 20 Apr 2026 19:07:55 -0700</pubDate>
-            <sparkle:version>632</sparkle:version>
+            <pubDate>Mon, 20 Apr 2026 19:21:29 -0700</pubDate>
+            <sparkle:version>633</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -367,10 +367,12 @@
 </li>
 <li>feat(sidebar): show pin indicator on pinned repositories by @sjungling in <a href="https://github.com/sjungling/cortina/pull/218">https://github.com/sjungling/cortina/pull/218</a>
 </li>
+<li>feat(terminal): add optional focus border with gradient ring by @sjungling in <a href="https://github.com/sjungling/cortina/pull/219">https://github.com/sjungling/cortina/pull/219</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.632">https://github.com/sjungling/cortina/commits/v1.0-beta.632</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.633">https://github.com/sjungling/cortina/commits/v1.0-beta.633</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.632/cortina-1.0-beta.632.dmg" length="20741986" type="application/octet-stream" sparkle:edSignature="6Ip+RjkmuZZOddGgOppsdhK67EGbAfZq/V4njCg45/9cqz0B6xPqxiLQw4S9yjQyZDX8Ty9D2eaprcAWOV9xCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.633/cortina-1.0-beta.633.dmg" length="20752702" type="application/octet-stream" sparkle:edSignature="kJX7R/O1Uwk2bRRr0E7OjZ6h7w3uHanJzzRFBpa4XhNgWaE2DnvFGy+aT2CjjaFKy9PZyBgCyGtnqo4rRN+RBQ=="/>
         </item>
     </channel>
 </rss>
