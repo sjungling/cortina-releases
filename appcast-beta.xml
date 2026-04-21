@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 20 Apr 2026 21:01:18 -0700</pubDate>
-            <sparkle:version>635</sparkle:version>
+            <pubDate>Tue, 21 Apr 2026 14:46:47 -0700</pubDate>
+            <sparkle:version>636</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -373,10 +373,12 @@
 </li>
 <li>fix(sidebar): fix empty modal when creating task from sidebar context menu by @sjungling in <a href="https://github.com/sjungling/cortina/pull/221">https://github.com/sjungling/cortina/pull/221</a>
 </li>
+<li>fix(terminal): remove cortina ghostty config management, use user global config by @sjungling in <a href="https://github.com/sjungling/cortina/pull/222">https://github.com/sjungling/cortina/pull/222</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.635">https://github.com/sjungling/cortina/commits/v1.0-beta.635</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.636">https://github.com/sjungling/cortina/commits/v1.0-beta.636</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.635/cortina-1.0-beta.635.dmg" length="20751321" type="application/octet-stream" sparkle:edSignature="G6Q01AspbLhCZfI3Mr70w9/0lS9ptqte/4Q0s2jSWpj7jmIiQ5cUaKFY4ok+GTy9uh4Y8rzQeULTF0iZWe89CQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.636/cortina-1.0-beta.636.dmg" length="20744596" type="application/octet-stream" sparkle:edSignature="6I9fbckJURyZP/YctP0BIqpofKdOARswt+q9u5b4j/HgKCW280bD6KC/dKBfQh5mGngcj63z9vnouURhVAUdDQ=="/>
         </item>
     </channel>
 </rss>
