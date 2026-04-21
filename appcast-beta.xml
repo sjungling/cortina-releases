@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 20 Apr 2026 19:21:29 -0700</pubDate>
-            <sparkle:version>633</sparkle:version>
+            <pubDate>Mon, 20 Apr 2026 19:41:11 -0700</pubDate>
+            <sparkle:version>634</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -369,10 +369,12 @@
 </li>
 <li>feat(terminal): add optional focus border with gradient ring by @sjungling in <a href="https://github.com/sjungling/cortina/pull/219">https://github.com/sjungling/cortina/pull/219</a>
 </li>
+<li>fix(terminal): preserve scrollback history across park/retrieve cycles by @sjungling in <a href="https://github.com/sjungling/cortina/pull/220">https://github.com/sjungling/cortina/pull/220</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.633">https://github.com/sjungling/cortina/commits/v1.0-beta.633</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.634">https://github.com/sjungling/cortina/commits/v1.0-beta.634</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.633/cortina-1.0-beta.633.dmg" length="20752702" type="application/octet-stream" sparkle:edSignature="kJX7R/O1Uwk2bRRr0E7OjZ6h7w3uHanJzzRFBpa4XhNgWaE2DnvFGy+aT2CjjaFKy9PZyBgCyGtnqo4rRN+RBQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.634/cortina-1.0-beta.634.dmg" length="20752716" type="application/octet-stream" sparkle:edSignature="rUnTdtwGRjK9GXXaMAadHV+FBhDxCOtTyLL495dvKxP8QrhAidT1AipXE01QkkxAGKy9Saemh4QTg/PIkCmHDg=="/>
         </item>
     </channel>
 </rss>
