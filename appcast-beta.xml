@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 21 Apr 2026 15:54:50 -0700</pubDate>
-            <sparkle:version>638</sparkle:version>
+            <pubDate>Wed, 22 Apr 2026 15:18:47 -0700</pubDate>
+            <sparkle:version>639</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -379,10 +379,12 @@
 </li>
 <li>feat(tasks): improve category icons and promote to leading position by @sjungling in <a href="https://github.com/sjungling/cortina/pull/224">https://github.com/sjungling/cortina/pull/224</a>
 </li>
+<li>fix(terminal): remove smcup/rmcup override and fix terminal-features accumulation by @sjungling in <a href="https://github.com/sjungling/cortina/pull/225">https://github.com/sjungling/cortina/pull/225</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.638">https://github.com/sjungling/cortina/commits/v1.0-beta.638</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.639">https://github.com/sjungling/cortina/commits/v1.0-beta.639</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.638/cortina-1.0-beta.638.dmg" length="20744943" type="application/octet-stream" sparkle:edSignature="kvYuCOAf0Qp7gS44mRDqxqH2Egx4fa4+fUDazk0nSvCk21pUWjXkaQmMYfneUGjNX/cR7KT81zRpOPZLiPhDAg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.639/cortina-1.0-beta.639.dmg" length="20750954" type="application/octet-stream" sparkle:edSignature="cIHS40J+Xkq0+NxcU4uHFSuDVMDOQiu8/Y/1U22bG8wfq+6OCFTfdNN2hytd5HNyMdAa3RnXBuYdmNpfVdwcBQ=="/>
         </item>
     </channel>
 </rss>
