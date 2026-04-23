@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 23 Apr 2026 16:20:46 -0700</pubDate>
-            <sparkle:version>646</sparkle:version>
+            <pubDate>Thu, 23 Apr 2026 16:54:15 -0700</pubDate>
+            <sparkle:version>647</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -395,10 +395,12 @@
 </li>
 <li>fix(terminal): fully remove TerminalViewCache to fix repeated Claude Code prompt by @sjungling in <a href="https://github.com/sjungling/cortina/pull/234">https://github.com/sjungling/cortina/pull/234</a>
 </li>
+<li>fix(tasks): persist model override so Review+Opus selection is honoured by @sjungling in <a href="https://github.com/sjungling/cortina/pull/235">https://github.com/sjungling/cortina/pull/235</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.646">https://github.com/sjungling/cortina/commits/v1.0-beta.646</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.647">https://github.com/sjungling/cortina/commits/v1.0-beta.647</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.646/cortina-1.0-beta.646.dmg" length="20350467" type="application/octet-stream" sparkle:edSignature="XuO0Zu5r8ZItlPhskbv6oAcH6+FP8Wkxs7iJ288P8x8hk8xtLsStxGZxgEU7IYyUcZyfkbCevz26CwOc3M1tAA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.647/cortina-1.0-beta.647.dmg" length="20350915" type="application/octet-stream" sparkle:edSignature="iIBOVJkWX1EiPcuTfcgddY2Aj6nHC+c9/G9Tw+p5e/BFRh7tCDxEAaPK1OIYR8SI1PKJxM7kxFBdsk8UzjcxAA=="/>
         </item>
     </channel>
 </rss>
