@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 23 Apr 2026 12:38:57 -0700</pubDate>
-            <sparkle:version>645</sparkle:version>
+            <pubDate>Thu, 23 Apr 2026 16:20:46 -0700</pubDate>
+            <sparkle:version>646</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -393,10 +393,12 @@
 </li>
 <li>fix(terminal): collapse double-SIGWINCH on tab resume to prevent prompt box repeat by @sjungling in <a href="https://github.com/sjungling/cortina/pull/232">https://github.com/sjungling/cortina/pull/232</a>
 </li>
+<li>fix(terminal): fully remove TerminalViewCache to fix repeated Claude Code prompt by @sjungling in <a href="https://github.com/sjungling/cortina/pull/234">https://github.com/sjungling/cortina/pull/234</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.645">https://github.com/sjungling/cortina/commits/v1.0-beta.645</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.646">https://github.com/sjungling/cortina/commits/v1.0-beta.646</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.645/cortina-1.0-beta.645.dmg" length="20374562" type="application/octet-stream" sparkle:edSignature="j1LlIqq7BI2/QkHnVcVoLjMMtc/KMpRhg7cNWXioaYHMwxTOrhu1l5fVRTfeuBnrlXlheB5Y+hg7EKjEqIm0Bg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.646/cortina-1.0-beta.646.dmg" length="20350467" type="application/octet-stream" sparkle:edSignature="XuO0Zu5r8ZItlPhskbv6oAcH6+FP8Wkxs7iJ288P8x8hk8xtLsStxGZxgEU7IYyUcZyfkbCevz26CwOc3M1tAA=="/>
         </item>
     </channel>
 </rss>
