@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 22 Apr 2026 21:43:08 -0700</pubDate>
-            <sparkle:version>641</sparkle:version>
+            <pubDate>Wed, 22 Apr 2026 22:19:05 -0700</pubDate>
+            <sparkle:version>642</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -385,10 +385,12 @@
 </li>
 <li>refactor: remove RemoteSource, SSHKit, and RemoteDiscoveryKit by @sjungling in <a href="https://github.com/sjungling/cortina/pull/227">https://github.com/sjungling/cortina/pull/227</a>
 </li>
+<li>fix(persistence): remove ON DELETE CASCADE from tasks FK by @sjungling in <a href="https://github.com/sjungling/cortina/pull/229">https://github.com/sjungling/cortina/pull/229</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.641">https://github.com/sjungling/cortina/commits/v1.0-beta.641</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.642">https://github.com/sjungling/cortina/commits/v1.0-beta.642</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.641/cortina-1.0-beta.641.dmg" length="20388505" type="application/octet-stream" sparkle:edSignature="pKSg1gE8e7fULip/+8uAw9bMaZGU+azLqMM2Ud/vuComRn27a16j/ZMd09W6pDY426NAHuMJuEs+fPBC0UZBCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.642/cortina-1.0-beta.642.dmg" length="20389507" type="application/octet-stream" sparkle:edSignature="lgbHLyXleQNZ1htItCWUEfGJp/N0ZXOVqnyEMNyD/4QrV8hzHwnegxOot7y96Nu9SPzJYynNLmryQEzZ9Lv+DA=="/>
         </item>
     </channel>
 </rss>
