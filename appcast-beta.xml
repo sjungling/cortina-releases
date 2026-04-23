@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 23 Apr 2026 09:57:23 -0700</pubDate>
-            <sparkle:version>644</sparkle:version>
+            <pubDate>Thu, 23 Apr 2026 12:38:57 -0700</pubDate>
+            <sparkle:version>645</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -391,10 +391,12 @@
 </li>
 <li>feat(settings): add "Disable tmux configuration" toggle for bare tmux sessions by @sjungling in <a href="https://github.com/sjungling/cortina/pull/230">https://github.com/sjungling/cortina/pull/230</a>
 </li>
+<li>fix(terminal): collapse double-SIGWINCH on tab resume to prevent prompt box repeat by @sjungling in <a href="https://github.com/sjungling/cortina/pull/232">https://github.com/sjungling/cortina/pull/232</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.644">https://github.com/sjungling/cortina/commits/v1.0-beta.644</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.645">https://github.com/sjungling/cortina/commits/v1.0-beta.645</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.644/cortina-1.0-beta.644.dmg" length="20391768" type="application/octet-stream" sparkle:edSignature="/hKqeU/6PmnoA+fspVCC/tONh55Of2BIUb4hx0Q5PnshUjhCLhNpE0/UDuy/lMPhKVsNLvEeLpn4y+rMVILZAA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.645/cortina-1.0-beta.645.dmg" length="20374562" type="application/octet-stream" sparkle:edSignature="j1LlIqq7BI2/QkHnVcVoLjMMtc/KMpRhg7cNWXioaYHMwxTOrhu1l5fVRTfeuBnrlXlheB5Y+hg7EKjEqIm0Bg=="/>
         </item>
     </channel>
 </rss>
