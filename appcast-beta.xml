@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 22 Apr 2026 22:19:05 -0700</pubDate>
-            <sparkle:version>642</sparkle:version>
+            <pubDate>Thu, 23 Apr 2026 09:57:23 -0700</pubDate>
+            <sparkle:version>644</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -387,10 +387,14 @@
 </li>
 <li>fix(persistence): remove ON DELETE CASCADE from tasks FK by @sjungling in <a href="https://github.com/sjungling/cortina/pull/229">https://github.com/sjungling/cortina/pull/229</a>
 </li>
+<li>fix(tasks): remove legacy remote repo path from picker and evict stale repos on startup by @sjungling in <a href="https://github.com/sjungling/cortina/pull/231">https://github.com/sjungling/cortina/pull/231</a>
+</li>
+<li>feat(settings): add "Disable tmux configuration" toggle for bare tmux sessions by @sjungling in <a href="https://github.com/sjungling/cortina/pull/230">https://github.com/sjungling/cortina/pull/230</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.642">https://github.com/sjungling/cortina/commits/v1.0-beta.642</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.644">https://github.com/sjungling/cortina/commits/v1.0-beta.644</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.642/cortina-1.0-beta.642.dmg" length="20389507" type="application/octet-stream" sparkle:edSignature="lgbHLyXleQNZ1htItCWUEfGJp/N0ZXOVqnyEMNyD/4QrV8hzHwnegxOot7y96Nu9SPzJYynNLmryQEzZ9Lv+DA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.644/cortina-1.0-beta.644.dmg" length="20391768" type="application/octet-stream" sparkle:edSignature="/hKqeU/6PmnoA+fspVCC/tONh55Of2BIUb4hx0Q5PnshUjhCLhNpE0/UDuy/lMPhKVsNLvEeLpn4y+rMVILZAA=="/>
         </item>
     </channel>
 </rss>
