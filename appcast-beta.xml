@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 24 Apr 2026 08:13:26 -0700</pubDate>
-            <sparkle:version>650</sparkle:version>
+            <pubDate>Fri, 24 Apr 2026 09:15:30 -0700</pubDate>
+            <sparkle:version>651</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -403,10 +403,12 @@
 </li>
 <li>fix(tabs): pin toolbar chrome so sidebar and toolbar match across tabs by @sjungling in <a href="https://github.com/sjungling/cortina/pull/241">https://github.com/sjungling/cortina/pull/241</a>
 </li>
+<li>fix(windows): keep main window from resizing on Sparkle check-for-updates by @sjungling in <a href="https://github.com/sjungling/cortina/pull/243">https://github.com/sjungling/cortina/pull/243</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.650">https://github.com/sjungling/cortina/commits/v1.0-beta.650</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.651">https://github.com/sjungling/cortina/commits/v1.0-beta.651</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.650/cortina-1.0-beta.650.dmg" length="20375801" type="application/octet-stream" sparkle:edSignature="EXiCUZSTwjO3di+vE11wCvBRwZ6xpS7TbF/YxdGfVSWrVD7qULOvJYYKe3Itxm6LjHUcTj/jOjHR8T9skOWfAg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.651/cortina-1.0-beta.651.dmg" length="20375846" type="application/octet-stream" sparkle:edSignature="m8rpjs3H6+r38iHNqsZP99zwaxxbNJKFtYHy9TNQqxTGgG9XLoC3oyfDwYotJSmFNVg1+TWz5GX554i8Q47eBg=="/>
         </item>
     </channel>
 </rss>
