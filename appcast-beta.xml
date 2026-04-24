@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 23 Apr 2026 22:32:10 -0700</pubDate>
-            <sparkle:version>648</sparkle:version>
+            <pubDate>Thu, 23 Apr 2026 23:22:30 -0700</pubDate>
+            <sparkle:version>649</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -399,10 +399,12 @@
 </li>
 <li>fix(terminal): drive DeferredTerminalView teardown from SwiftUI View lifecycle by @sjungling in <a href="https://github.com/sjungling/cortina/pull/238">https://github.com/sjungling/cortina/pull/238</a>
 </li>
+<li>style(terminal): dim focus ring to grey when window is inactive by @sjungling in <a href="https://github.com/sjungling/cortina/pull/240">https://github.com/sjungling/cortina/pull/240</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.648">https://github.com/sjungling/cortina/commits/v1.0-beta.648</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.649">https://github.com/sjungling/cortina/commits/v1.0-beta.649</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.648/cortina-1.0-beta.648.dmg" length="20366168" type="application/octet-stream" sparkle:edSignature="IwjKXF7KROwIFM5zqMLz3BeUga6I7TYaDp3H5lw2MhgplbTTE/g071VNcJjrpYw3Y0IIXWYZgEULcYjbMjBIBA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.649/cortina-1.0-beta.649.dmg" length="20368545" type="application/octet-stream" sparkle:edSignature="FC2pzY4RcsVODzXxUhDWAxzzlRgHZvD154Xl7A+E+RehH8SXe+GXPH9+pXxbFxQ34qOwmi2Gx1kwyAPuj7uxDw=="/>
         </item>
     </channel>
 </rss>
