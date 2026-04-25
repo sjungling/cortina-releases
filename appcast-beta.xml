@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 24 Apr 2026 15:11:05 -0700</pubDate>
-            <sparkle:version>653</sparkle:version>
+            <pubDate>Sat, 25 Apr 2026 11:06:42 -0700</pubDate>
+            <sparkle:version>654</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -409,10 +409,12 @@
 </li>
 <li>feat: add environment variables per Claude profile by @sjungling in <a href="https://github.com/sjungling/cortina/pull/242">https://github.com/sjungling/cortina/pull/242</a>
 </li>
+<li>feat: smooth transition from live task to session statistics view by @sjungling in <a href="https://github.com/sjungling/cortina/pull/245">https://github.com/sjungling/cortina/pull/245</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.653">https://github.com/sjungling/cortina/commits/v1.0-beta.653</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.654">https://github.com/sjungling/cortina/commits/v1.0-beta.654</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.653/cortina-1.0-beta.653.dmg" length="20389054" type="application/octet-stream" sparkle:edSignature="5FWGFdixvsCIBTmTtb6K+IprWl6l6W1yuneCFE6f7YP66zc5FHpghvXRzKFVnKB1d4P0Ca8Cdh01lzyS7wbcCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.654/cortina-1.0-beta.654.dmg" length="20420343" type="application/octet-stream" sparkle:edSignature="7txVaHWx+mdpMt8Jk0T33EF/CgkmEtu24Ry6QNrgkJIvEkhb8M/DsfX5PXbDjQmWEgoBFHFjB69XgNJpvlIiAA=="/>
         </item>
     </channel>
 </rss>
