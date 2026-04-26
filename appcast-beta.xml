@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 25 Apr 2026 11:06:42 -0700</pubDate>
-            <sparkle:version>654</sparkle:version>
+            <pubDate>Sat, 25 Apr 2026 23:28:16 -0700</pubDate>
+            <sparkle:version>655</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -411,10 +411,12 @@
 </li>
 <li>feat: smooth transition from live task to session statistics view by @sjungling in <a href="https://github.com/sjungling/cortina/pull/245">https://github.com/sjungling/cortina/pull/245</a>
 </li>
+<li>fix(terminal): preserve multi-line Cmd+V pastes via bracketed paste by @sjungling in <a href="https://github.com/sjungling/cortina/pull/246">https://github.com/sjungling/cortina/pull/246</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.654">https://github.com/sjungling/cortina/commits/v1.0-beta.654</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.655">https://github.com/sjungling/cortina/commits/v1.0-beta.655</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.654/cortina-1.0-beta.654.dmg" length="20420343" type="application/octet-stream" sparkle:edSignature="7txVaHWx+mdpMt8Jk0T33EF/CgkmEtu24Ry6QNrgkJIvEkhb8M/DsfX5PXbDjQmWEgoBFHFjB69XgNJpvlIiAA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.655/cortina-1.0-beta.655.dmg" length="20420319" type="application/octet-stream" sparkle:edSignature="0hcHnSR1qAOe0+XXhED2xhwGTLC4fbm+i7PVQLUY28ZA7luJ81hy72JgZj1z8lcprrlbP6u14ggMZjrnAH6DAg=="/>
         </item>
     </channel>
 </rss>
