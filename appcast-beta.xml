@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 26 Apr 2026 12:20:15 -0700</pubDate>
-            <sparkle:version>656</sparkle:version>
+            <pubDate>Sun, 26 Apr 2026 20:21:10 -0700</pubDate>
+            <sparkle:version>657</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -415,10 +415,14 @@
 </li>
 <li>feat(menus): add per-IDE submenu and fix missing editor icon by @sjungling in <a href="https://github.com/sjungling/cortina/pull/247">https://github.com/sjungling/cortina/pull/247</a>
 </li>
+<li>feat(menus): add New Window command and ungate New Task by @sjungling in <a href="https://github.com/sjungling/cortina/pull/248">https://github.com/sjungling/cortina/pull/248</a>
+</li>
+<li>fix(menus): rename "View" context menu label to "Open" by @sjungling in <a href="https://github.com/sjungling/cortina/pull/249">https://github.com/sjungling/cortina/pull/249</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.656">https://github.com/sjungling/cortina/commits/v1.0-beta.656</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.657">https://github.com/sjungling/cortina/commits/v1.0-beta.657</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.656/cortina-1.0-beta.656.dmg" length="20418839" type="application/octet-stream" sparkle:edSignature="0FghQLDcBm2NcSQzFvOrei5DiekCPOHFap61StRX9lmdlRlmAWpnylEpVqBuA2WzMOljPGuUTJ79H3LCj6F6CA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.657/cortina-1.0-beta.657.dmg" length="20422603" type="application/octet-stream" sparkle:edSignature="b0Tt2pQ9hJN0lhLZlelN2Uc+10f3YO6y6S46lo2/1w/5w029RJqDu8HWtRNC2xLVVlh+Z39pw8PrmKtgXL9QDw=="/>
         </item>
     </channel>
 </rss>
