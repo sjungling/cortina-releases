@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 26 Apr 2026 20:21:10 -0700</pubDate>
-            <sparkle:version>657</sparkle:version>
+            <pubDate>Sun, 26 Apr 2026 20:34:52 -0700</pubDate>
+            <sparkle:version>658</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -420,9 +420,9 @@
 <li>fix(menus): rename "View" context menu label to "Open" by @sjungling in <a href="https://github.com/sjungling/cortina/pull/249">https://github.com/sjungling/cortina/pull/249</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.657">https://github.com/sjungling/cortina/commits/v1.0-beta.657</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.658">https://github.com/sjungling/cortina/commits/v1.0-beta.658</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.657/cortina-1.0-beta.657.dmg" length="20422603" type="application/octet-stream" sparkle:edSignature="b0Tt2pQ9hJN0lhLZlelN2Uc+10f3YO6y6S46lo2/1w/5w029RJqDu8HWtRNC2xLVVlh+Z39pw8PrmKtgXL9QDw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.658/cortina-1.0-beta.658.dmg" length="20422800" type="application/octet-stream" sparkle:edSignature="ucc1tHKkvnNL9ZooGdEA3jZ4cfw13HZgXtlqUbQ50AQwLCVv6VvXT4qapVSsGdqj+SWCNDw4p5YzVs15MP2pAw=="/>
         </item>
     </channel>
 </rss>
