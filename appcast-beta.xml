@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 26 Apr 2026 20:41:50 -0700</pubDate>
-            <sparkle:version>659</sparkle:version>
+            <pubDate>Mon, 27 Apr 2026 15:12:04 -0700</pubDate>
+            <sparkle:version>660</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -421,10 +421,12 @@
 </li>
 <li>fix(macros): consume Tab in command palette filter by @sjungling in <a href="https://github.com/sjungling/cortina/pull/250">https://github.com/sjungling/cortina/pull/250</a>
 </li>
+<li>fix(task): split PR branch display onto separate lines; fix locale number formatting by @sjungling in <a href="https://github.com/sjungling/cortina/pull/251">https://github.com/sjungling/cortina/pull/251</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.659">https://github.com/sjungling/cortina/commits/v1.0-beta.659</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.660">https://github.com/sjungling/cortina/commits/v1.0-beta.660</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.659/cortina-1.0-beta.659.dmg" length="20423117" type="application/octet-stream" sparkle:edSignature="tS69jL3AlKg/kOOFq1gWkvTF7tQ6twbM6+JW8109ZrL6kqEAECg15bwKRrhB4TjfASqZXE8NTQp7xAZlCvBXDQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.660/cortina-1.0-beta.660.dmg" length="20422599" type="application/octet-stream" sparkle:edSignature="6/YwFdF9b/yaEh9dQR33VzXrdo1t4fFKXMWdQzZ3KbFDSYEvb0bxv9hjaJRwcxK7yPqtViArUopxcLdG1cwgDA=="/>
         </item>
     </channel>
 </rss>
