@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 27 Apr 2026 15:12:04 -0700</pubDate>
-            <sparkle:version>660</sparkle:version>
+            <pubDate>Mon, 27 Apr 2026 16:12:21 -0700</pubDate>
+            <sparkle:version>662</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -423,10 +423,14 @@
 </li>
 <li>fix(task): split PR branch display onto separate lines; fix locale number formatting by @sjungling in <a href="https://github.com/sjungling/cortina/pull/251">https://github.com/sjungling/cortina/pull/251</a>
 </li>
+<li>fix(macros): implement Tab/Shift+Tab focus navigation in command palette by @sjungling in <a href="https://github.com/sjungling/cortina/pull/253">https://github.com/sjungling/cortina/pull/253</a>
+</li>
+<li>feat: PR-tracking worktrees for Review tasks by @sjungling in <a href="https://github.com/sjungling/cortina/pull/252">https://github.com/sjungling/cortina/pull/252</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.660">https://github.com/sjungling/cortina/commits/v1.0-beta.660</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.662">https://github.com/sjungling/cortina/commits/v1.0-beta.662</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.660/cortina-1.0-beta.660.dmg" length="20422599" type="application/octet-stream" sparkle:edSignature="6/YwFdF9b/yaEh9dQR33VzXrdo1t4fFKXMWdQzZ3KbFDSYEvb0bxv9hjaJRwcxK7yPqtViArUopxcLdG1cwgDA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.662/cortina-1.0-beta.662.dmg" length="20438462" type="application/octet-stream" sparkle:edSignature="qZV3/hp7sMipRW6Jo2QkE+qtaK8feCb3kPfHD7x8LhdLMi3i7y7d26HugA+iRD0yd1HpLeWSPifd2kUARaezDw=="/>
         </item>
     </channel>
 </rss>
