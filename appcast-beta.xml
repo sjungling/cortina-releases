@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 29 Apr 2026 14:56:39 -0700</pubDate>
-            <sparkle:version>664</sparkle:version>
+            <pubDate>Wed, 29 Apr 2026 16:04:47 -0700</pubDate>
+            <sparkle:version>665</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -431,10 +431,12 @@
 </li>
 <li>feat(macros): add macro inspector panel with scoped sections and tmux dispatch by @sjungling in <a href="https://github.com/sjungling/cortina/pull/254">https://github.com/sjungling/cortina/pull/254</a>
 </li>
+<li>feat(a11y): Dynamic Type icon sizing across HIGH-priority callsites by @sjungling in <a href="https://github.com/sjungling/cortina/pull/256">https://github.com/sjungling/cortina/pull/256</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.664">https://github.com/sjungling/cortina/commits/v1.0-beta.664</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.665">https://github.com/sjungling/cortina/commits/v1.0-beta.665</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.664/cortina-1.0-beta.664.dmg" length="20555089" type="application/octet-stream" sparkle:edSignature="dpilyLZfl5MJ54prenSj22G6Szvr0QAzmD2Etlv8mDZ0svKysxHGhVJ5813RUpmG8tEaNkaz2E7SNS0EHz+cCQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.665/cortina-1.0-beta.665.dmg" length="20591500" type="application/octet-stream" sparkle:edSignature="7IHEAuYNk03cK7o/zIXjoWRrEsSqaFlXoIJDw78zkEooafgW3sv0ek0lvXuXbsVJJmjGAol/E8FeT2eOLlhbDQ=="/>
         </item>
     </channel>
 </rss>
