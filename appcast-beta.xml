@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 29 Apr 2026 16:04:47 -0700</pubDate>
-            <sparkle:version>665</sparkle:version>
+            <pubDate>Thu, 30 Apr 2026 07:33:30 -0700</pubDate>
+            <sparkle:version>666</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -433,10 +433,12 @@
 </li>
 <li>feat(a11y): Dynamic Type icon sizing across HIGH-priority callsites by @sjungling in <a href="https://github.com/sjungling/cortina/pull/256">https://github.com/sjungling/cortina/pull/256</a>
 </li>
+<li>fix(AddTaskView): shrink prompt editor when issue/PR detail card is visible by @sjungling in <a href="https://github.com/sjungling/cortina/pull/257">https://github.com/sjungling/cortina/pull/257</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.665">https://github.com/sjungling/cortina/commits/v1.0-beta.665</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.666">https://github.com/sjungling/cortina/commits/v1.0-beta.666</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.665/cortina-1.0-beta.665.dmg" length="20591500" type="application/octet-stream" sparkle:edSignature="7IHEAuYNk03cK7o/zIXjoWRrEsSqaFlXoIJDw78zkEooafgW3sv0ek0lvXuXbsVJJmjGAol/E8FeT2eOLlhbDQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.666/cortina-1.0-beta.666.dmg" length="20592598" type="application/octet-stream" sparkle:edSignature="xMzgUT6miagv9cW4woZcomICNUDP92YUB6fF7KFq2AkATNRqqjz3MT7ceDOnzNq6Tra0LTt3Qg47OPhqyf1LCQ=="/>
         </item>
     </channel>
 </rss>
