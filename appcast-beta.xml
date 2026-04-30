@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 30 Apr 2026 08:21:57 -0700</pubDate>
-            <sparkle:version>667</sparkle:version>
+            <pubDate>Thu, 30 Apr 2026 12:02:38 -0700</pubDate>
+            <sparkle:version>668</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -437,10 +437,12 @@
 </li>
 <li>fix(stats): stop completed-task dashboard from oscillating with inspector open by @sjungling in <a href="https://github.com/sjungling/cortina/pull/258">https://github.com/sjungling/cortina/pull/258</a>
 </li>
+<li>fix(stats): stop completed-task dashboard from oscillating by @sjungling in <a href="https://github.com/sjungling/cortina/pull/259">https://github.com/sjungling/cortina/pull/259</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.667">https://github.com/sjungling/cortina/commits/v1.0-beta.667</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.668">https://github.com/sjungling/cortina/commits/v1.0-beta.668</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.667/cortina-1.0-beta.667.dmg" length="20586042" type="application/octet-stream" sparkle:edSignature="qAUPvvGkZBK9ZnPUJ/kd4iKvUMZELFFZnVwiv6gcUMfjWirxjue1oYgfFSPf60DuXdS6BzpH2lg+ADyDLYCZDQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.668/cortina-1.0-beta.668.dmg" length="21319097" type="application/octet-stream" sparkle:edSignature="pxIvt50nAwWv6p+FshWwu0QQSbzCO3vr4Fw/tI8wjeJMXjS8LIwrAXFyYp3kGYKZGmh3UcEvXECTjVHFfprRCQ=="/>
         </item>
     </channel>
 </rss>
