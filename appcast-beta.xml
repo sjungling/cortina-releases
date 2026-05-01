@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 30 Apr 2026 16:33:32 -0700</pubDate>
-            <sparkle:version>669</sparkle:version>
+            <pubDate>Fri, 01 May 2026 13:36:24 -0700</pubDate>
+            <sparkle:version>670</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -441,10 +441,12 @@
 </li>
 <li>feat(ui): extend sidebar under traffic lights via .unified toolbar by @sjungling in <a href="https://github.com/sjungling/cortina/pull/260">https://github.com/sjungling/cortina/pull/260</a>
 </li>
+<li>fix(macro): retain active pane working directory on tmux split by @sjungling in <a href="https://github.com/sjungling/cortina/pull/261">https://github.com/sjungling/cortina/pull/261</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.669">https://github.com/sjungling/cortina/commits/v1.0-beta.669</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.670">https://github.com/sjungling/cortina/commits/v1.0-beta.670</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.669/cortina-1.0-beta.669.dmg" length="21320253" type="application/octet-stream" sparkle:edSignature="d276W4/dRgDk1TbBx15uw02YGbrMXUOpb4iMKEUy3O+3MPKRaPv/fsX14e8tLh6IhAYWwtnJWhRaqWmMMHpxCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.670/cortina-1.0-beta.670.dmg" length="21320504" type="application/octet-stream" sparkle:edSignature="CDEL2Jmpp6L5BFLGj3y8Dzhq6k0bclle+SR2Xa545rYwpDbsxr2R6AIB07MC7/e7Ony1RGefiAWIviEQbccyDw=="/>
         </item>
     </channel>
 </rss>
