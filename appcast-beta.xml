@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 01 May 2026 13:36:24 -0700</pubDate>
-            <sparkle:version>670</sparkle:version>
+            <pubDate>Sat, 02 May 2026 12:32:33 -0700</pubDate>
+            <sparkle:version>672</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -443,10 +443,14 @@
 </li>
 <li>fix(macro): retain active pane working directory on tmux split by @sjungling in <a href="https://github.com/sjungling/cortina/pull/261">https://github.com/sjungling/cortina/pull/261</a>
 </li>
+<li>fix(AddTaskView): tier editor minHeight to fit both issue card and attachments by @sjungling in <a href="https://github.com/sjungling/cortina/pull/262">https://github.com/sjungling/cortina/pull/262</a>
+</li>
+<li>fix(macro): simplify macro input and view interactions by @sjungling in <a href="https://github.com/sjungling/cortina/pull/263">https://github.com/sjungling/cortina/pull/263</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.670">https://github.com/sjungling/cortina/commits/v1.0-beta.670</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.672">https://github.com/sjungling/cortina/commits/v1.0-beta.672</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.670/cortina-1.0-beta.670.dmg" length="21320504" type="application/octet-stream" sparkle:edSignature="CDEL2Jmpp6L5BFLGj3y8Dzhq6k0bclle+SR2Xa545rYwpDbsxr2R6AIB07MC7/e7Ony1RGefiAWIviEQbccyDw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.672/cortina-1.0-beta.672.dmg" length="21309311" type="application/octet-stream" sparkle:edSignature="lyvSB/fSD5fgC3x7eqj+V1ywQxcAbjwC7es2TL9GK6O7pEj2OCTvHZYVPouFXzf2GB3IbDWWsgkqFB9VDbvKAQ=="/>
         </item>
     </channel>
 </rss>
