@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 03 May 2026 17:52:14 -0700</pubDate>
-            <sparkle:version>673</sparkle:version>
+            <pubDate>Mon, 04 May 2026 14:36:39 -0700</pubDate>
+            <sparkle:version>674</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -449,10 +449,12 @@
 </li>
 <li>fix(macro): resolve split start directory against target window by @sjungling in <a href="https://github.com/sjungling/cortina/pull/264">https://github.com/sjungling/cortina/pull/264</a>
 </li>
+<li>feat(AppDetector): recognize VSCodium as a code editor by @sjungling in <a href="https://github.com/sjungling/cortina/pull/265">https://github.com/sjungling/cortina/pull/265</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.673">https://github.com/sjungling/cortina/commits/v1.0-beta.673</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.674">https://github.com/sjungling/cortina/commits/v1.0-beta.674</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.673/cortina-1.0-beta.673.dmg" length="21309621" type="application/octet-stream" sparkle:edSignature="sxN0p9uuWUZ1redG9Pp+rOmSDwxJMz0EkPvEFPgMQs0DnknGusN0PaH+/h5Ut0LHqEvoGedRCG2t5razl2XFCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.674/cortina-1.0-beta.674.dmg" length="21309517" type="application/octet-stream" sparkle:edSignature="QHxdvGsC+3LfKMa1jQFGjWDT4jyWn2CO9jDb38SFlpgc4+uBhjYyl/Z7zaq/0GBK0fcL5kO/6V0iqv2lz6uaCA=="/>
         </item>
     </channel>
 </rss>
