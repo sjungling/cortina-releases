@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 02 May 2026 12:32:33 -0700</pubDate>
-            <sparkle:version>672</sparkle:version>
+            <pubDate>Sun, 03 May 2026 17:52:14 -0700</pubDate>
+            <sparkle:version>673</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -447,10 +447,12 @@
 </li>
 <li>fix(macro): simplify macro input and view interactions by @sjungling in <a href="https://github.com/sjungling/cortina/pull/263">https://github.com/sjungling/cortina/pull/263</a>
 </li>
+<li>fix(macro): resolve split start directory against target window by @sjungling in <a href="https://github.com/sjungling/cortina/pull/264">https://github.com/sjungling/cortina/pull/264</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.672">https://github.com/sjungling/cortina/commits/v1.0-beta.672</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.673">https://github.com/sjungling/cortina/commits/v1.0-beta.673</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.672/cortina-1.0-beta.672.dmg" length="21309311" type="application/octet-stream" sparkle:edSignature="lyvSB/fSD5fgC3x7eqj+V1ywQxcAbjwC7es2TL9GK6O7pEj2OCTvHZYVPouFXzf2GB3IbDWWsgkqFB9VDbvKAQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.673/cortina-1.0-beta.673.dmg" length="21309621" type="application/octet-stream" sparkle:edSignature="sxN0p9uuWUZ1redG9Pp+rOmSDwxJMz0EkPvEFPgMQs0DnknGusN0PaH+/h5Ut0LHqEvoGedRCG2t5razl2XFCg=="/>
         </item>
     </channel>
 </rss>
