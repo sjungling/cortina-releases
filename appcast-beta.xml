@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 08 May 2026 19:41:15 -0700</pubDate>
-            <sparkle:version>676</sparkle:version>
+            <pubDate>Thu, 14 May 2026 22:18:48 -0700</pubDate>
+            <sparkle:version>677</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -455,10 +455,12 @@
 </li>
 <li>fix(AddTaskView): truncate add-dir summary and add clear button by @sjungling in <a href="https://github.com/sjungling/cortina/pull/267">https://github.com/sjungling/cortina/pull/267</a>
 </li>
+<li>fix(editor): keep cursor visible while typing long prompts by @sjungling in <a href="https://github.com/sjungling/cortina/pull/268">https://github.com/sjungling/cortina/pull/268</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.676">https://github.com/sjungling/cortina/commits/v1.0-beta.676</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.677">https://github.com/sjungling/cortina/commits/v1.0-beta.677</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.676/cortina-1.0-beta.676.dmg" length="21314420" type="application/octet-stream" sparkle:edSignature="1HMv+P2H7YnPSIcOEnqRHvc7Ca3tgbj0V12WkkHwMk1PNrUHIN09blzoBomHImlGqBJVfgmfJpy4Ahjl8gVdDw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.677/cortina-1.0-beta.677.dmg" length="21314448" type="application/octet-stream" sparkle:edSignature="2xxytitRoLtf570iz45cEWVCNvLj3I9oWV+KKzWqnXBrjlZ7XqeLi1nGk9Zsera0zEqL0ctfybokNwK4rekDAQ=="/>
         </item>
     </channel>
 </rss>
