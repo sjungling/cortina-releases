@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 14 May 2026 22:18:48 -0700</pubDate>
-            <sparkle:version>677</sparkle:version>
+            <pubDate>Wed, 20 May 2026 14:05:11 -0700</pubDate>
+            <sparkle:version>678</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -457,10 +457,12 @@
 </li>
 <li>fix(editor): keep cursor visible while typing long prompts by @sjungling in <a href="https://github.com/sjungling/cortina/pull/268">https://github.com/sjungling/cortina/pull/268</a>
 </li>
+<li>refactor(settings): NavigationSplitView chassis with sheet-based editing by @sjungling in <a href="https://github.com/sjungling/cortina/pull/269">https://github.com/sjungling/cortina/pull/269</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.677">https://github.com/sjungling/cortina/commits/v1.0-beta.677</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.678">https://github.com/sjungling/cortina/commits/v1.0-beta.678</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.677/cortina-1.0-beta.677.dmg" length="21314448" type="application/octet-stream" sparkle:edSignature="2xxytitRoLtf570iz45cEWVCNvLj3I9oWV+KKzWqnXBrjlZ7XqeLi1nGk9Zsera0zEqL0ctfybokNwK4rekDAQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.678/cortina-1.0-beta.678.dmg" length="20589650" type="application/octet-stream" sparkle:edSignature="8DZgP1MQOVZq8+suwl807Yp2qfQEg2zgETugAZZa2R6GKdcECjs/7PsVrEB0nxQZ5T+mh8KTdBOcQbiQokLeBw=="/>
         </item>
     </channel>
 </rss>
