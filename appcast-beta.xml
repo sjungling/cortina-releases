@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 22 May 2026 10:07:19 -0700</pubDate>
-            <sparkle:version>679</sparkle:version>
+            <pubDate>Tue, 26 May 2026 13:48:55 -0700</pubDate>
+            <sparkle:version>680</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -461,10 +461,12 @@
 </li>
 <li>feat(CheckoutBranchSheet): auto-focus branch selector on sheet open by @sjungling in <a href="https://github.com/sjungling/cortina/pull/270">https://github.com/sjungling/cortina/pull/270</a>
 </li>
+<li>fix(popups): subdue selection highlight when window is inactive by @sjungling in <a href="https://github.com/sjungling/cortina/pull/271">https://github.com/sjungling/cortina/pull/271</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.679">https://github.com/sjungling/cortina/commits/v1.0-beta.679</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.680">https://github.com/sjungling/cortina/commits/v1.0-beta.680</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.679/cortina-1.0-beta.679.dmg" length="20589619" type="application/octet-stream" sparkle:edSignature="NVTPtbY0wzxNeh02VqQfzOBMYp3d9jo8/q8Wi12URWFDuai2aC6KgVQM/Czv0bmNMnonkyHmQpBiaQ38iMFnAQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.680/cortina-1.0-beta.680.dmg" length="20589988" type="application/octet-stream" sparkle:edSignature="FUHpCgMySvNMcKqnAq8bxQKo/6lPrvisT+xbpOYIztCq/oLnTY7xcIwsz1UxR9AWao4+46HWIpqJUDPCawLICA=="/>
         </item>
     </channel>
 </rss>
