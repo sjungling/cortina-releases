@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 26 May 2026 13:48:55 -0700</pubDate>
-            <sparkle:version>680</sparkle:version>
+            <pubDate>Wed, 27 May 2026 22:00:22 -0700</pubDate>
+            <sparkle:version>681</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -463,10 +463,12 @@
 </li>
 <li>fix(popups): subdue selection highlight when window is inactive by @sjungling in <a href="https://github.com/sjungling/cortina/pull/271">https://github.com/sjungling/cortina/pull/271</a>
 </li>
+<li>fix(resume): replace configDir-blind sessionExists gate with unconditional --resume by @sjungling in <a href="https://github.com/sjungling/cortina/pull/272">https://github.com/sjungling/cortina/pull/272</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.680">https://github.com/sjungling/cortina/commits/v1.0-beta.680</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.681">https://github.com/sjungling/cortina/commits/v1.0-beta.681</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.680/cortina-1.0-beta.680.dmg" length="20589988" type="application/octet-stream" sparkle:edSignature="FUHpCgMySvNMcKqnAq8bxQKo/6lPrvisT+xbpOYIztCq/oLnTY7xcIwsz1UxR9AWao4+46HWIpqJUDPCawLICA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.681/cortina-1.0-beta.681.dmg" length="20589812" type="application/octet-stream" sparkle:edSignature="fmwY3nx6w7o612XQfINm5nVkdLXd8pQv9pqFnJ2W8oMS4UDbj+F+EgRcB6llJzwCiNKusn6mLczzgaXhcTXVDw=="/>
         </item>
     </channel>
 </rss>
