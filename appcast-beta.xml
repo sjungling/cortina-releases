@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 05 Jun 2026 21:28:47 -0700</pubDate>
-            <sparkle:version>683</sparkle:version>
+            <pubDate>Fri, 12 Jun 2026 11:39:07 -0700</pubDate>
+            <sparkle:version>684</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -469,10 +469,12 @@
 </li>
 <li>feat: export macros and context templates as YAML by @sjungling in <a href="https://github.com/sjungling/cortina/pull/274">https://github.com/sjungling/cortina/pull/274</a>
 </li>
+<li>feat(sidebar): add git push and force-push-with-lease context menu items by @sjungling in <a href="https://github.com/sjungling/cortina/pull/275">https://github.com/sjungling/cortina/pull/275</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.683">https://github.com/sjungling/cortina/commits/v1.0-beta.683</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.684">https://github.com/sjungling/cortina/commits/v1.0-beta.684</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.683/cortina-1.0-beta.683.dmg" length="20914194" type="application/octet-stream" sparkle:edSignature="9PvvZsSU8mVEs59JXKXHcXHkeHF4leUbLmC9feunXH3pHrot/NIGh3qsWWwicccOtUxo3DmjVHjnuptY7Su5Ag=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.684/cortina-1.0-beta.684.dmg" length="20924018" type="application/octet-stream" sparkle:edSignature="Go33PRmDV495RbS6anqNoQASt06AhOHNeHz16Wdr5Q3+IZMgCLTqqwFsw0/Ckk2lA+To8NqSDkwqPXNB6UF0Bw=="/>
         </item>
     </channel>
 </rss>
