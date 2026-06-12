@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 12 Jun 2026 11:39:07 -0700</pubDate>
-            <sparkle:version>684</sparkle:version>
+            <pubDate>Fri, 12 Jun 2026 12:33:53 -0700</pubDate>
+            <sparkle:version>685</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -471,10 +471,12 @@
 </li>
 <li>feat(sidebar): add git push and force-push-with-lease context menu items by @sjungling in <a href="https://github.com/sjungling/cortina/pull/275">https://github.com/sjungling/cortina/pull/275</a>
 </li>
+<li>feat(sidebar): detect detached HEAD and show short SHA instead of skeleton by @sjungling in <a href="https://github.com/sjungling/cortina/pull/276">https://github.com/sjungling/cortina/pull/276</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.684">https://github.com/sjungling/cortina/commits/v1.0-beta.684</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.685">https://github.com/sjungling/cortina/commits/v1.0-beta.685</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.684/cortina-1.0-beta.684.dmg" length="20924018" type="application/octet-stream" sparkle:edSignature="Go33PRmDV495RbS6anqNoQASt06AhOHNeHz16Wdr5Q3+IZMgCLTqqwFsw0/Ckk2lA+To8NqSDkwqPXNB6UF0Bw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.685/cortina-1.0-beta.685.dmg" length="20922414" type="application/octet-stream" sparkle:edSignature="JV0JKqxu8/diaUuNBOPRKHbY2z+15Xk5xYKtBbvWtF0HWSOLl3baNop8azNCZCzJbQYdP6R0Lv2FRwqQYMGwAA=="/>
         </item>
     </channel>
 </rss>
