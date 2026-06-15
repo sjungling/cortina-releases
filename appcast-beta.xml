@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 12 Jun 2026 12:33:53 -0700</pubDate>
-            <sparkle:version>685</sparkle:version>
+            <pubDate>Mon, 15 Jun 2026 14:27:15 -0700</pubDate>
+            <sparkle:version>686</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -473,10 +473,12 @@
 </li>
 <li>feat(sidebar): detect detached HEAD and show short SHA instead of skeleton by @sjungling in <a href="https://github.com/sjungling/cortina/pull/276">https://github.com/sjungling/cortina/pull/276</a>
 </li>
+<li>fix(logging): replace OSLog intermediary with direct OSSignposter init by @sjungling in <a href="https://github.com/sjungling/cortina/pull/277">https://github.com/sjungling/cortina/pull/277</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.685">https://github.com/sjungling/cortina/commits/v1.0-beta.685</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.686">https://github.com/sjungling/cortina/commits/v1.0-beta.686</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.685/cortina-1.0-beta.685.dmg" length="20922414" type="application/octet-stream" sparkle:edSignature="JV0JKqxu8/diaUuNBOPRKHbY2z+15Xk5xYKtBbvWtF0HWSOLl3baNop8azNCZCzJbQYdP6R0Lv2FRwqQYMGwAA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.686/cortina-1.0-beta.686.dmg" length="20922208" type="application/octet-stream" sparkle:edSignature="RVWpOzzyZ7zqpiozK5WTlv+JvJ8wEwRBrARzek18pwSjJHHH+UJh6RFFoJb3AZj9/3M268OUwY9/h8/ji11bDw=="/>
         </item>
     </channel>
 </rss>
