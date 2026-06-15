@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 15 Jun 2026 15:44:40 -0700</pubDate>
-            <sparkle:version>687</sparkle:version>
+            <pubDate>Mon, 15 Jun 2026 16:37:58 -0700</pubDate>
+            <sparkle:version>688</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -477,10 +477,12 @@
 </li>
 <li>feat(sidebar): add Pull All button to sidebar footer by @sjungling in <a href="https://github.com/sjungling/cortina/pull/279">https://github.com/sjungling/cortina/pull/279</a>
 </li>
+<li>feat: add non-git directory support (Obsidian vault use case) by @sjungling in <a href="https://github.com/sjungling/cortina/pull/278">https://github.com/sjungling/cortina/pull/278</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.687">https://github.com/sjungling/cortina/commits/v1.0-beta.687</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.688">https://github.com/sjungling/cortina/commits/v1.0-beta.688</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.687/cortina-1.0-beta.687.dmg" length="20922587" type="application/octet-stream" sparkle:edSignature="TiRD1lqv47vsjBkow+gAZ7kh20QSOl38NKFXZXC/FEVS5e4+sbO6xhnM8+jTPeMyr4Y1OmDSnV8vSAlx7A1NDA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.688/cortina-1.0-beta.688.dmg" length="20923469" type="application/octet-stream" sparkle:edSignature="D/xXeRj2AyM4zeCvc+X8BVRNPSLHBVOIR6lMGLep+/jo2gwsPJgvoIFWRWvCPV32S7438HjwHndgAVaXWF4KDw=="/>
         </item>
     </channel>
 </rss>
