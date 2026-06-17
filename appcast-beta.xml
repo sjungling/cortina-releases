@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 15 Jun 2026 16:37:58 -0700</pubDate>
-            <sparkle:version>688</sparkle:version>
+            <pubDate>Wed, 17 Jun 2026 11:10:36 -0700</pubDate>
+            <sparkle:version>689</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -479,10 +479,12 @@
 </li>
 <li>feat: add non-git directory support (Obsidian vault use case) by @sjungling in <a href="https://github.com/sjungling/cortina/pull/278">https://github.com/sjungling/cortina/pull/278</a>
 </li>
+<li>feat(diff): add refresh button to diff view header by @sjungling in <a href="https://github.com/sjungling/cortina/pull/280">https://github.com/sjungling/cortina/pull/280</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.688">https://github.com/sjungling/cortina/commits/v1.0-beta.688</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.689">https://github.com/sjungling/cortina/commits/v1.0-beta.689</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.688/cortina-1.0-beta.688.dmg" length="20923469" type="application/octet-stream" sparkle:edSignature="D/xXeRj2AyM4zeCvc+X8BVRNPSLHBVOIR6lMGLep+/jo2gwsPJgvoIFWRWvCPV32S7438HjwHndgAVaXWF4KDw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.689/cortina-1.0-beta.689.dmg" length="20956108" type="application/octet-stream" sparkle:edSignature="bwL8QOBShRkNcqA+HT7HzGirzxVwend/4fTDaYIdspk9/ndNE/Txzyh3lZwOiK5wHvypOs9KfIMJP3R2Kz98AQ=="/>
         </item>
     </channel>
 </rss>
