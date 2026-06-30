@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 18 Jun 2026 22:51:44 -0700</pubDate>
-            <sparkle:version>690</sparkle:version>
+            <pubDate>Tue, 30 Jun 2026 08:52:13 -0700</pubDate>
+            <sparkle:version>691</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -483,10 +483,12 @@
 </li>
 <li>fix(editor): stop AddTaskView prompt field hanging on large inputs by @sjungling in <a href="https://github.com/sjungling/cortina/pull/281">https://github.com/sjungling/cortina/pull/281</a>
 </li>
+<li>feat: add optional task name alias by @sjungling in <a href="https://github.com/sjungling/cortina/pull/282">https://github.com/sjungling/cortina/pull/282</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.690">https://github.com/sjungling/cortina/commits/v1.0-beta.690</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.691">https://github.com/sjungling/cortina/commits/v1.0-beta.691</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.690/cortina-1.0-beta.690.dmg" length="20956844" type="application/octet-stream" sparkle:edSignature="P4O6pGCNRodkb4nP/tdGGBe1O2Q0lM5JX1U1Z06i7zcvdJjEE5i/YGjDgM3jkuzAU5hA0xyIRwd7o4tNHl7mCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.691/cortina-1.0-beta.691.dmg" length="21677812" type="application/octet-stream" sparkle:edSignature="UxPJkCFWRYdA8Eo0HIGxbzPQcyPPk944eiDUI7So3GVmyNMkHFqofdZiqZz+DZZoxVcOboi7nZwBQrlLamU6CQ=="/>
         </item>
     </channel>
 </rss>
