@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 30 Jun 2026 08:52:13 -0700</pubDate>
-            <sparkle:version>691</sparkle:version>
+            <pubDate>Thu, 02 Jul 2026 10:54:51 -0700</pubDate>
+            <sparkle:version>692</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -485,10 +485,12 @@
 </li>
 <li>feat: add optional task name alias by @sjungling in <a href="https://github.com/sjungling/cortina/pull/282">https://github.com/sjungling/cortina/pull/282</a>
 </li>
+<li>feat: open Cmd+clicked terminal files in the OS default app by @sjungling in <a href="https://github.com/sjungling/cortina/pull/283">https://github.com/sjungling/cortina/pull/283</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.691">https://github.com/sjungling/cortina/commits/v1.0-beta.691</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.692">https://github.com/sjungling/cortina/commits/v1.0-beta.692</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.691/cortina-1.0-beta.691.dmg" length="21677812" type="application/octet-stream" sparkle:edSignature="UxPJkCFWRYdA8Eo0HIGxbzPQcyPPk944eiDUI7So3GVmyNMkHFqofdZiqZz+DZZoxVcOboi7nZwBQrlLamU6CQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.692/cortina-1.0-beta.692.dmg" length="20922755" type="application/octet-stream" sparkle:edSignature="JcAf7ulTsQPPUkusVPB6Qr54NQrasmmVH6bWODsKw+F1+sTp+CQ2zeHOPPoJ6/HEu3DWCCq/+xqFJYCZdRP/DA=="/>
         </item>
     </channel>
 </rss>
