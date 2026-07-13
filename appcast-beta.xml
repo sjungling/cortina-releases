@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 02 Jul 2026 10:54:51 -0700</pubDate>
-            <sparkle:version>692</sparkle:version>
+            <pubDate>Sun, 12 Jul 2026 21:28:57 -0700</pubDate>
+            <sparkle:version>693</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -487,10 +487,12 @@
 </li>
 <li>feat: open Cmd+clicked terminal files in the OS default app by @sjungling in <a href="https://github.com/sjungling/cortina/pull/283">https://github.com/sjungling/cortina/pull/283</a>
 </li>
+<li>fix(settings): make Claude profile env var editor usable by @sjungling in <a href="https://github.com/sjungling/cortina/pull/284">https://github.com/sjungling/cortina/pull/284</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.692">https://github.com/sjungling/cortina/commits/v1.0-beta.692</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.693">https://github.com/sjungling/cortina/commits/v1.0-beta.693</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.692/cortina-1.0-beta.692.dmg" length="20922755" type="application/octet-stream" sparkle:edSignature="JcAf7ulTsQPPUkusVPB6Qr54NQrasmmVH6bWODsKw+F1+sTp+CQ2zeHOPPoJ6/HEu3DWCCq/+xqFJYCZdRP/DA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.693/cortina-1.0-beta.693.dmg" length="20924409" type="application/octet-stream" sparkle:edSignature="F7HvBzV3VWNc8uXtDoGIstXU0HtaukLlpSbyo/enUrrZpRDc/N78R7GtdF/06fOrm8zDXEqHetQRGFtpPlpYAA=="/>
         </item>
     </channel>
 </rss>
