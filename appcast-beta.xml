@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 12 Jul 2026 21:28:57 -0700</pubDate>
-            <sparkle:version>693</sparkle:version>
+            <pubDate>Fri, 17 Jul 2026 09:46:14 -0700</pubDate>
+            <sparkle:version>694</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -489,10 +489,12 @@
 </li>
 <li>fix(settings): make Claude profile env var editor usable by @sjungling in <a href="https://github.com/sjungling/cortina/pull/284">https://github.com/sjungling/cortina/pull/284</a>
 </li>
+<li>Fix Tab navigation in Checkout Branch sheet by @sjungling in <a href="https://github.com/sjungling/cortina/pull/286">https://github.com/sjungling/cortina/pull/286</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.693">https://github.com/sjungling/cortina/commits/v1.0-beta.693</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.694">https://github.com/sjungling/cortina/commits/v1.0-beta.694</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.693/cortina-1.0-beta.693.dmg" length="20924409" type="application/octet-stream" sparkle:edSignature="F7HvBzV3VWNc8uXtDoGIstXU0HtaukLlpSbyo/enUrrZpRDc/N78R7GtdF/06fOrm8zDXEqHetQRGFtpPlpYAA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.694/cortina-1.0-beta.694.dmg" length="20928703" type="application/octet-stream" sparkle:edSignature="HiIpwkoapXh0PTDRfCtzMCD5F1p+rhN0TgTLhNYzydsQlGSaayUXtSVOkV2B1ibITueeTXePkwepu9YGchEZAA=="/>
         </item>
     </channel>
 </rss>
