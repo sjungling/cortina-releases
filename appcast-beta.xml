@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 04 Aug 2026 10:14:54 -0700</pubDate>
-            <sparkle:version>695</sparkle:version>
+            <pubDate>Tue, 04 Aug 2026 11:17:54 -0700</pubDate>
+            <sparkle:version>696</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -493,10 +493,12 @@
 </li>
 <li>SwiftUI/AppKit view-graph analyzer + AppKit shell migrations by @sjungling in <a href="https://github.com/sjungling/cortina/pull/287">https://github.com/sjungling/cortina/pull/287</a>
 </li>
+<li>Add SwiftUI/AppKit view graph analyzer tool by @sjungling in <a href="https://github.com/sjungling/cortina/pull/288">https://github.com/sjungling/cortina/pull/288</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.695">https://github.com/sjungling/cortina/commits/v1.0-beta.695</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.696">https://github.com/sjungling/cortina/commits/v1.0-beta.696</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.695/cortina-1.0-beta.695.dmg" length="20930025" type="application/octet-stream" sparkle:edSignature="ZeGZLWzCfqTPiwXbFsCN6V+6XtJs8D8vAaGWmduwEUlglqoC5ITzyn62CEoBkGg8Zqz6gnOjoG8ph/FnCswVBw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.696/cortina-1.0-beta.696.dmg" length="20929979" type="application/octet-stream" sparkle:edSignature="geF+KCiaVFZl7xXr2jzMrt9gMw/V85QKNwY0X1b6ZE3MqE2SUaJ/xrnuXuLDiG4yZQ4q/4c2Sq3nCuO0VBpmAQ=="/>
         </item>
     </channel>
 </rss>
