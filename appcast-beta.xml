@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 10 Aug 2026 21:17:46 -0700</pubDate>
-            <sparkle:version>698</sparkle:version>
+            <pubDate>Tue, 11 Aug 2026 21:43:02 -0700</pubDate>
+            <sparkle:version>699</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -499,10 +499,12 @@
 </li>
 <li>feat: agent abstraction — codex support + Claude custom backends by @sjungling in <a href="https://github.com/sjungling/cortina/pull/285">https://github.com/sjungling/cortina/pull/285</a>
 </li>
+<li>Multi-provider session stats + accurate agent-kind tracking by @sjungling in <a href="https://github.com/sjungling/cortina/pull/290">https://github.com/sjungling/cortina/pull/290</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.698">https://github.com/sjungling/cortina/commits/v1.0-beta.698</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.699">https://github.com/sjungling/cortina/commits/v1.0-beta.699</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.698/cortina-1.0-beta.698.dmg" length="26761476" type="application/octet-stream" sparkle:edSignature="sQ0QiS+/9paN7ORLDUYtUXaJtyWY/eYA922RJItzM7JT06pfRoqZ5fHGIExdBxTp0V4BLTOiuOAmGagEEZguAw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.699/cortina-1.0-beta.699.dmg" length="26724918" type="application/octet-stream" sparkle:edSignature="7ijXGvt3NXXuBaDDPN1gwBZq3k4Xoyf2m5wcSztFjsmJ1qNvstqvzf9OKD9UmbaFPFmea7CNPhL1Rxhny1yjAw=="/>
         </item>
     </channel>
 </rss>
