@@ -4,10 +4,10 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 11 Aug 2026 21:43:02 -0700</pubDate>
-            <sparkle:version>699</sparkle:version>
+            <pubDate>Wed, 19 Aug 2026 10:52:53 -0700</pubDate>
+            <sparkle:version>700</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
@@ -501,10 +501,12 @@
 </li>
 <li>Multi-provider session stats + accurate agent-kind tracking by @sjungling in <a href="https://github.com/sjungling/cortina/pull/290">https://github.com/sjungling/cortina/pull/290</a>
 </li>
+<li>AppKit migration Phase 1: observation bridge, token surfaces, rules docs by @sjungling in <a href="https://github.com/sjungling/cortina/pull/291">https://github.com/sjungling/cortina/pull/291</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.699">https://github.com/sjungling/cortina/commits/v1.0-beta.699</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.700">https://github.com/sjungling/cortina/commits/v1.0-beta.700</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.699/cortina-1.0-beta.699.dmg" length="26724918" type="application/octet-stream" sparkle:edSignature="7ijXGvt3NXXuBaDDPN1gwBZq3k4Xoyf2m5wcSztFjsmJ1qNvstqvzf9OKD9UmbaFPFmea7CNPhL1Rxhny1yjAw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.700/cortina-1.0-beta.700.dmg" length="18377724" type="application/octet-stream" sparkle:edSignature="htOuJmTgRLcxriQOUgaFGYLNAEVTZZ38IgHlYquMX0cdMQlGbt5Tpi5OwlrIeAD/6MtwnOSHiMHzWhSzx1w4AA=="/>
         </item>
     </channel>
 </rss>
