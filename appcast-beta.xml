@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 19 Aug 2026 15:01:53 -0700</pubDate>
-            <sparkle:version>701</sparkle:version>
+            <pubDate>Thu, 20 Aug 2026 13:48:51 -0700</pubDate>
+            <sparkle:version>702</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -505,10 +505,12 @@
 </li>
 <li>Align toolbar/sidebar chrome to native AppKit; fix diff scroller by @sjungling in <a href="https://github.com/sjungling/cortina/pull/293">https://github.com/sjungling/cortina/pull/293</a>
 </li>
+<li>Fix task-list pane ballooning on completed-task load (#292) by @sjungling in <a href="https://github.com/sjungling/cortina/pull/294">https://github.com/sjungling/cortina/pull/294</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.701">https://github.com/sjungling/cortina/commits/v1.0-beta.701</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.702">https://github.com/sjungling/cortina/commits/v1.0-beta.702</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.701/cortina-1.0-beta.701.dmg" length="18370063" type="application/octet-stream" sparkle:edSignature="xUIJdjFragcNJ9s0vhd6Xa0srPXP80Q/o2X9zeR1XRSPtHWVKDqIGMe0e2hPkUjz5yYgspadNc3cqlwC9rxmBw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.702/cortina-1.0-beta.702.dmg" length="18372223" type="application/octet-stream" sparkle:edSignature="F8MN6lGi8LfTZwT7/5x6HpxvsIDveUsrK7IMdXPcELMcQPhlFswNi31Xo+zmWPwSMcmIGmVs2r4jgRAUoTkYCg=="/>
         </item>
     </channel>
 </rss>
