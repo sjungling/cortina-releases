@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 20 Aug 2026 16:44:14 -0700</pubDate>
-            <sparkle:version>703</sparkle:version>
+            <pubDate>Thu, 20 Aug 2026 18:28:34 -0700</pubDate>
+            <sparkle:version>704</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -509,10 +509,12 @@
 </li>
 <li>Fix AddTask focus stealing, add pull/refresh shortcuts, persist window frame by @sjungling in <a href="https://github.com/sjungling/cortina/pull/296">https://github.com/sjungling/cortina/pull/296</a>
 </li>
+<li>Remove DesignTokens, use native AppKit directly by @sjungling in <a href="https://github.com/sjungling/cortina/pull/297">https://github.com/sjungling/cortina/pull/297</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.703">https://github.com/sjungling/cortina/commits/v1.0-beta.703</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.704">https://github.com/sjungling/cortina/commits/v1.0-beta.704</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.703/cortina-1.0-beta.703.dmg" length="18377687" type="application/octet-stream" sparkle:edSignature="ZUC63vU0l6BRypNeksb9mnA8g1LDhuMolGu32aQhVcxVA7w8RHeDiAmAqHQWjfTnCkqUp+aWxrFw4rGYO+2MDg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.704/cortina-1.0-beta.704.dmg" length="18374251" type="application/octet-stream" sparkle:edSignature="hHHbJbF0wk/Myfow1TEWbLMju0+BHOzBrDCZMGy6ykMqsIiIYslIceCb7Fq2Qi6Q6XFoN386TAXvVS56y8XSDw=="/>
         </item>
     </channel>
 </rss>
