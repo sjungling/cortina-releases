@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 21 Aug 2026 16:04:38 -0700</pubDate>
-            <sparkle:version>706</sparkle:version>
+            <pubDate>Fri, 21 Aug 2026 21:22:15 -0700</pubDate>
+            <sparkle:version>707</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -515,10 +515,12 @@
 </li>
 <li>Fix rename field text visibility and redesign attach tile by @sjungling in <a href="https://github.com/sjungling/cortina/pull/299">https://github.com/sjungling/cortina/pull/299</a>
 </li>
+<li>Task Smart Feeds: cross-repo Today / All Unread views by @sjungling in <a href="https://github.com/sjungling/cortina/pull/300">https://github.com/sjungling/cortina/pull/300</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.706">https://github.com/sjungling/cortina/commits/v1.0-beta.706</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.707">https://github.com/sjungling/cortina/commits/v1.0-beta.707</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.706/cortina-1.0-beta.706.dmg" length="18372998" type="application/octet-stream" sparkle:edSignature="Hh/JLdACarG9QY2A42odC4ij/4tdJrF6iAqj08ZezHfgAVM8myWPlTElY9owwtabJm3AUp4/A3JtTD11FWKpBQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.707/cortina-1.0-beta.707.dmg" length="18382070" type="application/octet-stream" sparkle:edSignature="F03yfntkZsKaj6F2905epf8w3y6sYakY2kV5Y6yOQgBsE75xau3doqP1j3h/5Qynw3YhXNPkuwGwe7jkvGn/Ag=="/>
         </item>
     </channel>
 </rss>
