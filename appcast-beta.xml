@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 21 Aug 2026 21:22:15 -0700</pubDate>
-            <sparkle:version>707</sparkle:version>
+            <pubDate>Tue, 25 Aug 2026 15:08:55 -0700</pubDate>
+            <sparkle:version>708</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -517,10 +517,12 @@
 </li>
 <li>Task Smart Feeds: cross-repo Today / All Unread views by @sjungling in <a href="https://github.com/sjungling/cortina/pull/300">https://github.com/sjungling/cortina/pull/300</a>
 </li>
+<li>Bulk task selection: copy session IDs, reconnect, restart, mark completed by @sjungling in <a href="https://github.com/sjungling/cortina/pull/301">https://github.com/sjungling/cortina/pull/301</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.707">https://github.com/sjungling/cortina/commits/v1.0-beta.707</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.708">https://github.com/sjungling/cortina/commits/v1.0-beta.708</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.707/cortina-1.0-beta.707.dmg" length="18382070" type="application/octet-stream" sparkle:edSignature="F03yfntkZsKaj6F2905epf8w3y6sYakY2kV5Y6yOQgBsE75xau3doqP1j3h/5Qynw3YhXNPkuwGwe7jkvGn/Ag=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.708/cortina-1.0-beta.708.dmg" length="18387556" type="application/octet-stream" sparkle:edSignature="C+5WuaBz5dW3DvvDneX8UFQVNKInwwmrAmrSzq19N23TZJiuyh31DtX6q/yHIO8uRninT9CHWP1TisZ20QpnDA=="/>
         </item>
     </channel>
 </rss>
