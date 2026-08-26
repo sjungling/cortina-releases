@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 26 Aug 2026 14:01:45 -0700</pubDate>
-            <sparkle:version>710</sparkle:version>
+            <pubDate>Wed, 26 Aug 2026 14:28:15 -0700</pubDate>
+            <sparkle:version>711</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -523,10 +523,12 @@
 </li>
 <li>Fix: task lookup fails silently in Smart Feed mode by @sjungling in <a href="https://github.com/sjungling/cortina/pull/303">https://github.com/sjungling/cortina/pull/303</a>
 </li>
+<li>Fix task list ballooning when selecting a repository by @sjungling in <a href="https://github.com/sjungling/cortina/pull/304">https://github.com/sjungling/cortina/pull/304</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.710">https://github.com/sjungling/cortina/commits/v1.0-beta.710</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.711">https://github.com/sjungling/cortina/commits/v1.0-beta.711</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.710/cortina-1.0-beta.710.dmg" length="18386391" type="application/octet-stream" sparkle:edSignature="6PXwI20ZE19KEIH8JaR7+5WoTtx+XslGyZEj9iJEgu/c9uZtDPZEyrTFf3lno7MMKr1kCB4C1uOtDe3TV41TCA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.711/cortina-1.0-beta.711.dmg" length="18387098" type="application/octet-stream" sparkle:edSignature="bNiWjj2gjNCsFPJmX3OrsX/uVRfG6ZLrAN8I+ucA6Hhbe/fLYIwPQmgB5Ajv6AjhYdiYBPZzKUHbsJFtQHE+Dg=="/>
         </item>
     </channel>
 </rss>
