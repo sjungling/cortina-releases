@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 26 Aug 2026 09:42:41 -0700</pubDate>
-            <sparkle:version>709</sparkle:version>
+            <pubDate>Wed, 26 Aug 2026 14:01:45 -0700</pubDate>
+            <sparkle:version>710</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -521,10 +521,12 @@
 </li>
 <li>Match NetNewsWire sidebar footer: divider + animated slide by @sjungling in <a href="https://github.com/sjungling/cortina/pull/302">https://github.com/sjungling/cortina/pull/302</a>
 </li>
+<li>Fix: task lookup fails silently in Smart Feed mode by @sjungling in <a href="https://github.com/sjungling/cortina/pull/303">https://github.com/sjungling/cortina/pull/303</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.709">https://github.com/sjungling/cortina/commits/v1.0-beta.709</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.710">https://github.com/sjungling/cortina/commits/v1.0-beta.710</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.709/cortina-1.0-beta.709.dmg" length="18386704" type="application/octet-stream" sparkle:edSignature="IoTueY6D90gH4EpoECjANPXZIC9d2VWuh41RvV8t79A43AI9XttlE4QqKM6hd60HUEi3Vh+vgxvpagkhSnOTDg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.710/cortina-1.0-beta.710.dmg" length="18386391" type="application/octet-stream" sparkle:edSignature="6PXwI20ZE19KEIH8JaR7+5WoTtx+XslGyZEj9iJEgu/c9uZtDPZEyrTFf3lno7MMKr1kCB4C1uOtDe3TV41TCA=="/>
         </item>
     </channel>
 </rss>
