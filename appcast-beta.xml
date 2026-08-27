@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 27 Aug 2026 08:40:47 -0700</pubDate>
-            <sparkle:version>712</sparkle:version>
+            <pubDate>Thu, 27 Aug 2026 11:11:05 -0700</pubDate>
+            <sparkle:version>713</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -527,10 +527,12 @@
 </li>
 <li>Add Liquid Glass effect to sidebar footer progress indicator by @sjungling in <a href="https://github.com/sjungling/cortina/pull/305">https://github.com/sjungling/cortina/pull/305</a>
 </li>
+<li>Streamline sidebar Pull All and badge per-repo failures by @sjungling in <a href="https://github.com/sjungling/cortina/pull/306">https://github.com/sjungling/cortina/pull/306</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.712">https://github.com/sjungling/cortina/commits/v1.0-beta.712</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.713">https://github.com/sjungling/cortina/commits/v1.0-beta.713</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.712/cortina-1.0-beta.712.dmg" length="18387195" type="application/octet-stream" sparkle:edSignature="yZ0xXBWG2RD3uKEvMvKy2/r1I7raohlyr3qW7bUKtlbStC4ga7C1frBK9b/uMtTXegHCBeGamI66ggsaOLgLAQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.713/cortina-1.0-beta.713.dmg" length="18391147" type="application/octet-stream" sparkle:edSignature="icxpRnZZzW3hI5P7Z8natoMM/j9/saYK/6FaTDwR0rSvXP2ZR9iH4bJwSv5+OzzdZxuuPlVpx2BhwfniWV5HBA=="/>
         </item>
     </channel>
 </rss>
