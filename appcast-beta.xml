@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 27 Aug 2026 11:11:05 -0700</pubDate>
-            <sparkle:version>713</sparkle:version>
+            <pubDate>Thu, 27 Aug 2026 14:22:49 -0700</pubDate>
+            <sparkle:version>714</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -529,10 +529,12 @@
 </li>
 <li>Streamline sidebar Pull All and badge per-repo failures by @sjungling in <a href="https://github.com/sjungling/cortina/pull/306">https://github.com/sjungling/cortina/pull/306</a>
 </li>
+<li>Settings window: System Settings-style sidebar layout by @sjungling in <a href="https://github.com/sjungling/cortina/pull/307">https://github.com/sjungling/cortina/pull/307</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.713">https://github.com/sjungling/cortina/commits/v1.0-beta.713</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.714">https://github.com/sjungling/cortina/commits/v1.0-beta.714</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.713/cortina-1.0-beta.713.dmg" length="18391147" type="application/octet-stream" sparkle:edSignature="icxpRnZZzW3hI5P7Z8natoMM/j9/saYK/6FaTDwR0rSvXP2ZR9iH4bJwSv5+OzzdZxuuPlVpx2BhwfniWV5HBA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.714/cortina-1.0-beta.714.dmg" length="18397426" type="application/octet-stream" sparkle:edSignature="ZFp9agx9ShKqgKHCByTG6BPtjkf4kR4LV5T3iAxZOMX7yZu2Y1cPPTSD7iEeXLTjU9Q9ke+DyFT6rJ5Go3K/BA=="/>
         </item>
     </channel>
 </rss>
