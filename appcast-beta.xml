@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 26 Aug 2026 14:28:15 -0700</pubDate>
-            <sparkle:version>711</sparkle:version>
+            <pubDate>Thu, 27 Aug 2026 08:40:47 -0700</pubDate>
+            <sparkle:version>712</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -525,10 +525,12 @@
 </li>
 <li>Fix task list ballooning when selecting a repository by @sjungling in <a href="https://github.com/sjungling/cortina/pull/304">https://github.com/sjungling/cortina/pull/304</a>
 </li>
+<li>Add Liquid Glass effect to sidebar footer progress indicator by @sjungling in <a href="https://github.com/sjungling/cortina/pull/305">https://github.com/sjungling/cortina/pull/305</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.711">https://github.com/sjungling/cortina/commits/v1.0-beta.711</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.712">https://github.com/sjungling/cortina/commits/v1.0-beta.712</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.711/cortina-1.0-beta.711.dmg" length="18387098" type="application/octet-stream" sparkle:edSignature="bNiWjj2gjNCsFPJmX3OrsX/uVRfG6ZLrAN8I+ucA6Hhbe/fLYIwPQmgB5Ajv6AjhYdiYBPZzKUHbsJFtQHE+Dg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.712/cortina-1.0-beta.712.dmg" length="18387195" type="application/octet-stream" sparkle:edSignature="yZ0xXBWG2RD3uKEvMvKy2/r1I7raohlyr3qW7bUKtlbStC4ga7C1frBK9b/uMtTXegHCBeGamI66ggsaOLgLAQ=="/>
         </item>
     </channel>
 </rss>
