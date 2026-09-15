@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 15 Sep 2026 11:37:48 -0700</pubDate>
-            <sparkle:version>718</sparkle:version>
+            <pubDate>Tue, 15 Sep 2026 14:57:55 -0700</pubDate>
+            <sparkle:version>719</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -539,10 +539,12 @@
 </li>
 <li>Add a Quick Open palette (⌘⇧P) for jumping between active tasks by @sjungling in <a href="https://github.com/sjungling/cortina/pull/311">https://github.com/sjungling/cortina/pull/311</a>
 </li>
+<li>Add collections: multi-repository task queues by @sjungling in <a href="https://github.com/sjungling/cortina/pull/312">https://github.com/sjungling/cortina/pull/312</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.718">https://github.com/sjungling/cortina/commits/v1.0-beta.718</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.719">https://github.com/sjungling/cortina/commits/v1.0-beta.719</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.718/cortina-1.0-beta.718.dmg" length="18414275" type="application/octet-stream" sparkle:edSignature="cA4TK9jtRiS46t/Np4QX8sA6UWGpAGvs+GRHAqvRE6hdaWvV/E+9qKdcHVWiixQ4/0nJMBt5v3/QvJ7RBAXmDQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.719/cortina-1.0-beta.719.dmg" length="18546469" type="application/octet-stream" sparkle:edSignature="kQ1WP9LcrLl7RPPTnC/772FTvQunbcRudFfV54D4UCNBvanKWz0bYVjRUX5kTmD06TKXf5iGSNrSyBMKckASAw=="/>
         </item>
     </channel>
 </rss>
