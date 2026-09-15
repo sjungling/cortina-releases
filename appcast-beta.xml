@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 14 Sep 2026 16:03:54 -0700</pubDate>
-            <sparkle:version>716</sparkle:version>
+            <pubDate>Tue, 15 Sep 2026 11:02:54 -0700</pubDate>
+            <sparkle:version>717</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -535,10 +535,12 @@
 </li>
 <li>Fix vertical divider visible through the toolbar title by @sjungling in <a href="https://github.com/sjungling/cortina/pull/309">https://github.com/sjungling/cortina/pull/309</a>
 </li>
+<li>Stop the task-list divider from drawing under the toolbar (#FD26) by @sjungling in <a href="https://github.com/sjungling/cortina/pull/310">https://github.com/sjungling/cortina/pull/310</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.716">https://github.com/sjungling/cortina/commits/v1.0-beta.716</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.717">https://github.com/sjungling/cortina/commits/v1.0-beta.717</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.716/cortina-1.0-beta.716.dmg" length="18399991" type="application/octet-stream" sparkle:edSignature="RhYnTvlQEgjUx9nnQY6OlkudTG8tdYUHiphW0gn4Qk1O+KoPZ+XRIhsQC1eSaiWU7at0T/xXULJ0//FFGK9xAA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.717/cortina-1.0-beta.717.dmg" length="18401276" type="application/octet-stream" sparkle:edSignature="o8f9lJXK5/RXO2CoLaKcJgUyw7NI0PUKcrYEIgXLR17LJoaRoAzgs5IY60BdNnXjk+MlTL+gn0aFzQT2O1EEDA=="/>
         </item>
     </channel>
 </rss>
