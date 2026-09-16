@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 15 Sep 2026 14:57:55 -0700</pubDate>
-            <sparkle:version>719</sparkle:version>
+            <pubDate>Tue, 15 Sep 2026 22:55:39 -0700</pubDate>
+            <sparkle:version>720</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -541,10 +541,12 @@
 </li>
 <li>Add collections: multi-repository task queues by @sjungling in <a href="https://github.com/sjungling/cortina/pull/312">https://github.com/sjungling/cortina/pull/312</a>
 </li>
+<li>Render markdown files in the diff viewer's Rendered toggle by @sjungling in <a href="https://github.com/sjungling/cortina/pull/314">https://github.com/sjungling/cortina/pull/314</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.719">https://github.com/sjungling/cortina/commits/v1.0-beta.719</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.720">https://github.com/sjungling/cortina/commits/v1.0-beta.720</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.719/cortina-1.0-beta.719.dmg" length="18546469" type="application/octet-stream" sparkle:edSignature="kQ1WP9LcrLl7RPPTnC/772FTvQunbcRudFfV54D4UCNBvanKWz0bYVjRUX5kTmD06TKXf5iGSNrSyBMKckASAw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.720/cortina-1.0-beta.720.dmg" length="18553088" type="application/octet-stream" sparkle:edSignature="tGaiVhIZ9oUg8G3CYlW/1J9l2odg9EKPvbWnHrpLwbMfQeCgvPa2iOXJmGH6h61B67YtjoD3r7whAgK7f2K6Dw=="/>
         </item>
     </channel>
 </rss>
