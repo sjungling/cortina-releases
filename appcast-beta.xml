@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 16 Sep 2026 09:47:07 -0700</pubDate>
-            <sparkle:version>721</sparkle:version>
+            <pubDate>Wed, 16 Sep 2026 13:24:39 -0700</pubDate>
+            <sparkle:version>722</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -545,10 +545,12 @@
 </li>
 <li>Fix reconnect terminal for a task whose worktree was removed while still running by @sjungling in <a href="https://github.com/sjungling/cortina/pull/315">https://github.com/sjungling/cortina/pull/315</a>
 </li>
+<li>Start a new task in the background instead of switching tabs to it by @sjungling in <a href="https://github.com/sjungling/cortina/pull/313">https://github.com/sjungling/cortina/pull/313</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.721">https://github.com/sjungling/cortina/commits/v1.0-beta.721</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.722">https://github.com/sjungling/cortina/commits/v1.0-beta.722</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.721/cortina-1.0-beta.721.dmg" length="18553541" type="application/octet-stream" sparkle:edSignature="Mj/VuiC9GjggnRLNOlF5RnhwduadbmOs2bI0oS4IJjGefc1bgYg12DM115HZ8eYrKI5b4eXUHOTZT2Ra1FSbAg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.722/cortina-1.0-beta.722.dmg" length="18556597" type="application/octet-stream" sparkle:edSignature="+l4dmoTcooSGqIbVOVTFuCIALvLtPQOmBrsTqP0HnFNGum+oLpvkwEPKSJjnlB4BZLJZN6gVPQca6TGoCu/lDg=="/>
         </item>
     </channel>
 </rss>
