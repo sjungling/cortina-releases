@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 16 Sep 2026 13:54:37 -0700</pubDate>
-            <sparkle:version>723</sparkle:version>
+            <pubDate>Fri, 18 Sep 2026 14:55:23 -0700</pubDate>
+            <sparkle:version>724</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -549,10 +549,12 @@
 </li>
 <li>Stop auto-navigating to session stats on task completion by @sjungling in <a href="https://github.com/sjungling/cortina/pull/316">https://github.com/sjungling/cortina/pull/316</a>
 </li>
+<li>Fix diff panel file-tree jumping on arrow-key navigation by @sjungling in <a href="https://github.com/sjungling/cortina/pull/317">https://github.com/sjungling/cortina/pull/317</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.723">https://github.com/sjungling/cortina/commits/v1.0-beta.723</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.724">https://github.com/sjungling/cortina/commits/v1.0-beta.724</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.723/cortina-1.0-beta.723.dmg" length="18552233" type="application/octet-stream" sparkle:edSignature="6mvuFzo3/j5A0M3wIopyDiBaSQez1Cb1zfGi+NIIsb6Qg9ts8ZsujbsMt1i7+UJ9/1n6vlb3p3R7LRjsweEQAg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.724/cortina-1.0-beta.724.dmg" length="18555699" type="application/octet-stream" sparkle:edSignature="zidUYjL+eO4do2fbjyf+/xOBXDfCYCc7yZsqJF0mtFyJgO76kNvxQhtupcvk1t/o7q7DDFT12KVVXA7Pd2jjAQ=="/>
         </item>
     </channel>
 </rss>
