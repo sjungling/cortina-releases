@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 18 Sep 2026 14:55:23 -0700</pubDate>
-            <sparkle:version>724</sparkle:version>
+            <pubDate>Fri, 18 Sep 2026 21:37:59 -0700</pubDate>
+            <sparkle:version>725</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -551,10 +551,12 @@
 </li>
 <li>Fix diff panel file-tree jumping on arrow-key navigation by @sjungling in <a href="https://github.com/sjungling/cortina/pull/317">https://github.com/sjungling/cortina/pull/317</a>
 </li>
+<li>Fix task-launch race that could orphan or drop a background task's worktree by @sjungling in <a href="https://github.com/sjungling/cortina/pull/318">https://github.com/sjungling/cortina/pull/318</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.724">https://github.com/sjungling/cortina/commits/v1.0-beta.724</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.725">https://github.com/sjungling/cortina/commits/v1.0-beta.725</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.724/cortina-1.0-beta.724.dmg" length="18555699" type="application/octet-stream" sparkle:edSignature="zidUYjL+eO4do2fbjyf+/xOBXDfCYCc7yZsqJF0mtFyJgO76kNvxQhtupcvk1t/o7q7DDFT12KVVXA7Pd2jjAQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.725/cortina-1.0-beta.725.dmg" length="18555889" type="application/octet-stream" sparkle:edSignature="/lJ/HUfSVfsYCXGs1LyrMtQe20891wcPeXy0TMrTBMl+v2ORON8TkU9d2Jw7tDG1YYBrEXEMa7cP+6OZ8EIgBQ=="/>
         </item>
     </channel>
 </rss>
