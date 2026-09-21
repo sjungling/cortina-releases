@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 18 Sep 2026 21:37:59 -0700</pubDate>
-            <sparkle:version>725</sparkle:version>
+            <pubDate>Mon, 21 Sep 2026 12:36:39 -0700</pubDate>
+            <sparkle:version>726</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -553,10 +553,12 @@
 </li>
 <li>Fix task-launch race that could orphan or drop a background task's worktree by @sjungling in <a href="https://github.com/sjungling/cortina/pull/318">https://github.com/sjungling/cortina/pull/318</a>
 </li>
+<li>Harden task launch against a wedged tmux server and pre-existing worktree paths by @sjungling in <a href="https://github.com/sjungling/cortina/pull/319">https://github.com/sjungling/cortina/pull/319</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.725">https://github.com/sjungling/cortina/commits/v1.0-beta.725</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.726">https://github.com/sjungling/cortina/commits/v1.0-beta.726</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.725/cortina-1.0-beta.725.dmg" length="18555889" type="application/octet-stream" sparkle:edSignature="/lJ/HUfSVfsYCXGs1LyrMtQe20891wcPeXy0TMrTBMl+v2ORON8TkU9d2Jw7tDG1YYBrEXEMa7cP+6OZ8EIgBQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.726/cortina-1.0-beta.726.dmg" length="18566669" type="application/octet-stream" sparkle:edSignature="FAlhUpB6kNHWSoyJfYU0vuE8fZFApxBRycqAATSppSfIEy7UufcJSBrH1J9RJpgM+9DKjVOnzneiOvS5BB3XAQ=="/>
         </item>
     </channel>
 </rss>
