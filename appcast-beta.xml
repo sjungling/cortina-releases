@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 22 Sep 2026 10:20:48 -0700</pubDate>
-            <sparkle:version>728</sparkle:version>
+            <pubDate>Tue, 22 Sep 2026 13:36:32 -0700</pubDate>
+            <sparkle:version>729</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -559,10 +559,12 @@
 </li>
 <li>Stop task list from flipping to Completed filter on task completion by @sjungling in <a href="https://github.com/sjungling/cortina/pull/322">https://github.com/sjungling/cortina/pull/322</a>
 </li>
+<li>Show PR diff stats as a pill on the task caption line by @sjungling in <a href="https://github.com/sjungling/cortina/pull/323">https://github.com/sjungling/cortina/pull/323</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.728">https://github.com/sjungling/cortina/commits/v1.0-beta.728</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.729">https://github.com/sjungling/cortina/commits/v1.0-beta.729</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.728/cortina-1.0-beta.728.dmg" length="18570261" type="application/octet-stream" sparkle:edSignature="UBXLCVICg7+WcytxoRlI6UfpBkepq+h+16ZWnaEQ9nnxwDfg15an3NgkmDquYOz5i6A+otyOVKuE1cp0WaU9Dw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.729/cortina-1.0-beta.729.dmg" length="18580608" type="application/octet-stream" sparkle:edSignature="OftKG6bJZ2Fmq4nCAKcxShVLfTPa9tUWeh8GcWl4fjk0CceuvqEwnGw/13eOLPgGIfeobYSgDy6vBs2QkWADDA=="/>
         </item>
     </channel>
 </rss>
