@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 21 Sep 2026 13:34:51 -0700</pubDate>
-            <sparkle:version>727</sparkle:version>
+            <pubDate>Tue, 22 Sep 2026 10:20:48 -0700</pubDate>
+            <sparkle:version>728</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -557,10 +557,12 @@
 </li>
 <li>Improve reconnect failure UX: copyable output, retry, and safer status checks by @sjungling in <a href="https://github.com/sjungling/cortina/pull/320">https://github.com/sjungling/cortina/pull/320</a>
 </li>
+<li>Stop task list from flipping to Completed filter on task completion by @sjungling in <a href="https://github.com/sjungling/cortina/pull/322">https://github.com/sjungling/cortina/pull/322</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.727">https://github.com/sjungling/cortina/commits/v1.0-beta.727</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.728">https://github.com/sjungling/cortina/commits/v1.0-beta.728</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.727/cortina-1.0-beta.727.dmg" length="18571420" type="application/octet-stream" sparkle:edSignature="KziOC4yhg62qVlme+srd4HgoOukCob6ABBJ9Vg+SiNQhlAiXi+3RAQZnNRYQcAIurClO5PERjXAUj2UADZceAA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.728/cortina-1.0-beta.728.dmg" length="18570261" type="application/octet-stream" sparkle:edSignature="UBXLCVICg7+WcytxoRlI6UfpBkepq+h+16ZWnaEQ9nnxwDfg15an3NgkmDquYOz5i6A+otyOVKuE1cp0WaU9Dw=="/>
         </item>
     </channel>
 </rss>
