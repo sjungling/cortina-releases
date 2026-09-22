@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 22 Sep 2026 13:36:32 -0700</pubDate>
-            <sparkle:version>729</sparkle:version>
+            <pubDate>Tue, 22 Sep 2026 13:40:55 -0700</pubDate>
+            <sparkle:version>730</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -561,10 +561,12 @@
 </li>
 <li>Show PR diff stats as a pill on the task caption line by @sjungling in <a href="https://github.com/sjungling/cortina/pull/323">https://github.com/sjungling/cortina/pull/323</a>
 </li>
+<li>Add GitHub Tasks window: browse issues/PRs across repos, start a task in one click by @sjungling in <a href="https://github.com/sjungling/cortina/pull/321">https://github.com/sjungling/cortina/pull/321</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.729">https://github.com/sjungling/cortina/commits/v1.0-beta.729</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.730">https://github.com/sjungling/cortina/commits/v1.0-beta.730</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.729/cortina-1.0-beta.729.dmg" length="18580608" type="application/octet-stream" sparkle:edSignature="OftKG6bJZ2Fmq4nCAKcxShVLfTPa9tUWeh8GcWl4fjk0CceuvqEwnGw/13eOLPgGIfeobYSgDy6vBs2QkWADDA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.730/cortina-1.0-beta.730.dmg" length="18683173" type="application/octet-stream" sparkle:edSignature="EvAINLaYKa9HOMUzhnLilcsaT/nQ+rb/f7DDPCX7eLDEzNTHb34UypiR2KdkBCnTRO21T5l0bHlEpCU8OZr6AA=="/>
         </item>
     </channel>
 </rss>
