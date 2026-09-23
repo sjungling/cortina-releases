@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 22 Sep 2026 19:47:45 -0700</pubDate>
-            <sparkle:version>731</sparkle:version>
+            <pubDate>Wed, 23 Sep 2026 09:03:38 -0700</pubDate>
+            <sparkle:version>732</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -565,10 +565,12 @@
 </li>
 <li>Add keyboard focus routing: sidebar, task list, terminal by @sjungling in <a href="https://github.com/sjungling/cortina/pull/324">https://github.com/sjungling/cortina/pull/324</a>
 </li>
+<li>Detect Claude task attention via session registry instead of the tmux bell by @sjungling in <a href="https://github.com/sjungling/cortina/pull/325">https://github.com/sjungling/cortina/pull/325</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.731">https://github.com/sjungling/cortina/commits/v1.0-beta.731</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.732">https://github.com/sjungling/cortina/commits/v1.0-beta.732</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.731/cortina-1.0-beta.731.dmg" length="18682777" type="application/octet-stream" sparkle:edSignature="SUIllBr0Bn+SJmSmv6zH08JBOPUOhxTX+E6mbMYAYRXSE6Jtjk4DqrKMb+zUjfPzc5cR5OqlIXaeQghbd70TDQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.732/cortina-1.0-beta.732.dmg" length="18705181" type="application/octet-stream" sparkle:edSignature="WK02TX5PLLrevkgpFyw0Y9OQzy/gsLGHdHUlHAMI0vjlj83F+JvYS7AAfVTLSqlCq4iR81ZW8Mgx2yuEfp7cBw=="/>
         </item>
     </channel>
 </rss>
