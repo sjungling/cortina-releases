@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 23 Sep 2026 15:02:32 -0700</pubDate>
-            <sparkle:version>733</sparkle:version>
+            <pubDate>Wed, 23 Sep 2026 16:17:25 -0700</pubDate>
+            <sparkle:version>734</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -569,10 +569,12 @@
 </li>
 <li>Fix task terminals launching in a stale worktree directory by @sjungling in <a href="https://github.com/sjungling/cortina/pull/326">https://github.com/sjungling/cortina/pull/326</a>
 </li>
+<li>Signal task attention on the registry's <code>waiting</code>, not <code>idle</code> by @sjungling in <a href="https://github.com/sjungling/cortina/pull/330">https://github.com/sjungling/cortina/pull/330</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.733">https://github.com/sjungling/cortina/commits/v1.0-beta.733</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.734">https://github.com/sjungling/cortina/commits/v1.0-beta.734</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.733/cortina-1.0-beta.733.dmg" length="18717990" type="application/octet-stream" sparkle:edSignature="tfAzwKPJOIvird4hKug+GMGjCceuqNVkCU6RvPBubBOIK2HXycLxzngxGEOHfrFheKzMsyfdrrq0/UZCQQl/AA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.734/cortina-1.0-beta.734.dmg" length="18718237" type="application/octet-stream" sparkle:edSignature="+DDhccRNH3YZi+D5ovHCQdUtulthnUdlGdUbb0nRkge5hsXAt4o4tQ9HVNRzZbQ/lPtMCqd8v3v00FV0h7fwDg=="/>
         </item>
     </channel>
 </rss>
