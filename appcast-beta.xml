@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 23 Sep 2026 21:34:52 -0700</pubDate>
-            <sparkle:version>735</sparkle:version>
+            <pubDate>Thu, 24 Sep 2026 08:50:54 -0700</pubDate>
+            <sparkle:version>736</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -573,10 +573,12 @@
 </li>
 <li>Remote Cortina: host/guest state exchange over SSH by @sjungling in <a href="https://github.com/sjungling/cortina/pull/331">https://github.com/sjungling/cortina/pull/331</a>
 </li>
+<li>Stack selected tasks into chained pull requests by @sjungling in <a href="https://github.com/sjungling/cortina/pull/332">https://github.com/sjungling/cortina/pull/332</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.735">https://github.com/sjungling/cortina/commits/v1.0-beta.735</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.736">https://github.com/sjungling/cortina/commits/v1.0-beta.736</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.735/cortina-1.0-beta.735.dmg" length="18825308" type="application/octet-stream" sparkle:edSignature="1duIlNSaBCHeVw2o2IuPXXIP5f58M+LtPzgcs3ZYx9VBdmESg5AstnpcjgsSTscqLnjNKeVgB5bcQC87ENNpCA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.736/cortina-1.0-beta.736.dmg" length="18928543" type="application/octet-stream" sparkle:edSignature="zu60HFtFCMz9R5XySrbJdfe8AjVSzelRoljwhN66mKK/gGsUdQBk13FomJINImhGgAMVWfxj6LJcRbM2KX6rAA=="/>
         </item>
     </channel>
 </rss>
