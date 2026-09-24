@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 24 Sep 2026 11:32:22 -0700</pubDate>
-            <sparkle:version>739</sparkle:version>
+            <pubDate>Thu, 24 Sep 2026 14:35:07 -0700</pubDate>
+            <sparkle:version>740</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -581,10 +581,12 @@
 </li>
 <li>Remote Cortina: automatic reconnect, plus a protocol reference by @sjungling in <a href="https://github.com/sjungling/cortina/pull/335">https://github.com/sjungling/cortina/pull/335</a>
 </li>
+<li>Remote Cortina: create and start tasks on a guest from the host by @sjungling in <a href="https://github.com/sjungling/cortina/pull/336">https://github.com/sjungling/cortina/pull/336</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.739">https://github.com/sjungling/cortina/commits/v1.0-beta.739</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.740">https://github.com/sjungling/cortina/commits/v1.0-beta.740</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.739/cortina-1.0-beta.739.dmg" length="18986051" type="application/octet-stream" sparkle:edSignature="bPjVIQ1Re+PtW2imvlCvmvlEUZdEHmX19muWc3bIdAIKv93jzmyVjU+4j5GZ4ckQ8ksdHqouBwuatBzkk166BA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.740/cortina-1.0-beta.740.dmg" length="19018898" type="application/octet-stream" sparkle:edSignature="1ojWmNJN/77C2vZdrBYardlUR39nP1kt5WrjDnKBHhj1qPmCDr4I22Rh0OnczOWHBX28WmSC+YLJSuK0HkCvBw=="/>
         </item>
     </channel>
 </rss>
