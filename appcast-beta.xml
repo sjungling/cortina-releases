@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 24 Sep 2026 08:57:03 -0700</pubDate>
-            <sparkle:version>737</sparkle:version>
+            <pubDate>Thu, 24 Sep 2026 11:04:39 -0700</pubDate>
+            <sparkle:version>738</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -577,10 +577,12 @@
 </li>
 <li>Remote Cortina: guest grouping, task list, and ssh reliability by @sjungling in <a href="https://github.com/sjungling/cortina/pull/333">https://github.com/sjungling/cortina/pull/333</a>
 </li>
+<li>Remote Cortina: live guest terminals, DEBUG build marker, SQLite durability by @sjungling in <a href="https://github.com/sjungling/cortina/pull/334">https://github.com/sjungling/cortina/pull/334</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.737">https://github.com/sjungling/cortina/commits/v1.0-beta.737</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.738">https://github.com/sjungling/cortina/commits/v1.0-beta.738</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.737/cortina-1.0-beta.737.dmg" length="18962943" type="application/octet-stream" sparkle:edSignature="G43/VMOadIjISVSYqOWl1+b8ijMZfU0OLRZsSBn9yy62Po8T4J1sKFEW2udyunV//8jAY1ZAUuAloBabdvxADQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.738/cortina-1.0-beta.738.dmg" length="18982513" type="application/octet-stream" sparkle:edSignature="ckFBXAB0a4NErtgPUb/k25RJ5ck8ahIJAIU4gxlWnhpehkk3GJpxInsF8mnaO7VFfCiPtcrQhM4K8LSd4kRHBg=="/>
         </item>
     </channel>
 </rss>
