@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 24 Sep 2026 14:35:07 -0700</pubDate>
-            <sparkle:version>740</sparkle:version>
+            <pubDate>Thu, 24 Sep 2026 15:23:48 -0700</pubDate>
+            <sparkle:version>741</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -583,10 +583,12 @@
 </li>
 <li>Remote Cortina: create and start tasks on a guest from the host by @sjungling in <a href="https://github.com/sjungling/cortina/pull/336">https://github.com/sjungling/cortina/pull/336</a>
 </li>
+<li>fix: hide stack membership chip while a task is launching by @sjungling in <a href="https://github.com/sjungling/cortina/pull/337">https://github.com/sjungling/cortina/pull/337</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.740">https://github.com/sjungling/cortina/commits/v1.0-beta.740</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.741">https://github.com/sjungling/cortina/commits/v1.0-beta.741</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.740/cortina-1.0-beta.740.dmg" length="19018898" type="application/octet-stream" sparkle:edSignature="1ojWmNJN/77C2vZdrBYardlUR39nP1kt5WrjDnKBHhj1qPmCDr4I22Rh0OnczOWHBX28WmSC+YLJSuK0HkCvBw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.741/cortina-1.0-beta.741.dmg" length="19018109" type="application/octet-stream" sparkle:edSignature="xNepg281uq5HysOGFPKB2sPUBc4Nzcckale8sUJqFFIi5t5e1H68YC2a3h5Ku/M/pXfnZn+nN7FCmmeD0lglDg=="/>
         </item>
     </channel>
 </rss>
