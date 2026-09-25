@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 24 Sep 2026 15:23:48 -0700</pubDate>
-            <sparkle:version>741</sparkle:version>
+            <pubDate>Thu, 24 Sep 2026 22:59:26 -0700</pubDate>
+            <sparkle:version>744</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -585,10 +585,16 @@
 </li>
 <li>fix: hide stack membership chip while a task is launching by @sjungling in <a href="https://github.com/sjungling/cortina/pull/337">https://github.com/sjungling/cortina/pull/337</a>
 </li>
+<li>Remote Cortina: keep a guest's sidebar header when its link drops by @sjungling in <a href="https://github.com/sjungling/cortina/pull/338">https://github.com/sjungling/cortina/pull/338</a>
+</li>
+<li>Simplify GitHub Inspector panel: consolidate duplicated helpers by @sjungling in <a href="https://github.com/sjungling/cortina/pull/340">https://github.com/sjungling/cortina/pull/340</a>
+</li>
+<li>feat(sidebar): group repositories by machine, owner, and profile by @sjungling in <a href="https://github.com/sjungling/cortina/pull/339">https://github.com/sjungling/cortina/pull/339</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.741">https://github.com/sjungling/cortina/commits/v1.0-beta.741</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.744">https://github.com/sjungling/cortina/commits/v1.0-beta.744</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.741/cortina-1.0-beta.741.dmg" length="19018109" type="application/octet-stream" sparkle:edSignature="xNepg281uq5HysOGFPKB2sPUBc4Nzcckale8sUJqFFIi5t5e1H68YC2a3h5Ku/M/pXfnZn+nN7FCmmeD0lglDg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.744/cortina-1.0-beta.744.dmg" length="19077208" type="application/octet-stream" sparkle:edSignature="ltQ+4jtnpY9qgMYKDgsZLi5pRkfb46QVNfSE28g3zA0UNYElI9U9iE7OQ+dTm2udxZBy0LzpaqCVOT0Qqyv3CQ=="/>
         </item>
     </channel>
 </rss>
