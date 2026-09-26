@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 25 Sep 2026 10:02:01 -0700</pubDate>
-            <sparkle:version>746</sparkle:version>
+            <pubDate>Fri, 25 Sep 2026 23:34:48 -0700</pubDate>
+            <sparkle:version>754</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -595,10 +595,26 @@
 </li>
 <li>feat(remote): reach guests from the menu bar and group them in the picker by @sjungling in <a href="https://github.com/sjungling/cortina/pull/342">https://github.com/sjungling/cortina/pull/342</a>
 </li>
+<li>Replace URL routing with per-pane window state (NetNewsWire-style) by @sjungling in <a href="https://github.com/sjungling/cortina/pull/343">https://github.com/sjungling/cortina/pull/343</a>
+</li>
+<li>Keep saved tab-group ids when a restore fails to group windows by @sjungling in <a href="https://github.com/sjungling/cortina/pull/354">https://github.com/sjungling/cortina/pull/354</a>
+</li>
+<li>test(stack): replace wall-clock waits in two flaky Stack tests with signals by @sjungling in <a href="https://github.com/sjungling/cortina/pull/351">https://github.com/sjungling/cortina/pull/351</a>
+</li>
+<li>fix(windows): restored windows stack at one frame (#345) by @sjungling in <a href="https://github.com/sjungling/cortina/pull/352">https://github.com/sjungling/cortina/pull/352</a>
+</li>
+<li>Route AppleScript's task verbs through GuestDataSource (#347) by @sjungling in <a href="https://github.com/sjungling/cortina/pull/355">https://github.com/sjungling/cortina/pull/355</a>
+</li>
+<li>fix(remote): send guest→host task broadcasts via store observation by @sjungling in <a href="https://github.com/sjungling/cortina/pull/353">https://github.com/sjungling/cortina/pull/353</a>
+</li>
+<li>docs: record observation and Xcode MCP gotchas, regenerate module list by @sjungling in <a href="https://github.com/sjungling/cortina/pull/350">https://github.com/sjungling/cortina/pull/350</a>
+</li>
+<li>fix(stack): stack via gh stack link for gh-stack v0.1.1 by @sjungling in <a href="https://github.com/sjungling/cortina/pull/357">https://github.com/sjungling/cortina/pull/357</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.746">https://github.com/sjungling/cortina/commits/v1.0-beta.746</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.754">https://github.com/sjungling/cortina/commits/v1.0-beta.754</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.746/cortina-1.0-beta.746.dmg" length="19105062" type="application/octet-stream" sparkle:edSignature="M0HW6xKWIlq5lJ1sI5y0NWPF00hDEROmQW3lMgGazpRr6uFQdkKQLHvVq2aLBI25Y5h3O4TucXmtbKHqQCtBAg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.754/cortina-1.0-beta.754.dmg" length="19153860" type="application/octet-stream" sparkle:edSignature="Q2FhFSSzgl7rL4sjoWpM6r2yZ0cDE3UXa8CJ74l78qfzW1F3NIxO3XU1rtURaZl/dY8RjViBnQrURXFxHgrQCw=="/>
         </item>
     </channel>
 </rss>
