@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 25 Sep 2026 23:34:48 -0700</pubDate>
-            <sparkle:version>754</sparkle:version>
+            <pubDate>Mon, 28 Sep 2026 13:57:58 -0700</pubDate>
+            <sparkle:version>755</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -611,10 +611,12 @@
 </li>
 <li>fix(stack): stack via gh stack link for gh-stack v0.1.1 by @sjungling in <a href="https://github.com/sjungling/cortina/pull/357">https://github.com/sjungling/cortina/pull/357</a>
 </li>
+<li>Show pull-conflict icon on leading glyph; fix jump-to-task selection by @sjungling in <a href="https://github.com/sjungling/cortina/pull/358">https://github.com/sjungling/cortina/pull/358</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.754">https://github.com/sjungling/cortina/commits/v1.0-beta.754</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.755">https://github.com/sjungling/cortina/commits/v1.0-beta.755</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.754/cortina-1.0-beta.754.dmg" length="19153860" type="application/octet-stream" sparkle:edSignature="Q2FhFSSzgl7rL4sjoWpM6r2yZ0cDE3UXa8CJ74l78qfzW1F3NIxO3XU1rtURaZl/dY8RjViBnQrURXFxHgrQCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.755/cortina-1.0-beta.755.dmg" length="19155325" type="application/octet-stream" sparkle:edSignature="fTrb9OjzW7B4U/9L2TegtGXpKlhZvbvcKD52YXexV30adhmurucjYflcm03sgaFhYcg8Xl+qv23KTTFSAOfTBg=="/>
         </item>
     </channel>
 </rss>
