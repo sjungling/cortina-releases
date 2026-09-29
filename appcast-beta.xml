@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 29 Sep 2026 09:06:55 -0700</pubDate>
-            <sparkle:version>756</sparkle:version>
+            <pubDate>Tue, 29 Sep 2026 10:20:29 -0700</pubDate>
+            <sparkle:version>757</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -615,10 +615,12 @@
 </li>
 <li>Unify task-launch pipeline ownership; fix status-consistency bugs by @sjungling in <a href="https://github.com/sjungling/cortina/pull/359">https://github.com/sjungling/cortina/pull/359</a>
 </li>
+<li>Fix task-status confusion: scope pinned-task bypass to smart feeds only by @sjungling in <a href="https://github.com/sjungling/cortina/pull/361">https://github.com/sjungling/cortina/pull/361</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.756">https://github.com/sjungling/cortina/commits/v1.0-beta.756</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.757">https://github.com/sjungling/cortina/commits/v1.0-beta.757</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.756/cortina-1.0-beta.756.dmg" length="19150223" type="application/octet-stream" sparkle:edSignature="uprtp2qb2OYYaOr8/NLnPKalfj+i6+ELLbhTAqEr6mNOyek/MlvDvXz2npQMd6JtKC/7KXJrm1QDaVnZmhGuDQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.757/cortina-1.0-beta.757.dmg" length="19150272" type="application/octet-stream" sparkle:edSignature="sVnvo0/o93qQMandwE+AN/DbFTcTa6nLKlWC8384cw1SAsk3PcCzklRkk/tVb1n1EdVe8TKi84YX65F/sMeSAw=="/>
         </item>
     </channel>
 </rss>
