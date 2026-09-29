@@ -4,8 +4,8 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 29 Sep 2026 10:20:29 -0700</pubDate>
-            <sparkle:version>757</sparkle:version>
+            <pubDate>Tue, 29 Sep 2026 10:33:24 -0700</pubDate>
+            <sparkle:version>758</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
@@ -617,10 +617,12 @@
 </li>
 <li>Fix task-status confusion: scope pinned-task bypass to smart feeds only by @sjungling in <a href="https://github.com/sjungling/cortina/pull/361">https://github.com/sjungling/cortina/pull/361</a>
 </li>
+<li>Collapse guest sections by default; enlarge sidebar icons by @sjungling in <a href="https://github.com/sjungling/cortina/pull/362">https://github.com/sjungling/cortina/pull/362</a>
+</li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.757">https://github.com/sjungling/cortina/commits/v1.0-beta.757</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/commits/v1.0-beta.758">https://github.com/sjungling/cortina/commits/v1.0-beta.758</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.757/cortina-1.0-beta.757.dmg" length="19150272" type="application/octet-stream" sparkle:edSignature="sVnvo0/o93qQMandwE+AN/DbFTcTa6nLKlWC8384cw1SAsk3PcCzklRkk/tVb1n1EdVe8TKi84YX65F/sMeSAw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.758/cortina-1.0-beta.758.dmg" length="19150981" type="application/octet-stream" sparkle:edSignature="2cqxOYJU079pGqyfjw2jAaTC0JCGNEEYseaAyvYjZM2H0FsaLPaa3Q8kWZM0K+BKVgFO3kBxcJIPjVC8bOpPDw=="/>
         </item>
     </channel>
 </rss>
