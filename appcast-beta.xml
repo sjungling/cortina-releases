@@ -4,19 +4,21 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 30 Sep 2026 10:02:47 -0700</pubDate>
-            <sparkle:version>767</sparkle:version>
+            <pubDate>Wed, 30 Sep 2026 12:07:50 -0700</pubDate>
+            <sparkle:version>769</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Fix flaky Restart Harness exit: use C-c + /exit instead of blind double C-c by @sjungling in <a href="https://github.com/sjungling/cortina/pull/371">https://github.com/sjungling/cortina/pull/371</a>
+<li>Remove worktrees orphaned by a quit mid-completion by @sjungling in <a href="https://github.com/sjungling/cortina/pull/373">https://github.com/sjungling/cortina/pull/373</a>
+</li>
+<li>Fix task-lifecycle races found by TLA+ model checking by @sjungling in <a href="https://github.com/sjungling/cortina/pull/372">https://github.com/sjungling/cortina/pull/372</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.766...v1.0-beta.767">https://github.com/sjungling/cortina/compare/v1.0-beta.766...v1.0-beta.767</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.767...v1.0-beta.769">https://github.com/sjungling/cortina/compare/v1.0-beta.767...v1.0-beta.769</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.767/cortina-1.0-beta.767.dmg" length="19177861" type="application/octet-stream" sparkle:edSignature="gmw2nTrg0frbtgKY8qD+u9I4QlQ0FkVcNP2geMSxEoN+DyCy4YGsP7KtL4pCrAvbXeU6bxh+RG7NMsQOdXfHCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.769/cortina-1.0-beta.769.dmg" length="19182255" type="application/octet-stream" sparkle:edSignature="eo9oBbEiNaOIR1q1icctd/rF6K+3Snw/AJja2uktuB0n+VVrVciZ0ZsuKj1WUkEHz9gPE8WRuY9sIQKO5qlMBw=="/>
         </item>
     </channel>
 </rss>
