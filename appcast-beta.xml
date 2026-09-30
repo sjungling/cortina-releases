@@ -4,21 +4,21 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 30 Sep 2026 14:52:32 -0700</pubDate>
-            <sparkle:version>774</sparkle:version>
+            <pubDate>Wed, 30 Sep 2026 15:49:10 -0700</pubDate>
+            <sparkle:version>776</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Keep issues and PRs closed from the GitHub window hidden by @sjungling in <a href="https://github.com/sjungling/cortina/pull/379">https://github.com/sjungling/cortina/pull/379</a>
+<li>Run cleanup after a cancelled launch outside the cancellation by @sjungling in <a href="https://github.com/sjungling/cortina/pull/381">https://github.com/sjungling/cortina/pull/381</a>
 </li>
-<li>Name guest spec's local actions in TLC traces by @sjungling in <a href="https://github.com/sjungling/cortina/pull/377">https://github.com/sjungling/cortina/pull/377</a>
+<li>Document the TLA+ specs and how to use them by @sjungling in <a href="https://github.com/sjungling/cortina/pull/380">https://github.com/sjungling/cortina/pull/380</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.772...v1.0-beta.774">https://github.com/sjungling/cortina/compare/v1.0-beta.772...v1.0-beta.774</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.774...v1.0-beta.776">https://github.com/sjungling/cortina/compare/v1.0-beta.774...v1.0-beta.776</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.774/cortina-1.0-beta.774.dmg" length="19190515" type="application/octet-stream" sparkle:edSignature="OghYcwkE4YKZHMomD8JYdK/zg+NR+jc6BHpCkJRdbFRvlZRFJZo06WPeDNjMhntkNJj2WahchvqVSLbBjJQ0Aw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.776/cortina-1.0-beta.776.dmg" length="19192243" type="application/octet-stream" sparkle:edSignature="S0ioaNbh52pBxj+wlkYjG44lxTaxFy2Ab99/3gk/ONarKF7bmTMqDITgj1vR76GCjSd1dIfBfYWb3GYau4RDCg=="/>
         </item>
     </channel>
 </rss>
