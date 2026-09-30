@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 29 Sep 2026 21:50:51 -0700</pubDate>
-            <sparkle:version>764</sparkle:version>
+            <pubDate>Tue, 29 Sep 2026 22:00:27 -0700</pubDate>
+            <sparkle:version>765</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Add per-commit drill-down to the diff viewer by @sjungling in <a href="https://github.com/sjungling/cortina/pull/368">https://github.com/sjungling/cortina/pull/368</a>
+<li>Add Restart Harness action for running tasks by @sjungling in <a href="https://github.com/sjungling/cortina/pull/369">https://github.com/sjungling/cortina/pull/369</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.763...v1.0-beta.764">https://github.com/sjungling/cortina/compare/v1.0-beta.763...v1.0-beta.764</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.764...v1.0-beta.765">https://github.com/sjungling/cortina/compare/v1.0-beta.764...v1.0-beta.765</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.764/cortina-1.0-beta.764.dmg" length="19163762" type="application/octet-stream" sparkle:edSignature="8F4G6z/ivHoW1Rk1GvcHvz9+hTqa7r54jEQNBBBEFDy1waNZSKDKsTyjhqJic7ir7/LTi32zDrLGRQCnJaXiDw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.765/cortina-1.0-beta.765.dmg" length="19178478" type="application/octet-stream" sparkle:edSignature="q1owQTyEt+y2Cm8pmx9KSGJufPhtcwiMs3sANr8QaB+Qctx2S7GuQ3GPXXzgJkf38c5IQiy0QzZv3WVy13mhBg=="/>
         </item>
     </channel>
 </rss>
