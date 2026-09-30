@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 29 Sep 2026 14:18:20 -0700</pubDate>
-            <sparkle:version>763</sparkle:version>
+            <pubDate>Tue, 29 Sep 2026 21:50:51 -0700</pubDate>
+            <sparkle:version>764</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Fix nested guest section expansion by @sjungling in <a href="https://github.com/sjungling/cortina/pull/367">https://github.com/sjungling/cortina/pull/367</a>
+<li>Add per-commit drill-down to the diff viewer by @sjungling in <a href="https://github.com/sjungling/cortina/pull/368">https://github.com/sjungling/cortina/pull/368</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.762...v1.0-beta.763">https://github.com/sjungling/cortina/compare/v1.0-beta.762...v1.0-beta.763</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.763...v1.0-beta.764">https://github.com/sjungling/cortina/compare/v1.0-beta.763...v1.0-beta.764</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.763/cortina-1.0-beta.763.dmg" length="19150314" type="application/octet-stream" sparkle:edSignature="7BkUtjzq0/1LOGGOlLiuESyx1QDJvvesDYtQdvw0vIx3S/gvgzKVUQtulZjZgIXRdVwzImzFxRq70linKgASCA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.764/cortina-1.0-beta.764.dmg" length="19163762" type="application/octet-stream" sparkle:edSignature="8F4G6z/ivHoW1Rk1GvcHvz9+hTqa7r54jEQNBBBEFDy1waNZSKDKsTyjhqJic7ir7/LTi32zDrLGRQCnJaXiDw=="/>
         </item>
     </channel>
 </rss>
