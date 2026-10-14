@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 13 Oct 2026 11:51:52 -0700</pubDate>
-            <sparkle:version>779</sparkle:version>
+            <pubDate>Wed, 14 Oct 2026 13:09:14 -0700</pubDate>
+            <sparkle:version>780</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Send Obsidian notes to Cortina as tasks by @sjungling in <a href="https://github.com/sjungling/cortina/pull/384">https://github.com/sjungling/cortina/pull/384</a>
+<li>Match repositories by standardized path in AppleScript commands by @sjungling in <a href="https://github.com/sjungling/cortina/pull/388">https://github.com/sjungling/cortina/pull/388</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.778...v1.0-beta.779">https://github.com/sjungling/cortina/compare/v1.0-beta.778...v1.0-beta.779</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.779...v1.0-beta.780">https://github.com/sjungling/cortina/compare/v1.0-beta.779...v1.0-beta.780</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.779/cortina-1.0-beta.779.dmg" length="19211652" type="application/octet-stream" sparkle:edSignature="hQSeaOvpvIybY3Kzc2iwYKYK7qIycK1G4ADuZjP0hhFxfTcd34r/MVUE4XgowmObcawzV5AvyUP/SPOi1LBiDA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.780/cortina-1.0-beta.780.dmg" length="19212630" type="application/octet-stream" sparkle:edSignature="7MTC975If12+xLTNyYG4lzH+SdLwxqhMJLUX54efI3XRhSM/MLv9nTtWrF4kbb7IvEN8g3//TImSHpRIUhL6CA=="/>
         </item>
     </channel>
 </rss>
