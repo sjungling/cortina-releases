@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 17 Oct 2026 09:41:15 -0700</pubDate>
-            <sparkle:version>820</sparkle:version>
+            <pubDate>Sat, 17 Oct 2026 09:48:30 -0700</pubDate>
+            <sparkle:version>821</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Order the remote Completed list newest first by @sjungling in <a href="https://github.com/sjungling/cortina/pull/430">https://github.com/sjungling/cortina/pull/430</a>
+<li>Show the completion date on completed remote task rows by @sjungling in <a href="https://github.com/sjungling/cortina/pull/431">https://github.com/sjungling/cortina/pull/431</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.819...v1.0-beta.820">https://github.com/sjungling/cortina/compare/v1.0-beta.819...v1.0-beta.820</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.820...v1.0-beta.821">https://github.com/sjungling/cortina/compare/v1.0-beta.820...v1.0-beta.821</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.820/cortina-1.0-beta.820.dmg" length="19695158" type="application/octet-stream" sparkle:edSignature="EzT3xYP55z8K+POsm1+A2yiM0GymB2GOgVVaGvzpWkhwpg2pp2u6/7Bt6dR9XGC9KuiNbioQVj3Wpjh7Gk03Bw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.821/cortina-1.0-beta.821.dmg" length="19695757" type="application/octet-stream" sparkle:edSignature="5ww8S7iSh0bw3ZtLNsZDhFaI8JdEguc3p432J6d3l6yyIzs2MVtwTvb0ZKPBRJSkbwo+uKAmti2Ki5APV3ezAA=="/>
         </item>
     </channel>
 </rss>
