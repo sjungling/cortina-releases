@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 17 Oct 2026 10:48:36 -0700</pubDate>
-            <sparkle:version>829</sparkle:version>
+            <pubDate>Sat, 17 Oct 2026 11:34:50 -0700</pubDate>
+            <sparkle:version>830</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Send palette macros to a selected remote task by @sjungling in <a href="https://github.com/sjungling/cortina/pull/439">https://github.com/sjungling/cortina/pull/439</a>
+<li>Enforce capability gates in the Remote's request handler by @sjungling in <a href="https://github.com/sjungling/cortina/pull/440">https://github.com/sjungling/cortina/pull/440</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.828...v1.0-beta.829">https://github.com/sjungling/cortina/compare/v1.0-beta.828...v1.0-beta.829</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.829...v1.0-beta.830">https://github.com/sjungling/cortina/compare/v1.0-beta.829...v1.0-beta.830</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.829/cortina-1.0-beta.829.dmg" length="19745972" type="application/octet-stream" sparkle:edSignature="yTEQZG/ItpuyqgDZD53n4d86cnfi8c4krwFlfrYd4LgEwYLxzTlt30G3KlFPGXjqyD8VOA2go88yOjqZf966CQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.830/cortina-1.0-beta.830.dmg" length="19747859" type="application/octet-stream" sparkle:edSignature="HTri3GegliKlEEbxIDb161Zg3bZ/VnqT8kji7bAxrpU+otKMvO3sW1SMKVgJbe+syi+v1T/XXiVsYbx9mS/JAA=="/>
         </item>
     </channel>
 </rss>
