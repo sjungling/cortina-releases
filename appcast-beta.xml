@@ -4,19 +4,21 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 16 Oct 2026 21:05:56 -0700</pubDate>
-            <sparkle:version>807</sparkle:version>
+            <pubDate>Fri, 16 Oct 2026 21:19:18 -0700</pubDate>
+            <sparkle:version>809</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Use the master/detail layout for the Remotes settings pane by @sjungling in <a href="https://github.com/sjungling/cortina/pull/416">https://github.com/sjungling/cortina/pull/416</a>
+<li>Truncate long hostnames in the Remotes settings list by @sjungling in <a href="https://github.com/sjungling/cortina/pull/418">https://github.com/sjungling/cortina/pull/418</a>
+</li>
+<li>Note the preference for Xcode MCP preview rendering by @sjungling in <a href="https://github.com/sjungling/cortina/pull/417">https://github.com/sjungling/cortina/pull/417</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.806...v1.0-beta.807">https://github.com/sjungling/cortina/compare/v1.0-beta.806...v1.0-beta.807</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.807...v1.0-beta.809">https://github.com/sjungling/cortina/compare/v1.0-beta.807...v1.0-beta.809</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.807/cortina-1.0-beta.807.dmg" length="19668558" type="application/octet-stream" sparkle:edSignature="fLY2aecfNQYebnbgjmVi6Xx4k65OLl1xjlxlPGzXK/7pIHoj2pHRRqhzw3BHD/NiSHrn1ySlezawlhCepkeNAg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.809/cortina-1.0-beta.809.dmg" length="19669383" type="application/octet-stream" sparkle:edSignature="NcVXC3Ok4WX4af7ldRjAGFcW0tT8C8WVLdaRKSusPaDzoB/9SmelhKX760yOkAG4KCzoFfGagIW1q3nhnRtYDQ=="/>
         </item>
     </channel>
 </rss>
