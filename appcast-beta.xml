@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 16 Oct 2026 16:37:42 -0700</pubDate>
-            <sparkle:version>796</sparkle:version>
+            <pubDate>Fri, 16 Oct 2026 17:02:15 -0700</pubDate>
+            <sparkle:version>797</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Rename guest to remote across the app, wire protocol and database by @sjungling in <a href="https://github.com/sjungling/cortina/pull/404">https://github.com/sjungling/cortina/pull/404</a>
+<li>List local branches in the remote Switch Branch picker by @sjungling in <a href="https://github.com/sjungling/cortina/pull/406">https://github.com/sjungling/cortina/pull/406</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.795...v1.0-beta.796">https://github.com/sjungling/cortina/compare/v1.0-beta.795...v1.0-beta.796</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.796...v1.0-beta.797">https://github.com/sjungling/cortina/compare/v1.0-beta.796...v1.0-beta.797</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.796/cortina-1.0-beta.796.dmg" length="19580393" type="application/octet-stream" sparkle:edSignature="oyqDGtfB259UIDDl8L/KcpmxZgJb7d9PrE0qE6RRKRz4kfXcVP/y0hlvJ4OTt4Q1O3SxhI5jx3nJcVIn2TYrBQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.797/cortina-1.0-beta.797.dmg" length="19583025" type="application/octet-stream" sparkle:edSignature="CqpmrO339L8Ksx6cVJ/gF1Zh1wYL+NCwZevfXkUKIlIwVrvpvZDadIqmbtV3hXl93k60SbQHrKixR53lEgplBw=="/>
         </item>
     </channel>
 </rss>
