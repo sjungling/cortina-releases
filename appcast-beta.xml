@@ -4,23 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 17 Oct 2026 10:43:51 -0700</pubDate>
-            <sparkle:version>828</sparkle:version>
+            <pubDate>Sat, 17 Oct 2026 10:48:36 -0700</pubDate>
+            <sparkle:version>829</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Include remote tasks in smart feeds, counts and remote repo badges by @sjungling in <a href="https://github.com/sjungling/cortina/pull/438">https://github.com/sjungling/cortina/pull/438</a>
-</li>
-<li>Add a rename task AppleScript command by @sjungling in <a href="https://github.com/sjungling/cortina/pull/437">https://github.com/sjungling/cortina/pull/437</a>
-</li>
-<li>Add and remove repositories on a remote by @sjungling in <a href="https://github.com/sjungling/cortina/pull/436">https://github.com/sjungling/cortina/pull/436</a>
+<li>Send palette macros to a selected remote task by @sjungling in <a href="https://github.com/sjungling/cortina/pull/439">https://github.com/sjungling/cortina/pull/439</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.825...v1.0-beta.828">https://github.com/sjungling/cortina/compare/v1.0-beta.825...v1.0-beta.828</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.828...v1.0-beta.829">https://github.com/sjungling/cortina/compare/v1.0-beta.828...v1.0-beta.829</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.828/cortina-1.0-beta.828.dmg" length="19741237" type="application/octet-stream" sparkle:edSignature="X/Siz5Ju0pVoJcEtImu8uQ/x9HzEsJ1JEwf2aBobwyONq8KVgyqk8kaHTR8ubO4UXA28DNFoYXwzAFHMhzm6BA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.829/cortina-1.0-beta.829.dmg" length="19745972" type="application/octet-stream" sparkle:edSignature="yTEQZG/ItpuyqgDZD53n4d86cnfi8c4krwFlfrYd4LgEwYLxzTlt30G3KlFPGXjqyD8VOA2go88yOjqZf966CQ=="/>
         </item>
     </channel>
 </rss>
