@@ -4,19 +4,23 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 16 Oct 2026 21:43:59 -0700</pubDate>
-            <sparkle:version>812</sparkle:version>
+            <pubDate>Fri, 16 Oct 2026 21:57:54 -0700</pubDate>
+            <sparkle:version>815</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Offer abort merge and reset when a pull conflicts on a remote by @sjungling in <a href="https://github.com/sjungling/cortina/pull/421">https://github.com/sjungling/cortina/pull/421</a>
+<li>Stretch the Backends settings form to the detail column by @sjungling in <a href="https://github.com/sjungling/cortina/pull/425">https://github.com/sjungling/cortina/pull/425</a>
+</li>
+<li>Note the Xcode MCP scheme flip and project file noise by @sjungling in <a href="https://github.com/sjungling/cortina/pull/423">https://github.com/sjungling/cortina/pull/423</a>
+</li>
+<li>Bring the protocol README's version number up to date by @sjungling in <a href="https://github.com/sjungling/cortina/pull/422">https://github.com/sjungling/cortina/pull/422</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.811...v1.0-beta.812">https://github.com/sjungling/cortina/compare/v1.0-beta.811...v1.0-beta.812</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.812...v1.0-beta.815">https://github.com/sjungling/cortina/compare/v1.0-beta.812...v1.0-beta.815</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.812/cortina-1.0-beta.812.dmg" length="19680199" type="application/octet-stream" sparkle:edSignature="AE9WIBE52+5qc5J/nW9exFnwtFsG++51m2iGRf00UT8A+vAS9urdIBJJDaOskvDZBZlQqpvqAn8URYWZ1Pi6Dg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.815/cortina-1.0-beta.815.dmg" length="19679314" type="application/octet-stream" sparkle:edSignature="hJoUGACdt7b5F9fXVujoRXOuKeyKKfR3FMaci9ePOqx0N48pldwsPIO5kkB/QBMUjQjf8xLxN98fz4if2Uc4Dw=="/>
         </item>
     </channel>
 </rss>
