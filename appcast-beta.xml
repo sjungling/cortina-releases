@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 16 Oct 2026 19:25:17 -0700</pubDate>
-            <sparkle:version>804</sparkle:version>
+            <pubDate>Fri, 16 Oct 2026 19:32:23 -0700</pubDate>
+            <sparkle:version>805</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Edit an existing remote in Settings by @sjungling in <a href="https://github.com/sjungling/cortina/pull/413">https://github.com/sjungling/cortina/pull/413</a>
+<li>Add Edit Task for queued remote tasks by @sjungling in <a href="https://github.com/sjungling/cortina/pull/414">https://github.com/sjungling/cortina/pull/414</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.803...v1.0-beta.804">https://github.com/sjungling/cortina/compare/v1.0-beta.803...v1.0-beta.804</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.804...v1.0-beta.805">https://github.com/sjungling/cortina/compare/v1.0-beta.804...v1.0-beta.805</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.804/cortina-1.0-beta.804.dmg" length="19619835" type="application/octet-stream" sparkle:edSignature="prMUneZ3QlxrEIR+F4qiavh77GHlThbJrR6jjSk1oIZ37kdwEqS/7CtiKYxXlI+h1IWA9TGNSKmIvHXzhe07Cw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.805/cortina-1.0-beta.805.dmg" length="19635006" type="application/octet-stream" sparkle:edSignature="Ryrhlrd1eeF+xID3Dw9XSP5X/LG/LreNI8AaNRvtY1U2ZB2Vfb59CW1RCURZVs3GGBPYZc/rpzRsl7OnfRUpBg=="/>
         </item>
     </channel>
 </rss>
