@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 16 Oct 2026 22:16:43 -0700</pubDate>
-            <sparkle:version>817</sparkle:version>
+            <pubDate>Fri, 16 Oct 2026 22:22:49 -0700</pubDate>
+            <sparkle:version>818</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Add an In-flight / Completed filter to the remote task list by @sjungling in <a href="https://github.com/sjungling/cortina/pull/427">https://github.com/sjungling/cortina/pull/427</a>
+<li>Re-attach the terminal automatically after Resume on a remote task by @sjungling in <a href="https://github.com/sjungling/cortina/pull/428">https://github.com/sjungling/cortina/pull/428</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.816...v1.0-beta.817">https://github.com/sjungling/cortina/compare/v1.0-beta.816...v1.0-beta.817</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.817...v1.0-beta.818">https://github.com/sjungling/cortina/compare/v1.0-beta.817...v1.0-beta.818</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.817/cortina-1.0-beta.817.dmg" length="19703556" type="application/octet-stream" sparkle:edSignature="czdcVPj4oY+551Onq0Xvm36GEnYPQ88UASQDWElPTg3TDOaSjLH/gX08VTVo5CPaMCS3b5QcbNOInCYpqgBABQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.818/cortina-1.0-beta.818.dmg" length="19695984" type="application/octet-stream" sparkle:edSignature="dtCknPkFSK7pK12zNcMcwxsJBTJiZdCz+EdQyRVx+JYIaKCleJhVAP72tlsxqAY6/5qjDt3H7zsBGHdy1ewCBA=="/>
         </item>
     </channel>
 </rss>
