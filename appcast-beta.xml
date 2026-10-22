@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 22 Oct 2026 10:47:26 -0700</pubDate>
-            <sparkle:version>838</sparkle:version>
+            <pubDate>Thu, 22 Oct 2026 11:02:51 -0700</pubDate>
+            <sparkle:version>839</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Firefox extension: signed unlisted build that persists across restarts by @sjungling in <a href="https://github.com/sjungling/cortina/pull/446">https://github.com/sjungling/cortina/pull/446</a>
+<li>Sidebar: open a repository's running tasks in tabs by @sjungling in <a href="https://github.com/sjungling/cortina/pull/449">https://github.com/sjungling/cortina/pull/449</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.837...v1.0-beta.838">https://github.com/sjungling/cortina/compare/v1.0-beta.837...v1.0-beta.838</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.838...v1.0-beta.839">https://github.com/sjungling/cortina/compare/v1.0-beta.838...v1.0-beta.839</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.838/cortina-1.0-beta.838.dmg" length="19877244" type="application/octet-stream" sparkle:edSignature="iGNX7cjGoqqEImNSonkwB7+6QTCYYZfJxnbHC2/mETF9EHsNMTVrKoM9h5iLPNb1R8Ldby4tQcqCiD5o2dYlBg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.839/cortina-1.0-beta.839.dmg" length="19878200" type="application/octet-stream" sparkle:edSignature="yW62pN5kHLSUTUAGL8mna1eDfg9TQrN4bOQzfPhE1YfqksRxOhlw1KHk12AvkEJ4F1Kq5fhyn1h/nd0jeiWPBA=="/>
         </item>
     </channel>
 </rss>
