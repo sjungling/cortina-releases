@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 28 Oct 2026 10:40:40 -0700</pubDate>
-            <sparkle:version>850</sparkle:version>
+            <pubDate>Wed, 28 Oct 2026 10:55:38 -0700</pubDate>
+            <sparkle:version>851</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Mark collection tasks completed even when cleanup reports issues by @sjungling in <a href="https://github.com/sjungling/cortina/pull/460">https://github.com/sjungling/cortina/pull/460</a>
+<li>Add Sleep task state by @sjungling in <a href="https://github.com/sjungling/cortina/pull/461">https://github.com/sjungling/cortina/pull/461</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.849...v1.0-beta.850">https://github.com/sjungling/cortina/compare/v1.0-beta.849...v1.0-beta.850</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.850...v1.0-beta.851">https://github.com/sjungling/cortina/compare/v1.0-beta.850...v1.0-beta.851</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.850/cortina-1.0-beta.850.dmg" length="20496233" type="application/octet-stream" sparkle:edSignature="4vRbSrcyyBV53qanZw/9OccCUdrm4hx6ulqaxwO2eo9j/r4uqbYsraunDOcoLp670gO8/0z6J81ok/CnpoOyCQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.851/cortina-1.0-beta.851.dmg" length="20502660" type="application/octet-stream" sparkle:edSignature="EBtwtDwEe9dg2krt/asDXYVAVVYFduM7GI1sTTUdMguW51mzJ4GmqJ8VObCLzsUzLArPpJkevtUc942OPol3Bw=="/>
         </item>
     </channel>
 </rss>
