@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 27 Oct 2026 19:35:07 -0700</pubDate>
-            <sparkle:version>846</sparkle:version>
+            <pubDate>Tue, 27 Oct 2026 20:36:20 -0700</pubDate>
+            <sparkle:version>847</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Show category badge on remote task rows by @sjungling in <a href="https://github.com/sjungling/cortina/pull/456">https://github.com/sjungling/cortina/pull/456</a>
+<li>fix(terminal): update libghosttyx to 0.3.20 by @sjungling in <a href="https://github.com/sjungling/cortina/pull/457">https://github.com/sjungling/cortina/pull/457</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.845...v1.0-beta.846">https://github.com/sjungling/cortina/compare/v1.0-beta.845...v1.0-beta.846</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.846...v1.0-beta.847">https://github.com/sjungling/cortina/compare/v1.0-beta.846...v1.0-beta.847</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.846/cortina-1.0-beta.846.dmg" length="20490330" type="application/octet-stream" sparkle:edSignature="Jl9tqpGcBE2zsVusGybv0R+gnCkuTgc5R5P6G8bo2EvNf7PtePoP/+qdVEJ5DdvLPus1RRdKpBJuWaDNU4DDCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.847/cortina-1.0-beta.847.dmg" length="20490317" type="application/octet-stream" sparkle:edSignature="LwV7kruRigFzk+XcOsg+w7ufJ8nG9JwzuMpfXSqX2twSgYEYeVt5kvkP864VWj2qaoxNtCMoaPgLbyL4AQIUBw=="/>
         </item>
     </channel>
 </rss>
