@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 27 Oct 2026 11:25:39 -0700</pubDate>
-            <sparkle:version>844</sparkle:version>
+            <pubDate>Tue, 27 Oct 2026 19:01:09 -0700</pubDate>
+            <sparkle:version>845</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Sidebar: restart a stopped supervisor and center rows without a branch line by @sjungling in <a href="https://github.com/sjungling/cortina/pull/454">https://github.com/sjungling/cortina/pull/454</a>
+<li>feat: update libghosttyx to 0.3.19 (Ghostty 1.4.0) by @sjungling in <a href="https://github.com/sjungling/cortina/pull/455">https://github.com/sjungling/cortina/pull/455</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.843...v1.0-beta.844">https://github.com/sjungling/cortina/compare/v1.0-beta.843...v1.0-beta.844</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.844...v1.0-beta.845">https://github.com/sjungling/cortina/compare/v1.0-beta.844...v1.0-beta.845</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.844/cortina-1.0-beta.844.dmg" length="19899623" type="application/octet-stream" sparkle:edSignature="EeOQNgJd0cE3TEzqJTKWbA5LcbzsV9fQOcGMZ6YD8fScVJGpfyOqnwyYNxllatQBRl0EoqRCr7LX1BfrKcFVAw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.845/cortina-1.0-beta.845.dmg" length="20496626" type="application/octet-stream" sparkle:edSignature="DMFVnke9gCB/hnA72QjcRAEdD0NUrsdyI1COo3ni5twnJnHs9SwXNOz01hRsE757DoIQrjkufZfqzT7IYh4oDg=="/>
         </item>
     </channel>
 </rss>
