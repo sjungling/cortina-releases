@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 28 Oct 2026 10:55:38 -0700</pubDate>
-            <sparkle:version>851</sparkle:version>
+            <pubDate>Wed, 28 Oct 2026 11:05:11 -0700</pubDate>
+            <sparkle:version>852</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Add Sleep task state by @sjungling in <a href="https://github.com/sjungling/cortina/pull/461">https://github.com/sjungling/cortina/pull/461</a>
+<li>Make the update check frequency configurable by @sjungling in <a href="https://github.com/sjungling/cortina/pull/462">https://github.com/sjungling/cortina/pull/462</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.850...v1.0-beta.851">https://github.com/sjungling/cortina/compare/v1.0-beta.850...v1.0-beta.851</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.851...v1.0-beta.852">https://github.com/sjungling/cortina/compare/v1.0-beta.851...v1.0-beta.852</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.851/cortina-1.0-beta.851.dmg" length="20502660" type="application/octet-stream" sparkle:edSignature="EBtwtDwEe9dg2krt/asDXYVAVVYFduM7GI1sTTUdMguW51mzJ4GmqJ8VObCLzsUzLArPpJkevtUc942OPol3Bw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.852/cortina-1.0-beta.852.dmg" length="20506531" type="application/octet-stream" sparkle:edSignature="ZwBSFXZuVHW01NkQeQX+1FtE9vRE/Po1GpN8hHcxRvVvb18zMGxKQfoBX3UJ8BhkwRkn2ClhLamoeXl1dF8dCQ=="/>
         </item>
     </channel>
 </rss>
