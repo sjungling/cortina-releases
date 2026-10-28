@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 27 Oct 2026 20:36:20 -0700</pubDate>
-            <sparkle:version>847</sparkle:version>
+            <pubDate>Wed, 28 Oct 2026 09:10:57 -0700</pubDate>
+            <sparkle:version>848</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>fix(terminal): update libghosttyx to 0.3.20 by @sjungling in <a href="https://github.com/sjungling/cortina/pull/457">https://github.com/sjungling/cortina/pull/457</a>
+<li>Sidebar: disk usage breakdown in a popover by @sjungling in <a href="https://github.com/sjungling/cortina/pull/458">https://github.com/sjungling/cortina/pull/458</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.846...v1.0-beta.847">https://github.com/sjungling/cortina/compare/v1.0-beta.846...v1.0-beta.847</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.847...v1.0-beta.848">https://github.com/sjungling/cortina/compare/v1.0-beta.847...v1.0-beta.848</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.847/cortina-1.0-beta.847.dmg" length="20490317" type="application/octet-stream" sparkle:edSignature="LwV7kruRigFzk+XcOsg+w7ufJ8nG9JwzuMpfXSqX2twSgYEYeVt5kvkP864VWj2qaoxNtCMoaPgLbyL4AQIUBw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.848/cortina-1.0-beta.848.dmg" length="20495014" type="application/octet-stream" sparkle:edSignature="dXKgVKzbLtYbEz1hBSqUbOwH21HmRGvQyLVawtjrXua72TD9Rl8yeVzoe48QsXwW6rAec85LK/dVZzQNCPWbDw=="/>
         </item>
     </channel>
 </rss>
