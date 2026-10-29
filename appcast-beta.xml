@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 28 Oct 2026 13:38:38 -0700</pubDate>
-            <sparkle:version>854</sparkle:version>
+            <pubDate>Thu, 29 Oct 2026 11:51:05 -0700</pubDate>
+            <sparkle:version>855</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Fix gutter line bleeding into diff file header by @sjungling in <a href="https://github.com/sjungling/cortina/pull/464">https://github.com/sjungling/cortina/pull/464</a>
+<li>Rework Add Task sheet: machine-first picker, full Tab order, consistent search focus by @sjungling in <a href="https://github.com/sjungling/cortina/pull/465">https://github.com/sjungling/cortina/pull/465</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.853...v1.0-beta.854">https://github.com/sjungling/cortina/compare/v1.0-beta.853...v1.0-beta.854</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.854...v1.0-beta.855">https://github.com/sjungling/cortina/compare/v1.0-beta.854...v1.0-beta.855</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.854/cortina-1.0-beta.854.dmg" length="20506616" type="application/octet-stream" sparkle:edSignature="nOyWeS0TudwQ46fvsrI7d1tLElFl3CRkioyEWuIFTC+/BiI+lcbvEurM4WNgjfOOEY2oV/0xmwtBJYLf+KrdCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.855/cortina-1.0-beta.855.dmg" length="20515441" type="application/octet-stream" sparkle:edSignature="M4gZIbQadkQbFJIOsRxsYbpH2tgyCpw40lHraGCb7KtrMRzqGp3w6QbEzcmCGUmeqHysssIV1KbPJE4a8cRyDg=="/>
         </item>
     </channel>
 </rss>
