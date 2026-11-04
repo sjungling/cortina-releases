@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 03 Nov 2026 17:43:32 -0800</pubDate>
-            <sparkle:version>864</sparkle:version>
+            <pubDate>Tue, 03 Nov 2026 17:51:15 -0800</pubDate>
+            <sparkle:version>865</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Render mermaid diagrams in the markdown preview by @sjungling in <a href="https://github.com/sjungling/cortina/pull/474">https://github.com/sjungling/cortina/pull/474</a>
+<li>Make mermaid diagrams follow the hosting view's appearance by @sjungling in <a href="https://github.com/sjungling/cortina/pull/475">https://github.com/sjungling/cortina/pull/475</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.863...v1.0-beta.864">https://github.com/sjungling/cortina/compare/v1.0-beta.863...v1.0-beta.864</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.864...v1.0-beta.865">https://github.com/sjungling/cortina/compare/v1.0-beta.864...v1.0-beta.865</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.864/cortina-1.0-beta.864.dmg" length="22503204" type="application/octet-stream" sparkle:edSignature="NEl03oE0Q8oq8duTnBueFPxLv7HjUJlGy/HNKSgUiL+JkH5rMTUR1EkSqho5gpZV5djMARd91so4yRv119TLCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.865/cortina-1.0-beta.865.dmg" length="22503613" type="application/octet-stream" sparkle:edSignature="Bodq52lsB7cL4oQsWD2rgTQDN+jGrHmU4CCWvS3uDOkEM7JatiBwcSTV9bNEK3Dp3TtygHEP08Xt49JntrUSCg=="/>
         </item>
     </channel>
 </rss>
