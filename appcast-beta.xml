@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 04 Nov 2026 20:50:35 -0800</pubDate>
-            <sparkle:version>869</sparkle:version>
+            <pubDate>Thu, 05 Nov 2026 13:13:57 -0800</pubDate>
+            <sparkle:version>870</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Add AppleScript automation for queries, snapshots, Add Task sheet, remotes and terminals by @sjungling in <a href="https://github.com/sjungling/cortina/pull/479">https://github.com/sjungling/cortina/pull/479</a>
+<li>Hard-code devpod template in Coder preset by @sjungling in <a href="https://github.com/sjungling/cortina/pull/480">https://github.com/sjungling/cortina/pull/480</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.868...v1.0-beta.869">https://github.com/sjungling/cortina/compare/v1.0-beta.868...v1.0-beta.869</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.869...v1.0-beta.870">https://github.com/sjungling/cortina/compare/v1.0-beta.869...v1.0-beta.870</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.869/cortina-1.0-beta.869.dmg" length="22559668" type="application/octet-stream" sparkle:edSignature="Zc0FF8NfOHEewqsrYT6Zn4rkLgeaSbQrVhmnz4Uvml2+6cHFoDNOlIJkQQ3fButrhq3NhQMAt+GCKO8oLyyxAQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.870/cortina-1.0-beta.870.dmg" length="22559580" type="application/octet-stream" sparkle:edSignature="jrpab4Cn2c4Mjwqsn2goVScmUbPnYDnjo6ktg2ra3HrQipqqv8jLv+EPY8+1w2zhAHKOnQAJV0IiOqCNAQ1XAw=="/>
         </item>
     </channel>
 </rss>
