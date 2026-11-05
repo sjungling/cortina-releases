@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 04 Nov 2026 20:23:40 -0800</pubDate>
-            <sparkle:version>868</sparkle:version>
+            <pubDate>Wed, 04 Nov 2026 20:50:35 -0800</pubDate>
+            <sparkle:version>869</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Improve prompt editor, sidebar, task list and settings by @sjungling in <a href="https://github.com/sjungling/cortina/pull/478">https://github.com/sjungling/cortina/pull/478</a>
+<li>Add AppleScript automation for queries, snapshots, Add Task sheet, remotes and terminals by @sjungling in <a href="https://github.com/sjungling/cortina/pull/479">https://github.com/sjungling/cortina/pull/479</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.867...v1.0-beta.868">https://github.com/sjungling/cortina/compare/v1.0-beta.867...v1.0-beta.868</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.868...v1.0-beta.869">https://github.com/sjungling/cortina/compare/v1.0-beta.868...v1.0-beta.869</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.868/cortina-1.0-beta.868.dmg" length="22543610" type="application/octet-stream" sparkle:edSignature="6pQ7J46m22brjD3aw9mbpOuJh0Y/OTHwSS4yEt/SSWsTEW4c1+muJpAIcul3PbmWKP9DZ6SlYikzjQGvRPjSBQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.869/cortina-1.0-beta.869.dmg" length="22559668" type="application/octet-stream" sparkle:edSignature="Zc0FF8NfOHEewqsrYT6Zn4rkLgeaSbQrVhmnz4Uvml2+6cHFoDNOlIJkQQ3fButrhq3NhQMAt+GCKO8oLyyxAQ=="/>
         </item>
     </channel>
 </rss>
