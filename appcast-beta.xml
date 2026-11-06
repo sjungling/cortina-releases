@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 06 Nov 2026 15:25:51 -0800</pubDate>
-            <sparkle:version>882</sparkle:version>
+            <pubDate>Fri, 06 Nov 2026 15:31:16 -0800</pubDate>
+            <sparkle:version>883</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Fix stale remote task row tests and match remote label colors by @sjungling in <a href="https://github.com/sjungling/cortina/pull/492">https://github.com/sjungling/cortina/pull/492</a>
+<li>Style remote machine headers like executor rows and drop kind badges by @sjungling in <a href="https://github.com/sjungling/cortina/pull/493">https://github.com/sjungling/cortina/pull/493</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.881...v1.0-beta.882">https://github.com/sjungling/cortina/compare/v1.0-beta.881...v1.0-beta.882</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.882...v1.0-beta.883">https://github.com/sjungling/cortina/compare/v1.0-beta.882...v1.0-beta.883</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.882/cortina-1.0-beta.882.dmg" length="21681117" type="application/octet-stream" sparkle:edSignature="GrZ2GUPi5i9Od4y60hUgpF1uQjJGCtRqQi8LnLU5IBOiWOBZ8gZqAwGCJoLc493YY0oH2F+3cj3ViQ0A5Lk5AQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.883/cortina-1.0-beta.883.dmg" length="21682407" type="application/octet-stream" sparkle:edSignature="jfMR8YE/aw1No4BUvc5at1E/NO6FaQcN2PIKmNrE1fIoWJV44EPYyDtrlb0+FWb5eI4DOT0kqT1Vl4UMabs4Cg=="/>
         </item>
     </channel>
 </rss>
