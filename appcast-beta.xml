@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 06 Nov 2026 12:26:19 -0800</pubDate>
-            <sparkle:version>880</sparkle:version>
+            <pubDate>Fri, 06 Nov 2026 14:35:43 -0800</pubDate>
+            <sparkle:version>881</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Move machine workspace progress into the list by @sjungling in <a href="https://github.com/sjungling/cortina/pull/490">https://github.com/sjungling/cortina/pull/490</a>
+<li>Share a task row cell base class and steady the sidebar on launch by @sjungling in <a href="https://github.com/sjungling/cortina/pull/491">https://github.com/sjungling/cortina/pull/491</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.879...v1.0-beta.880">https://github.com/sjungling/cortina/compare/v1.0-beta.879...v1.0-beta.880</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.880...v1.0-beta.881">https://github.com/sjungling/cortina/compare/v1.0-beta.880...v1.0-beta.881</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.880/cortina-1.0-beta.880.dmg" length="21680771" type="application/octet-stream" sparkle:edSignature="SrO3AzAy0FdiKRqUQJXFUanuJv9/0pwLIA6BiTOh9ZSqnz1Ngm1GevosyThdmjUu/g3QJxTuD+5HLp/kkjVpBQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.881/cortina-1.0-beta.881.dmg" length="22527459" type="application/octet-stream" sparkle:edSignature="1Arf7hAhHChBKFqH75XTPjeYOHCU3HBTiX9C/zzer5zhSiBz7wldX0Ts1aCyKouFQnLoNqJ5dAKwZ6S1rwCoCQ=="/>
         </item>
     </channel>
 </rss>
