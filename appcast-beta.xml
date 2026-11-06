@@ -4,19 +4,21 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 05 Nov 2026 20:03:49 -0800</pubDate>
-            <sparkle:version>874</sparkle:version>
+            <pubDate>Fri, 06 Nov 2026 10:23:36 -0800</pubDate>
+            <sparkle:version>876</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Add Active Tasks window grouped by org and repo by @sjungling in <a href="https://github.com/sjungling/cortina/pull/485">https://github.com/sjungling/cortina/pull/485</a>
+<li>Tidy the sidebar cell catalog previews by @sjungling in <a href="https://github.com/sjungling/cortina/pull/487">https://github.com/sjungling/cortina/pull/487</a>
+</li>
+<li>Use native disclosure on all sidebar headers and match source-list sizing by @sjungling in <a href="https://github.com/sjungling/cortina/pull/486">https://github.com/sjungling/cortina/pull/486</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.873...v1.0-beta.874">https://github.com/sjungling/cortina/compare/v1.0-beta.873...v1.0-beta.874</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.874...v1.0-beta.876">https://github.com/sjungling/cortina/compare/v1.0-beta.874...v1.0-beta.876</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.874/cortina-1.0-beta.874.dmg" length="22601499" type="application/octet-stream" sparkle:edSignature="cU/vTv0byy6UtATh/FWxA4qD6r1RVNHoOILwNIqHaoFk+zCBTRrWWBc2IdltHVuhbdgf/xbLZMra+GDSs92kDg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.876/cortina-1.0-beta.876.dmg" length="22600269" type="application/octet-stream" sparkle:edSignature="nr2sXL5U02+QlSVgiB/dU/3JUd0khffvC1qvy3J9LBGapHD7f9aQcFcEkqZ61MeDe07QLcah8BiVT572CcJ4Aw=="/>
         </item>
     </channel>
 </rss>
