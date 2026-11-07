@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 06 Nov 2026 16:52:07 -0800</pubDate>
-            <sparkle:version>884</sparkle:version>
+            <pubDate>Fri, 06 Nov 2026 19:41:13 -0800</pubDate>
+            <sparkle:version>885</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Let built-in executor machines like Herdr be removed in Settings by @sjungling in <a href="https://github.com/sjungling/cortina/pull/494">https://github.com/sjungling/cortina/pull/494</a>
+<li>Move the Activity view into the main window as an inspector pane by @sjungling in <a href="https://github.com/sjungling/cortina/pull/495">https://github.com/sjungling/cortina/pull/495</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.883...v1.0-beta.884">https://github.com/sjungling/cortina/compare/v1.0-beta.883...v1.0-beta.884</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.884...v1.0-beta.885">https://github.com/sjungling/cortina/compare/v1.0-beta.884...v1.0-beta.885</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.884/cortina-1.0-beta.884.dmg" length="21682454" type="application/octet-stream" sparkle:edSignature="M/Q5CpwVX/HD7ITWJ8EZDD9pba+3CH99He29U5oBg/BINW1SRZg/krPw6e1KBZnsIqRb65ndMnj0AJLQTVYNCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.885/cortina-1.0-beta.885.dmg" length="21677093" type="application/octet-stream" sparkle:edSignature="/DHJ7EXnWfjnn9+MFD4X6quqteozC8XaUTpOKJbesH/vBxvlrJDD1euvkpJ3xq6R01PeLuLSGnFygvyUEzBbAQ=="/>
         </item>
     </channel>
 </rss>
