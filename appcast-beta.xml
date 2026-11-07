@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 06 Nov 2026 15:31:16 -0800</pubDate>
-            <sparkle:version>883</sparkle:version>
+            <pubDate>Fri, 06 Nov 2026 16:52:07 -0800</pubDate>
+            <sparkle:version>884</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Style remote machine headers like executor rows and drop kind badges by @sjungling in <a href="https://github.com/sjungling/cortina/pull/493">https://github.com/sjungling/cortina/pull/493</a>
+<li>Let built-in executor machines like Herdr be removed in Settings by @sjungling in <a href="https://github.com/sjungling/cortina/pull/494">https://github.com/sjungling/cortina/pull/494</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.882...v1.0-beta.883">https://github.com/sjungling/cortina/compare/v1.0-beta.882...v1.0-beta.883</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.883...v1.0-beta.884">https://github.com/sjungling/cortina/compare/v1.0-beta.883...v1.0-beta.884</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.883/cortina-1.0-beta.883.dmg" length="21682407" type="application/octet-stream" sparkle:edSignature="jfMR8YE/aw1No4BUvc5at1E/NO6FaQcN2PIKmNrE1fIoWJV44EPYyDtrlb0+FWb5eI4DOT0kqT1Vl4UMabs4Cg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.884/cortina-1.0-beta.884.dmg" length="21682454" type="application/octet-stream" sparkle:edSignature="M/Q5CpwVX/HD7ITWJ8EZDD9pba+3CH99He29U5oBg/BINW1SRZg/krPw6e1KBZnsIqRb65ndMnj0AJLQTVYNCg=="/>
         </item>
     </channel>
 </rss>
