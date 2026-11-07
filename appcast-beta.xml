@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 06 Nov 2026 19:41:13 -0800</pubDate>
-            <sparkle:version>885</sparkle:version>
+            <pubDate>Fri, 06 Nov 2026 20:24:29 -0800</pubDate>
+            <sparkle:version>886</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Move the Activity view into the main window as an inspector pane by @sjungling in <a href="https://github.com/sjungling/cortina/pull/495">https://github.com/sjungling/cortina/pull/495</a>
+<li>List running tasks in the menu bar menu by @sjungling in <a href="https://github.com/sjungling/cortina/pull/496">https://github.com/sjungling/cortina/pull/496</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.884...v1.0-beta.885">https://github.com/sjungling/cortina/compare/v1.0-beta.884...v1.0-beta.885</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.885...v1.0-beta.886">https://github.com/sjungling/cortina/compare/v1.0-beta.885...v1.0-beta.886</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.885/cortina-1.0-beta.885.dmg" length="21677093" type="application/octet-stream" sparkle:edSignature="/DHJ7EXnWfjnn9+MFD4X6quqteozC8XaUTpOKJbesH/vBxvlrJDD1euvkpJ3xq6R01PeLuLSGnFygvyUEzBbAQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.886/cortina-1.0-beta.886.dmg" length="21693913" type="application/octet-stream" sparkle:edSignature="osuRjQ6B799Yiou9qTJEw4BKgkofdJmtSlUWxfMr4kSqhrr18K+HLgJRv7KZYWjWCPEdtfoX5RN/1hCJwx/9Cg=="/>
         </item>
     </channel>
 </rss>
