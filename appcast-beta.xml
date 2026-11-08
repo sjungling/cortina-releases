@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 06 Nov 2026 21:59:06 -0800</pubDate>
-            <sparkle:version>887</sparkle:version>
+            <pubDate>Sat, 07 Nov 2026 21:12:19 -0800</pubDate>
+            <sparkle:version>888</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Add Shortcuts actions: create a task, check task status, summarize running tasks by @sjungling in <a href="https://github.com/sjungling/cortina/pull/497">https://github.com/sjungling/cortina/pull/497</a>
+<li>Add Reconnect Terminal to machine workspace context menu by @sjungling in <a href="https://github.com/sjungling/cortina/pull/498">https://github.com/sjungling/cortina/pull/498</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.886...v1.0-beta.887">https://github.com/sjungling/cortina/compare/v1.0-beta.886...v1.0-beta.887</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.887...v1.0-beta.888">https://github.com/sjungling/cortina/compare/v1.0-beta.887...v1.0-beta.888</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.887/cortina-1.0-beta.887.dmg" length="22604090" type="application/octet-stream" sparkle:edSignature="IDv86DfSatLc5jtILGBzrmPXLlXODCjDL6sT6+5r85TnSe7fFu0oq6t2eoAsRLJD/09rJsIZGhdaKIBBV/y/AA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.888/cortina-1.0-beta.888.dmg" length="22603276" type="application/octet-stream" sparkle:edSignature="EoxksS/4paDJQoKHvu/jHe1+KJE0sxQ/84wTrjTx6D4QOZs9PCqjLW6/F//K6KpclAPdmEJhttGM7ASj8UeaBg=="/>
         </item>
     </channel>
 </rss>
