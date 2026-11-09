@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 08 Nov 2026 15:58:53 -0800</pubDate>
-            <sparkle:version>890</sparkle:version>
+            <pubDate>Sun, 08 Nov 2026 16:07:35 -0800</pubDate>
+            <sparkle:version>891</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Attach tmux from $HOME so a worktree can't become the server's cwd by @sjungling in <a href="https://github.com/sjungling/cortina/pull/500">https://github.com/sjungling/cortina/pull/500</a>
+<li>Fix error -50 when cmd-clicking file paths in the terminal by @sjungling in <a href="https://github.com/sjungling/cortina/pull/501">https://github.com/sjungling/cortina/pull/501</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.889...v1.0-beta.890">https://github.com/sjungling/cortina/compare/v1.0-beta.889...v1.0-beta.890</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.890...v1.0-beta.891">https://github.com/sjungling/cortina/compare/v1.0-beta.890...v1.0-beta.891</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.890/cortina-1.0-beta.890.dmg" length="21760622" type="application/octet-stream" sparkle:edSignature="OVgsyfadTehpsXB94+u2rtewAn7lQ0Y8b/Ky9hyY/PWe6e3RuNu9ImE3oWWKpNMn6Eu/6AcAUU/vHQglF6eJDw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.891/cortina-1.0-beta.891.dmg" length="21762625" type="application/octet-stream" sparkle:edSignature="yTeoUj3JZyUNXBnlkrt1BVLzh7n8KBIEaVOfKOuF6yZ8gRCfSsNdcs8zIVg1iquFBVQGUD1MgVlQyhtnNODPBg=="/>
         </item>
     </channel>
 </rss>
