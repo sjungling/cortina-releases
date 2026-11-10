@@ -4,19 +4,21 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 09 Nov 2026 15:12:40 -0800</pubDate>
-            <sparkle:version>900</sparkle:version>
+            <pubDate>Mon, 09 Nov 2026 19:10:49 -0800</pubDate>
+            <sparkle:version>902</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Apply one convention to context menus and add an inventory by @sjungling in <a href="https://github.com/sjungling/cortina/pull/510">https://github.com/sjungling/cortina/pull/510</a>
+<li>Use NSPopover for token, skill and search popups by @sjungling in <a href="https://github.com/sjungling/cortina/pull/512">https://github.com/sjungling/cortina/pull/512</a>
+</li>
+<li>Document running Create Task from Safari by @sjungling in <a href="https://github.com/sjungling/cortina/pull/511">https://github.com/sjungling/cortina/pull/511</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.899...v1.0-beta.900">https://github.com/sjungling/cortina/compare/v1.0-beta.899...v1.0-beta.900</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.900...v1.0-beta.902">https://github.com/sjungling/cortina/compare/v1.0-beta.900...v1.0-beta.902</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.900/cortina-1.0-beta.900.dmg" length="21807919" type="application/octet-stream" sparkle:edSignature="517ZbnVb14CfpeTR2HZOSWPbf6TnWAV7gQKy7TanUuhZrZuxbs9Z0op3tyqKPJctcRfxV2zNVnFjg3o7MsYEDw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.902/cortina-1.0-beta.902.dmg" length="21807608" type="application/octet-stream" sparkle:edSignature="tqDfyw539WtbSQexaUWawJO5+bpGNaa/xRliMhcgTSnnjISbZdGOFRfSdDL0cESvHucP1j1kQbAjC9yd9cT9Cg=="/>
         </item>
     </channel>
 </rss>
