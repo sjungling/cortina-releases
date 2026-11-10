@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 10 Nov 2026 12:49:32 -0800</pubDate>
-            <sparkle:version>907</sparkle:version>
+            <pubDate>Tue, 10 Nov 2026 14:18:12 -0800</pubDate>
+            <sparkle:version>908</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Anchor token popup to the caret on TextKit 1 text views by @sjungling in <a href="https://github.com/sjungling/cortina/pull/517">https://github.com/sjungling/cortina/pull/517</a>
+<li>Keep text views on one TextKit engine; diff notes in a popover with undo by @sjungling in <a href="https://github.com/sjungling/cortina/pull/518">https://github.com/sjungling/cortina/pull/518</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.906...v1.0-beta.907">https://github.com/sjungling/cortina/compare/v1.0-beta.906...v1.0-beta.907</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.907...v1.0-beta.908">https://github.com/sjungling/cortina/compare/v1.0-beta.907...v1.0-beta.908</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.907/cortina-1.0-beta.907.dmg" length="21797858" type="application/octet-stream" sparkle:edSignature="PAf4n6BFZzNbgn5ftLe6CPowlOIi3eISJ1i3U62TxpkYgcDZKm/oYNw1+ghEon97OEmDQVGxlwwbZMZ428LpDA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.908/cortina-1.0-beta.908.dmg" length="21814339" type="application/octet-stream" sparkle:edSignature="tTVX9S+UIkcpwPaJfwjAlQla2WIfFF1x+DRFNIem3KFlBOntBOe4iKi5zoFi6PKnqciVxH7kYSgTDcELy2icDA=="/>
         </item>
     </channel>
 </rss>
