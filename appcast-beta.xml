@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 09 Nov 2026 20:14:30 -0800</pubDate>
-            <sparkle:version>903</sparkle:version>
+            <pubDate>Tue, 10 Nov 2026 08:24:47 -0800</pubDate>
+            <sparkle:version>904</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Enable undo/redo in quick template script editor by @sjungling in <a href="https://github.com/sjungling/cortina/pull/513">https://github.com/sjungling/cortina/pull/513</a>
+<li>Add Copy Prompt to machine workspace context menu by @sjungling in <a href="https://github.com/sjungling/cortina/pull/514">https://github.com/sjungling/cortina/pull/514</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.902...v1.0-beta.903">https://github.com/sjungling/cortina/compare/v1.0-beta.902...v1.0-beta.903</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.903...v1.0-beta.904">https://github.com/sjungling/cortina/compare/v1.0-beta.903...v1.0-beta.904</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.903/cortina-1.0-beta.903.dmg" length="21807093" type="application/octet-stream" sparkle:edSignature="R++oZJ+2CwHEmR/Vf3lhLOOuNBdNxfF4u8WCkx+jMmG643XuizQwtFGLAhBhHPNT3gYbk6tBb/XI5T4AVCjFBQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.904/cortina-1.0-beta.904.dmg" length="21809300" type="application/octet-stream" sparkle:edSignature="EN8B1m0QFZzxnlcIstesN9CTQf12NjnYNQnakQ00mSFK+OYypoVk1Y3WeMjqQi7psM4UMS3nMnmHgV4EAiajCQ=="/>
         </item>
     </channel>
 </rss>
