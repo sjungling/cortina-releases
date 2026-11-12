@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 10 Nov 2026 15:09:46 -0800</pubDate>
-            <sparkle:version>909</sparkle:version>
+            <pubDate>Wed, 11 Nov 2026 20:15:11 -0800</pubDate>
+            <sparkle:version>910</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Keep the stats skeleton at full pane width while loading by @sjungling in <a href="https://github.com/sjungling/cortina/pull/519">https://github.com/sjungling/cortina/pull/519</a>
+<li>Re-attach a remote task's terminal automatically after the ssh link drops by @sjungling in <a href="https://github.com/sjungling/cortina/pull/520">https://github.com/sjungling/cortina/pull/520</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.908...v1.0-beta.909">https://github.com/sjungling/cortina/compare/v1.0-beta.908...v1.0-beta.909</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.909...v1.0-beta.910">https://github.com/sjungling/cortina/compare/v1.0-beta.909...v1.0-beta.910</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.909/cortina-1.0-beta.909.dmg" length="21814319" type="application/octet-stream" sparkle:edSignature="j6TZZRj/Vdoh2eKjbiUMhl8jzfDrP2vPCFm2dumr80Q5h7tvXNq8S2KyHl9YsfYkGEFi7YlWwKlRHxNtVwatCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.910/cortina-1.0-beta.910.dmg" length="21819282" type="application/octet-stream" sparkle:edSignature="lrx6GflrtCllCrPO3MQsG55l6BNLMfERnEWevweP/H5kcd7pUQGfY/UT+ZzrFWhmbzFAWBJvgyGTNRqaUV10BA=="/>
         </item>
     </channel>
 </rss>
