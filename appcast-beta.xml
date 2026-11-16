@@ -4,19 +4,19 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 16 Nov 2026 09:11:47 -0800</pubDate>
-            <sparkle:version>912</sparkle:version>
+            <pubDate>Mon, 16 Nov 2026 11:33:45 -0800</pubDate>
+            <sparkle:version>913</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Keep long diff header paths from running under the Diff/Rendered toggle by @sjungling in <a href="https://github.com/sjungling/cortina/pull/522">https://github.com/sjungling/cortina/pull/522</a>
+<li>Replace Add Task base branch menu with a filterable branch picker by @sjungling in <a href="https://github.com/sjungling/cortina/pull/523">https://github.com/sjungling/cortina/pull/523</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.911...v1.0-beta.912">https://github.com/sjungling/cortina/compare/v1.0-beta.911...v1.0-beta.912</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.912...v1.0-beta.913">https://github.com/sjungling/cortina/compare/v1.0-beta.912...v1.0-beta.913</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.912/cortina-1.0-beta.912.dmg" length="21614092" type="application/octet-stream" sparkle:edSignature="1YySwT4WNtsLGWhNgjilyM0GGrFyXV+3m0qds2YCPp82zej1m0dWbpYXXSmAAUhTR5fRS4MW6EX4e+MvNlxTCQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.913/cortina-1.0-beta.913.dmg" length="22466828" type="application/octet-stream" sparkle:edSignature="1In1DuEtEZXfYI25+OEpnwbHQug1sloVhNnxaThH90slMpQh9U43KxgD9/TVP0Lez7w7MCSxSlRtnmrbSNdqCQ=="/>
         </item>
     </channel>
 </rss>
