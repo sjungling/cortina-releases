@@ -4,19 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 19 Nov 2026 18:29:12 -0800</pubDate>
-            <sparkle:version>920</sparkle:version>
+            <pubDate>Thu, 19 Nov 2026 21:09:28 -0800</pubDate>
+            <sparkle:version>921</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Replace NS subclasses with stock AppKit; fix stale light/dark fills by @sjungling in <a href="https://github.com/sjungling/cortina/pull/530">https://github.com/sjungling/cortina/pull/530</a>
+<li>Native AppKit pass: safer alerts, glass quick capture, macOS 27 target by @sjungling in <a href="https://github.com/sjungling/cortina/pull/531">https://github.com/sjungling/cortina/pull/531</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.919...v1.0-beta.920">https://github.com/sjungling/cortina/compare/v1.0-beta.919...v1.0-beta.920</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.920...v1.0-beta.921">https://github.com/sjungling/cortina/compare/v1.0-beta.920...v1.0-beta.921</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.920/cortina-1.0-beta.920.dmg" length="23104539" type="application/octet-stream" sparkle:edSignature="gEqpJLvi+HMY0FT6oDGaZ8KueJ+TpL9Z1MKOtHkkTIoGlcvDQ1UuHcVtW3bkhKi9Aua23ati6N9QpWi3a3JDCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.921/cortina-1.0-beta.921.dmg" length="23103055" type="application/octet-stream" sparkle:edSignature="kGEl6VEyA9E8G4kCstWRDdWcAayqaTNOmKtUTTzRA3nQoOBIBFzV0hn/pEAHuif7F0eP0uSOylKPvHH5vBvgAQ=="/>
         </item>
     </channel>
 </rss>
