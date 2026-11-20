@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 20 Nov 2026 09:55:45 -0800</pubDate>
-            <sparkle:version>922</sparkle:version>
+            <pubDate>Fri, 20 Nov 2026 12:32:48 -0800</pubDate>
+            <sparkle:version>923</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Make agent launch arguments configurable in Settings → Agents by @sjungling in <a href="https://github.com/sjungling/cortina/pull/532">https://github.com/sjungling/cortina/pull/532</a>
+<li>Remove Firefox extension by @sjungling in <a href="https://github.com/sjungling/cortina/pull/533">https://github.com/sjungling/cortina/pull/533</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.921...v1.0-beta.922">https://github.com/sjungling/cortina/compare/v1.0-beta.921...v1.0-beta.922</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.922...v1.0-beta.923">https://github.com/sjungling/cortina/compare/v1.0-beta.922...v1.0-beta.923</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.922/cortina-1.0-beta.922.dmg" length="23109392" type="application/octet-stream" sparkle:edSignature="pvzdxpENhRBvWAeXfheMvetFev6O2BkznKqbpNMTm+MfS6QnF/Tu33xWUrhzsvSHWBeTNz9AtG6MxKnkfFfhBA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.923/cortina-1.0-beta.923.dmg" length="23109023" type="application/octet-stream" sparkle:edSignature="tar1SNbxpTVPh4Juv8AQdj/p2g2gBl7iC6Chsg4iEQmkLhtbR9JBIbNBA9y5z9dRgth4rYzZSR/OztTNt2sZAA=="/>
         </item>
     </channel>
 </rss>
