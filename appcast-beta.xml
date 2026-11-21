@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 20 Nov 2026 16:21:37 -0800</pubDate>
-            <sparkle:version>928</sparkle:version>
+            <pubDate>Sat, 21 Nov 2026 14:44:11 -0800</pubDate>
+            <sparkle:version>929</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Redesign the diff drawer layout around a summary header by @sjungling in <a href="https://github.com/sjungling/cortina/pull/538">https://github.com/sjungling/cortina/pull/538</a>
+<li>Pin the sleeping task separator to a 1pt height by @sjungling in <a href="https://github.com/sjungling/cortina/pull/539">https://github.com/sjungling/cortina/pull/539</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.927...v1.0-beta.928">https://github.com/sjungling/cortina/compare/v1.0-beta.927...v1.0-beta.928</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.928...v1.0-beta.929">https://github.com/sjungling/cortina/compare/v1.0-beta.928...v1.0-beta.929</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.928/cortina-1.0-beta.928.dmg" length="23109169" type="application/octet-stream" sparkle:edSignature="EygKe0nhAZfGkSSJPqM+E6qTW1xSoI+OXB+JOZT2bfX66oSbLRhnnzHvKx62nzRh5GNePas14NpgyIY1H2T7AA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.929/cortina-1.0-beta.929.dmg" length="23118545" type="application/octet-stream" sparkle:edSignature="Ivgi5mv2sr03aJbBUsyXlo+iYBmxf1mIK3By5pD9EYWGVbxiEmeYx5FBD6d4w4oJMC29xZvqrYFO7W0Hm7LtBg=="/>
         </item>
     </channel>
 </rss>
