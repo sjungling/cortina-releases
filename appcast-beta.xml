@@ -4,20 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 22 Nov 2026 16:00:51 -0800</pubDate>
-            <sparkle:version>931</sparkle:version>
+            <pubDate>Sun, 22 Nov 2026 16:18:39 -0800</pubDate>
+            <sparkle:version>932</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Workflows: replace Push with Publish (Open PR / Merge to main) and Finish by @sjungling in <a href="https://github.com/sjungling/cortina/pull/541">https://github.com/sjungling/cortina/pull/541</a>
-</li>
-<li>Add workflow pull-and-merge by @sjungling in <a href="https://github.com/sjungling/cortina/pull/540">https://github.com/sjungling/cortina/pull/540</a>
+<li>Add a Status task card style by @sjungling in <a href="https://github.com/sjungling/cortina/pull/542">https://github.com/sjungling/cortina/pull/542</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.929...v1.0-beta.931">https://github.com/sjungling/cortina/compare/v1.0-beta.929...v1.0-beta.931</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.931...v1.0-beta.932">https://github.com/sjungling/cortina/compare/v1.0-beta.931...v1.0-beta.932</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.931/cortina-1.0-beta.931.dmg" length="23151030" type="application/octet-stream" sparkle:edSignature="yoz8FdBl6QiPQYy3PM7SW1jVOOs0BYmVYcfULRzS5zrxmO/UKWaE9R9FJyIyfRV0BP1Iklv8loak+pftPqcRCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.932/cortina-1.0-beta.932.dmg" length="23175489" type="application/octet-stream" sparkle:edSignature="WI2o4cZshVK5KPy8X/E1KIZB/bgG6emtgvAG+ebl9txOtopEY89NXlKj/wM42+h/crsX1dgQWcK0t7VSbKpqBg=="/>
         </item>
     </channel>
 </rss>
