@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 22 Nov 2026 16:18:39 -0800</pubDate>
-            <sparkle:version>932</sparkle:version>
+            <pubDate>Sun, 22 Nov 2026 18:19:17 -0800</pubDate>
+            <sparkle:version>933</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Add a Status task card style by @sjungling in <a href="https://github.com/sjungling/cortina/pull/542">https://github.com/sjungling/cortina/pull/542</a>
+<li>Calm the Status card: still Working glyph, one-line titles by @sjungling in <a href="https://github.com/sjungling/cortina/pull/543">https://github.com/sjungling/cortina/pull/543</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.931...v1.0-beta.932">https://github.com/sjungling/cortina/compare/v1.0-beta.931...v1.0-beta.932</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.932...v1.0-beta.933">https://github.com/sjungling/cortina/compare/v1.0-beta.932...v1.0-beta.933</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.932/cortina-1.0-beta.932.dmg" length="23175489" type="application/octet-stream" sparkle:edSignature="WI2o4cZshVK5KPy8X/E1KIZB/bgG6emtgvAG+ebl9txOtopEY89NXlKj/wM42+h/crsX1dgQWcK0t7VSbKpqBg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.933/cortina-1.0-beta.933.dmg" length="23175394" type="application/octet-stream" sparkle:edSignature="XnnCEZJ/KFnEUocm5Z0RjVCylgaHTuZsoCzC1lGLJ+uDao5Vw/vMDdBmZ1McQ6oR0xjGClkLxObRPlAKwoq3Aw=="/>
         </item>
     </channel>
 </rss>
