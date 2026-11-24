@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 09:08:03 -0800</pubDate>
-            <sparkle:version>936</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 09:52:45 -0800</pubDate>
+            <sparkle:version>937</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Find nearby Cortina Macs with Bonjour by @sjungling in <a href="https://github.com/sjungling/cortina/pull/546">https://github.com/sjungling/cortina/pull/546</a>
+<li>Truncate commit titles in the diff scope menu by @sjungling in <a href="https://github.com/sjungling/cortina/pull/549">https://github.com/sjungling/cortina/pull/549</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.935...v1.0-beta.936">https://github.com/sjungling/cortina/compare/v1.0-beta.935...v1.0-beta.936</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.936...v1.0-beta.937">https://github.com/sjungling/cortina/compare/v1.0-beta.936...v1.0-beta.937</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.936/cortina-1.0-beta.936.dmg" length="23272653" type="application/octet-stream" sparkle:edSignature="6iBuoUSfEOEwGIgcihYcI92qW65JnJG+IHhgdaP000eKwMxN0E7j74cihB8rzWpwoynViT2h7QFYo2TyYlX5Dw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.937/cortina-1.0-beta.937.dmg" length="23271448" type="application/octet-stream" sparkle:edSignature="90ZhTDPlbXo+5slB4ZKINrxmVvhfHAzF47ecpb5lLVIDkD3RnMR218VwyeEaim/GwXexOB97xjwQT1TYuZIXCA=="/>
         </item>
     </channel>
 </rss>
