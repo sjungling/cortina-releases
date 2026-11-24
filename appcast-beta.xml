@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 10:10:10 -0800</pubDate>
-            <sparkle:version>938</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 11:03:47 -0800</pubDate>
+            <sparkle:version>939</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Workflows: result envelopes, roles, parallel steps and flowchart canvas by @sjungling in <a href="https://github.com/sjungling/cortina/pull/548">https://github.com/sjungling/cortina/pull/548</a>
+<li>Reach remotes over Tailscale when the LAN can't by @sjungling in <a href="https://github.com/sjungling/cortina/pull/550">https://github.com/sjungling/cortina/pull/550</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.937...v1.0-beta.938">https://github.com/sjungling/cortina/compare/v1.0-beta.937...v1.0-beta.938</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.938...v1.0-beta.939">https://github.com/sjungling/cortina/compare/v1.0-beta.938...v1.0-beta.939</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.938/cortina-1.0-beta.938.dmg" length="23495519" type="application/octet-stream" sparkle:edSignature="5cl5f7cCdomdcyRkg6vtwA7cY6ZjURXuJ2a5UCAxF6ePafNH6yMnMGk3sc2fjuvze7DJ8SFmkZyTRX8yzJ9qCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.939/cortina-1.0-beta.939.dmg" length="23532193" type="application/octet-stream" sparkle:edSignature="o8DABO4eCLe+1crSg0Ea095/FJTG2jHp7ozwi7AGGUClJLwMDXgb/yRnYRipQIynmrOGHdumJmUEJsFZNYOMBA=="/>
         </item>
     </channel>
 </rss>
