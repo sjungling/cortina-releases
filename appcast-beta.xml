@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 11:34:54 -0800</pubDate>
-            <sparkle:version>941</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 12:26:43 -0800</pubDate>
+            <sparkle:version>942</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Connect a remote as soon as it's added by @sjungling in <a href="https://github.com/sjungling/cortina/pull/552">https://github.com/sjungling/cortina/pull/552</a>
+<li>Retry waiting remotes only when the network really changes by @sjungling in <a href="https://github.com/sjungling/cortina/pull/553">https://github.com/sjungling/cortina/pull/553</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.940...v1.0-beta.941">https://github.com/sjungling/cortina/compare/v1.0-beta.940...v1.0-beta.941</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.941...v1.0-beta.942">https://github.com/sjungling/cortina/compare/v1.0-beta.941...v1.0-beta.942</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.941/cortina-1.0-beta.941.dmg" length="23533926" type="application/octet-stream" sparkle:edSignature="rYI0eKgYFMM6uckPsKjy+jy5oMbarGbu5p8ZioFDWZo+1BvDTWD8g5PFjpqeVs3doMcEeWmTQnQl+Tq+NN+LBA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.942/cortina-1.0-beta.942.dmg" length="23534803" type="application/octet-stream" sparkle:edSignature="bs7KJrNwJLox3jlVmtovs9ye6DwU3ZKuBKUkPNJCC+IRlAlSUWBXIDJ9HsdvjRYYGc8Lbo2tL6JLsTj/qLMZCQ=="/>
         </item>
     </channel>
 </rss>
