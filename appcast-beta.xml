@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 23 Nov 2026 15:12:19 -0800</pubDate>
-            <sparkle:version>935</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 09:08:03 -0800</pubDate>
+            <sparkle:version>936</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Describe a workflow in plain words and get a draft by @sjungling in <a href="https://github.com/sjungling/cortina/pull/545">https://github.com/sjungling/cortina/pull/545</a>
+<li>Find nearby Cortina Macs with Bonjour by @sjungling in <a href="https://github.com/sjungling/cortina/pull/546">https://github.com/sjungling/cortina/pull/546</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.934...v1.0-beta.935">https://github.com/sjungling/cortina/compare/v1.0-beta.934...v1.0-beta.935</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.935...v1.0-beta.936">https://github.com/sjungling/cortina/compare/v1.0-beta.935...v1.0-beta.936</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.935/cortina-1.0-beta.935.dmg" length="23248891" type="application/octet-stream" sparkle:edSignature="NblDb1g8FhPLvM1wXYlRhKSye6no+310Qms9R/N9omAd6ArtutnkCcvaNQauQPrmZt2SSUlhyAfMngzaxUpqDg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.936/cortina-1.0-beta.936.dmg" length="23272653" type="application/octet-stream" sparkle:edSignature="6iBuoUSfEOEwGIgcihYcI92qW65JnJG+IHhgdaP000eKwMxN0E7j74cihB8rzWpwoynViT2h7QFYo2TyYlX5Dw=="/>
         </item>
     </channel>
 </rss>
