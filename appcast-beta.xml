@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 12:26:43 -0800</pubDate>
-            <sparkle:version>942</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 13:19:39 -0800</pubDate>
+            <sparkle:version>943</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Retry waiting remotes only when the network really changes by @sjungling in <a href="https://github.com/sjungling/cortina/pull/553">https://github.com/sjungling/cortina/pull/553</a>
+<li>Resume the agent when Reconnect Terminal finds its window gone by @sjungling in <a href="https://github.com/sjungling/cortina/pull/554">https://github.com/sjungling/cortina/pull/554</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.941...v1.0-beta.942">https://github.com/sjungling/cortina/compare/v1.0-beta.941...v1.0-beta.942</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.942...v1.0-beta.943">https://github.com/sjungling/cortina/compare/v1.0-beta.942...v1.0-beta.943</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.942/cortina-1.0-beta.942.dmg" length="23534803" type="application/octet-stream" sparkle:edSignature="bs7KJrNwJLox3jlVmtovs9ye6DwU3ZKuBKUkPNJCC+IRlAlSUWBXIDJ9HsdvjRYYGc8Lbo2tL6JLsTj/qLMZCQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.943/cortina-1.0-beta.943.dmg" length="23534909" type="application/octet-stream" sparkle:edSignature="+byFsUZzGVBz9JsWuCBZI7vcs4OTIUuuHf28m4vhmBO3uL4JIIcYBCg3nn6iwRZQcMg2151Vy5tT5C0UUsUsAw=="/>
         </item>
     </channel>
 </rss>
