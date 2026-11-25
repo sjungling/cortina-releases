@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 25 Nov 2026 12:28:44 -0800</pubDate>
-            <sparkle:version>976</sparkle:version>
+            <pubDate>Wed, 25 Nov 2026 12:48:15 -0800</pubDate>
+            <sparkle:version>977</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Fix workflow canvas zoom anchor and slow inspector on selection by @sjungling in <a href="https://github.com/sjungling/cortina/pull/588">https://github.com/sjungling/cortina/pull/588</a>
+<li>Make ⌘-scroll zoom follow the natural scrolling setting by @sjungling in <a href="https://github.com/sjungling/cortina/pull/590">https://github.com/sjungling/cortina/pull/590</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.975...v1.0-beta.976">https://github.com/sjungling/cortina/compare/v1.0-beta.975...v1.0-beta.976</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.976...v1.0-beta.977">https://github.com/sjungling/cortina/compare/v1.0-beta.976...v1.0-beta.977</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.976/cortina-1.0-beta.976.dmg" length="23632529" type="application/octet-stream" sparkle:edSignature="mXXJHesFAHDKiMCb43ygLj/xLbdcCeQ0axRohhU3G3jv7mtxNZm3CuRpU7+jivvtn7isd9Upf+VTJGBBHk6ZCw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.977/cortina-1.0-beta.977.dmg" length="23638698" type="application/octet-stream" sparkle:edSignature="QPKC3Tt728sUuqRUDYNRoabVFWDnjp1R1wz3YoerXXXBzXGPEah+b1KlZZseRlsD3zWIL9L8+h6n6Us+VZKLAg=="/>
         </item>
     </channel>
 </rss>
