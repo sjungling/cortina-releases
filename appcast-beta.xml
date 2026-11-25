@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 23:07:14 -0800</pubDate>
-            <sparkle:version>960</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 23:18:07 -0800</pubDate>
+            <sparkle:version>961</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Complete the Tasks menu and make menu titles native by @sjungling in <a href="https://github.com/sjungling/cortina/pull/573">https://github.com/sjungling/cortina/pull/573</a>
+<li>Make the iOS companion feel more native by @sjungling in <a href="https://github.com/sjungling/cortina/pull/574">https://github.com/sjungling/cortina/pull/574</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.959...v1.0-beta.960">https://github.com/sjungling/cortina/compare/v1.0-beta.959...v1.0-beta.960</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.960...v1.0-beta.961">https://github.com/sjungling/cortina/compare/v1.0-beta.960...v1.0-beta.961</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.960/cortina-1.0-beta.960.dmg" length="23574823" type="application/octet-stream" sparkle:edSignature="u1tzl4Q35n3IUVNMLwGmvfBmzX/oMWXI17zL0ugrTxic1/6zqwUkJEI0C+lFs3s0x7Vpqti6Ve/L7/hijpN5Dw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.961/cortina-1.0-beta.961.dmg" length="23575063" type="application/octet-stream" sparkle:edSignature="LxwbWXzPCJPHUyd6MEeJLvB6+TEXAynAAgf/ZhDJ4g0JIsWSV+E0UYynMr3iMec7c4f1Nd+lWHF74J56whLTCQ=="/>
         </item>
     </channel>
 </rss>
