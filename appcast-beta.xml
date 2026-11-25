@@ -4,20 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 23:35:22 -0800</pubDate>
-            <sparkle:version>964</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 23:58:53 -0800</pubDate>
+            <sparkle:version>965</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Index active tasks in Spotlight by @sjungling in <a href="https://github.com/sjungling/cortina/pull/576">https://github.com/sjungling/cortina/pull/576</a>
-</li>
-<li>Add notifications, Dock badge and Dock menu for attention by @sjungling in <a href="https://github.com/sjungling/cortina/pull/572">https://github.com/sjungling/cortina/pull/572</a>
+<li>Fix Activity row layout; localize and label new Mac UI by @sjungling in <a href="https://github.com/sjungling/cortina/pull/577">https://github.com/sjungling/cortina/pull/577</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.962...v1.0-beta.964">https://github.com/sjungling/cortina/compare/v1.0-beta.962...v1.0-beta.964</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.964...v1.0-beta.965">https://github.com/sjungling/cortina/compare/v1.0-beta.964...v1.0-beta.965</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.964/cortina-1.0-beta.964.dmg" length="23623525" type="application/octet-stream" sparkle:edSignature="Xai532e7ySI9TjKwGEEsiltE4f0OMzkwWh4ODNYenJjltUEd6qNfIV4iL/77Ovhj01rhUTHtXOG6xR1/TkaICQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.965/cortina-1.0-beta.965.dmg" length="23628362" type="application/octet-stream" sparkle:edSignature="HIy9tp2Jl5g5MDWQp0bfrnlRJE9IMgwX4YLkCN7HmxbC4lMOOUywLPPEHtrOvAZ7i12dFaZAjc+1pG38dvcOAw=="/>
         </item>
     </channel>
 </rss>
