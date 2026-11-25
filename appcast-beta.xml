@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 21:59:34 -0800</pubDate>
-            <sparkle:version>958</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 23:00:29 -0800</pubDate>
+            <sparkle:version>959</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Show the remote task context menu in smart feeds by @sjungling in <a href="https://github.com/sjungling/cortina/pull/570">https://github.com/sjungling/cortina/pull/570</a>
+<li>Retry waiting remotes when the Mac wakes by @sjungling in <a href="https://github.com/sjungling/cortina/pull/571">https://github.com/sjungling/cortina/pull/571</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.957...v1.0-beta.958">https://github.com/sjungling/cortina/compare/v1.0-beta.957...v1.0-beta.958</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.958...v1.0-beta.959">https://github.com/sjungling/cortina/compare/v1.0-beta.958...v1.0-beta.959</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.958/cortina-1.0-beta.958.dmg" length="23563287" type="application/octet-stream" sparkle:edSignature="sEXxeKd5D7I5Hed0tkLItRRQ/OER6b9a5U3ig0jKM2SnsVPaVFwC8lmchnHilgGXvA7Cluve99L5YtsxuoDMAw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.959/cortina-1.0-beta.959.dmg" length="23562480" type="application/octet-stream" sparkle:edSignature="lN24JPTbCv09cSI8x/POxVcCKvypCpS67iLKrZTOIV9ryYhC6fkI3TSXUW9G6tdO20P2GEVJho1slPa1KyryCA=="/>
         </item>
     </channel>
 </rss>
