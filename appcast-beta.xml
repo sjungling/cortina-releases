@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 25 Nov 2026 06:03:17 -0800</pubDate>
-            <sparkle:version>970</sparkle:version>
+            <pubDate>Wed, 25 Nov 2026 06:14:35 -0800</pubDate>
+            <sparkle:version>971</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Answer export compliance without a stored declaration by @sjungling in <a href="https://github.com/sjungling/cortina/pull/582">https://github.com/sjungling/cortina/pull/582</a>
+<li>Copy the export answer from the last cleared build by @sjungling in <a href="https://github.com/sjungling/cortina/pull/583">https://github.com/sjungling/cortina/pull/583</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.969...v1.0-beta.970">https://github.com/sjungling/cortina/compare/v1.0-beta.969...v1.0-beta.970</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.970...v1.0-beta.971">https://github.com/sjungling/cortina/compare/v1.0-beta.970...v1.0-beta.971</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.970/cortina-1.0-beta.970.dmg" length="23628370" type="application/octet-stream" sparkle:edSignature="oiRe13+Z7YV7Ic/2vIqgg/pBpCNEhnZ/Axy6GGdKZf6wCrxZ+ARsznvQMJadFO7p77SRhoujIa5XyxHfSsnFBg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.971/cortina-1.0-beta.971.dmg" length="23628711" type="application/octet-stream" sparkle:edSignature="/iSBFxwGIAezeyjk676dPjP9WZKSPBZVEBXnUmiC35XjGrz9laZj0kHV1M/CKImWnLiqj/Oto8MEjBl3sGLcBA=="/>
         </item>
     </channel>
 </rss>
