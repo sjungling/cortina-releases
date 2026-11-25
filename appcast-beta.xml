@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 25 Nov 2026 00:05:13 -0800</pubDate>
-            <sparkle:version>966</sparkle:version>
+            <pubDate>Wed, 25 Nov 2026 05:30:59 -0800</pubDate>
+            <sparkle:version>967</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Companion: Terminal settings and smoother scrollback by @sjungling in <a href="https://github.com/sjungling/cortina/pull/578">https://github.com/sjungling/cortina/pull/578</a>
+<li>Companion: pass export compliance automatically by @sjungling in <a href="https://github.com/sjungling/cortina/pull/579">https://github.com/sjungling/cortina/pull/579</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.965...v1.0-beta.966">https://github.com/sjungling/cortina/compare/v1.0-beta.965...v1.0-beta.966</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.966...v1.0-beta.967">https://github.com/sjungling/cortina/compare/v1.0-beta.966...v1.0-beta.967</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.966/cortina-1.0-beta.966.dmg" length="23628724" type="application/octet-stream" sparkle:edSignature="JN9BekY7QxNLTYDWRZbW0ogilAkZj4uim8brJdiVksZG8hQlqBYw38glxJgHkFbN/rFoY62cC0qm1vdbC875DA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.967/cortina-1.0-beta.967.dmg" length="23628404" type="application/octet-stream" sparkle:edSignature="r+UTA/pEzWEkCeWysnetbbdmTUlDPLqwJ52zQz/FIy4lzxKcgUgqPO0LVVB0G1123xXZxXBuwOXp3EOejXFSAg=="/>
         </item>
     </channel>
 </rss>
