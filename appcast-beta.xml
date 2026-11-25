@@ -4,20 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 20:58:46 -0800</pubDate>
-            <sparkle:version>955</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 21:04:55 -0800</pubDate>
+            <sparkle:version>956</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Fix TestFlight uploads from the self-hosted runner by @sjungling in <a href="https://github.com/sjungling/cortina/pull/566">https://github.com/sjungling/cortina/pull/566</a>
-</li>
-<li>Show a remote's Tailscale name in Machines settings by @sjungling in <a href="https://github.com/sjungling/cortina/pull/567">https://github.com/sjungling/cortina/pull/567</a>
+<li>Number companion builds by UTC time by @sjungling in <a href="https://github.com/sjungling/cortina/pull/568">https://github.com/sjungling/cortina/pull/568</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.953...v1.0-beta.955">https://github.com/sjungling/cortina/compare/v1.0-beta.953...v1.0-beta.955</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.955...v1.0-beta.956">https://github.com/sjungling/cortina/compare/v1.0-beta.955...v1.0-beta.956</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.955/cortina-1.0-beta.955.dmg" length="23556392" type="application/octet-stream" sparkle:edSignature="Zs8wZ7A4+oM68RHGH2LP9Rn2VApHavCndB/Dy10JiBHRhBP/dyl72K/Qxr6koEo3vD+w62ZMtF+e+UbGnyMFCA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.956/cortina-1.0-beta.956.dmg" length="23556318" type="application/octet-stream" sparkle:edSignature="Ky8HsoSk3oW6gMr8kGv4x0xC+701WXft/YXH0kFAolZ9aR0zREnXtuWbgCOwOUqXdO2jQi5+AEVN8ZsyF5o7Bw=="/>
         </item>
     </channel>
 </rss>
