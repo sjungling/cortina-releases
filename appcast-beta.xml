@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 16:51:10 -0800</pubDate>
-            <sparkle:version>951</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 16:58:59 -0800</pubDate>
+            <sparkle:version>952</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Cache dependency folder sizes in the disk-usage walk by @sjungling in <a href="https://github.com/sjungling/cortina/pull/562">https://github.com/sjungling/cortina/pull/562</a>
+<li>Keep the disk-usage folder cache across launches by @sjungling in <a href="https://github.com/sjungling/cortina/pull/563">https://github.com/sjungling/cortina/pull/563</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.950...v1.0-beta.951">https://github.com/sjungling/cortina/compare/v1.0-beta.950...v1.0-beta.951</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.951...v1.0-beta.952">https://github.com/sjungling/cortina/compare/v1.0-beta.951...v1.0-beta.952</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.951/cortina-1.0-beta.951.dmg" length="23546644" type="application/octet-stream" sparkle:edSignature="CkQo5p7/VLCXPFpFiJp66H5jquOy9it2wARJ2L7zscAnIBlVdulUY5M7wugESe4kWnlL0YUGnzR8LQvz3BqhBA=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.952/cortina-1.0-beta.952.dmg" length="23547349" type="application/octet-stream" sparkle:edSignature="0wLdNAUzubFQKyPBZJ19TsvzeIKulN6QfeaVk89DyfPQ3c2Jvx3kG88IAEuBWYzHA3bgsa2rge383negPbz8Bg=="/>
         </item>
     </channel>
 </rss>
