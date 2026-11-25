@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 16:18:42 -0800</pubDate>
-            <sparkle:version>949</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 16:26:49 -0800</pubDate>
+            <sparkle:version>950</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Count sleeping tasks' worktrees in disk usage by @sjungling in <a href="https://github.com/sjungling/cortina/pull/560">https://github.com/sjungling/cortina/pull/560</a>
+<li>Read stack badges during worktree refresh, not every sync by @sjungling in <a href="https://github.com/sjungling/cortina/pull/561">https://github.com/sjungling/cortina/pull/561</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.948...v1.0-beta.949">https://github.com/sjungling/cortina/compare/v1.0-beta.948...v1.0-beta.949</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.949...v1.0-beta.950">https://github.com/sjungling/cortina/compare/v1.0-beta.949...v1.0-beta.950</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.949/cortina-1.0-beta.949.dmg" length="23540872" type="application/octet-stream" sparkle:edSignature="A5h+8gBdh/moxgpT3Kt9US5uZvUYHrqIXWtgbhzblUC881Os2yEc1+SBPF7PrOZxISq9omf0Y2o06f2OYYq5Bw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.950/cortina-1.0-beta.950.dmg" length="23544403" type="application/octet-stream" sparkle:edSignature="Ei+IfPFXK0g0V4ivQuTZrugt4jqPcEQW0qV4nxnLaxZH65OPQ+BPAOftDdmZO7prPuumzfrNxvjZLESMCtJnAg=="/>
         </item>
     </channel>
 </rss>
