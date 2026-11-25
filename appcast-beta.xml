@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 24 Nov 2026 15:44:03 -0800</pubDate>
-            <sparkle:version>947</sparkle:version>
+            <pubDate>Tue, 24 Nov 2026 16:12:20 -0800</pubDate>
+            <sparkle:version>948</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Sync each window's stores once per store change by @sjungling in <a href="https://github.com/sjungling/cortina/pull/558">https://github.com/sjungling/cortina/pull/558</a>
+<li>Build task titles without counting the whole prompt by @sjungling in <a href="https://github.com/sjungling/cortina/pull/559">https://github.com/sjungling/cortina/pull/559</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.946...v1.0-beta.947">https://github.com/sjungling/cortina/compare/v1.0-beta.946...v1.0-beta.947</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.947...v1.0-beta.948">https://github.com/sjungling/cortina/compare/v1.0-beta.947...v1.0-beta.948</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.947/cortina-1.0-beta.947.dmg" length="23541453" type="application/octet-stream" sparkle:edSignature="csjZ2yr3XF5+Gkl3E7gNRbpgyXN4ojs3biYAJ61h/ImK2RgmeRCg6doWwGGdbczvmALbTvGQ4n8mtA19r/yRCg=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.948/cortina-1.0-beta.948.dmg" length="23540852" type="application/octet-stream" sparkle:edSignature="mAwGVxiQ3Bk1lUW5hFLb3e4ZEajwN67dRcJMgZihYcfD2rYSy4uTetG5mepS//GFQnR956fIhi0lxlZRZ2lFDw=="/>
         </item>
     </channel>
 </rss>
