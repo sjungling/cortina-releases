@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 25 Nov 2026 16:50:44 -0800</pubDate>
-            <sparkle:version>980</sparkle:version>
+            <pubDate>Wed, 25 Nov 2026 17:53:22 -0800</pubDate>
+            <sparkle:version>981</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Sidebar footer: CPU and memory for Cortina and tasks, with runaway warnings by @sjungling in <a href="https://github.com/sjungling/cortina/pull/592">https://github.com/sjungling/cortina/pull/592</a>
+<li>Fix sidebar status bar clipping and sleeping-task Details alignment by @sjungling in <a href="https://github.com/sjungling/cortina/pull/593">https://github.com/sjungling/cortina/pull/593</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.979...v1.0-beta.980">https://github.com/sjungling/cortina/compare/v1.0-beta.979...v1.0-beta.980</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.980...v1.0-beta.981">https://github.com/sjungling/cortina/compare/v1.0-beta.980...v1.0-beta.981</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.980/cortina-1.0-beta.980.dmg" length="23778329" type="application/octet-stream" sparkle:edSignature="ncfSEIrd5ZH45kY4qumcRBaUEzLXeSJXVQwBUjli07HY/SFI3P9OkeCi2BGKE7SCyojNgSEq09B7uDgCMACACw=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.981/cortina-1.0-beta.981.dmg" length="23779123" type="application/octet-stream" sparkle:edSignature="urLTA0tUDw169FIOwjoa5N+14rPP8jf0kKmswQllE99ZSm9ydsDIhxNr9DQyloqj48Hn9qpWt+rldytY3TSNAA=="/>
         </item>
     </channel>
 </rss>
