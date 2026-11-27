@@ -4,18 +4,18 @@
         <title>cortina</title>
         <item>
             <title>1.0</title>
-            <pubDate>Fri, 27 Nov 2026 09:58:26 -0800</pubDate>
-            <sparkle:version>982</sparkle:version>
+            <pubDate>Fri, 27 Nov 2026 11:10:01 -0800</pubDate>
+            <sparkle:version>983</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div class="markdown-heading"><h2 class="heading-element">What's Changed</h2><a id="user-content-whats-changed" class="anchor" aria-label="Permalink: What's Changed" href="#whats-changed"><span aria-hidden="true" class="octicon octicon-link"></span></a></div>
 <ul>
-<li>Activity inspector: native-style menu, hover chevron, filter button by @sjungling in <a href="https://github.com/sjungling/cortina/pull/594">https://github.com/sjungling/cortina/pull/594</a>
+<li>Spike: live per-task cost and permission waits from Claude OpenTelemetry by @sjungling in <a href="https://github.com/sjungling/cortina/pull/595">https://github.com/sjungling/cortina/pull/595</a>
 </li>
 </ul>
-<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.981...v1.0-beta.982">https://github.com/sjungling/cortina/compare/v1.0-beta.981...v1.0-beta.982</a></p>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/sjungling/cortina/compare/v1.0-beta.982...v1.0-beta.983">https://github.com/sjungling/cortina/compare/v1.0-beta.982...v1.0-beta.983</a></p>
 ]]></description>
-            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.982/cortina-1.0-beta.982.dmg" length="23777415" type="application/octet-stream" sparkle:edSignature="PkkcrhqOS5McbBlkjQ5ejdWvtUcW7M71cVmF+P6QxT3aOygYSw0q+M/7qV+pYfjAeBDf7aN1XCRiglU+RRb1DQ=="/>
+            <enclosure url="https://github.com/sjungling/cortina-releases/releases/download/v1.0-beta.983/cortina-1.0-beta.983.dmg" length="23786210" type="application/octet-stream" sparkle:edSignature="4D2s73wQBFcSI9MTEWwuKZFr7HxsmLVgDVjP0uGbb/3s2t8ExW4knlg/iuaW59rolE9u8tn8famXPvteftvNDg=="/>
         </item>
     </channel>
 </rss>
